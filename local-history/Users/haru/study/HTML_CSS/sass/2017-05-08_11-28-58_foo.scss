@@ -1,0 +1,43 @@
+%cateLabel{
+  display: inline-block;
+  padding: 10px 25px;
+  border-radius: 5px;
+  text-decoration: none;
+  color: white;
+  &.orange{
+    background-color: orange;
+  }
+  &.apple{
+    background-color: red;
+  }
+  &.banana{
+    background-color: yellow;
+    color: #333;
+  }
+  &.melon{
+    background-color: green;
+  }
+}
+
+header ul,
+ul.fruitList{
+  list-style: none;
+  li{
+    margin: 0 0 10px;
+    a{
+      @extend %cateLabel;
+    }
+  }
+}
+
+p.category{
+  margin-bottom: 1.5em;
+  a{
+    @extend %cateLabel;
+  }
+}
+
+html > /**/ body p{
+  margin: 100px;
+}
+

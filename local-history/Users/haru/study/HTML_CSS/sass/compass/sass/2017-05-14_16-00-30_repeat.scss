@@ -1,0 +1,9 @@
+@import "compass";
+
+$icon-layout: horizontal;
+$icon-sprite-demensions: true;
+$spriteMap: sprite-map("../images/map/icon/*.png");
+
+.item{
+  width: image-width(sprite-file($spriteMap top)  );
+}

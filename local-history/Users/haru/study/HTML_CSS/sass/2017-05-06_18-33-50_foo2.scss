@@ -1,0 +1,10 @@
+
+$v: 500;
+
+@function debugTest(){
+  @debug: $v;
+}
+
+.foo{
+  width: debugTest();
+}

@@ -1,0 +1,39 @@
+$prefixes: -webkit-, -moz-, -ms-, -o-, null;
+
+@mixin smahoArrow($color: #333){
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: 15px;
+  width: 10px;
+  height: 10px;
+  margin-top: -7px;
+  border-bottom: 3px solid $color;
+  border-right: 3px solid $color;
+  @each $item in $prefixes {
+    #{$item}transform: rotate(45deg);
+  }
+
+}
+
+ul.linkList{
+  margin: 20px;
+  background-color: #00f; opacity: 0.5;
+  li{
+    list-style: none;
+    margin: 0 0 1px;
+    a{
+      position: relative;
+      display: block;
+      padding: 15px{
+        right: 27px;
+      }
+      background: #eee;
+      color: #333;
+      text-decoration: none;
+      @include smahoArrow();
+    }
+  }
+
+
+}

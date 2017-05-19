@@ -1,0 +1,12 @@
+
+$v: 500;
+@function halfSize($v: 105px){
+  @return round($v / 2);
+  }
+
+.foo{
+  width: halfSize();
+}
+.bar{
+  width: halfSize(3px);
+}

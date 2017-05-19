@@ -1,0 +1,7 @@
+@import "compass";
+@import "compass/layout";
+@import "compass/reset";
+
+.fruitList {
+  @include pretty-bullets('cube.jpg', 10px, 10px, 10px, 10px);
+}

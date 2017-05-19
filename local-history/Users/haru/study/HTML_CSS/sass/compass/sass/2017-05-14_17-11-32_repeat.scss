@@ -1,0 +1,123 @@
+$red: #cf2d3a;
+@mixin kadomaru2($v){
+  -webkit-border-radius: $v;
+  -moz-border-radius: $v;
+  border-radius: $v;
+}
+
+
+%btnBase{
+  text-align: center;
+  background-color: #f0f; opacity: 0.5;
+}
+
+body{
+  background: lighten(#156, 30%);
+}
+
+
+.item{
+  @extend .box;
+  @extend %kadomaru;
+  width: 100px / 80;
+  color: #666 + #eee;
+  @extend %btnBase;
+  .fruitList &{
+  }
+  a{
+    color: $red;
+    background-color: #00f; opacity: 0.5;
+    display: block;
+  }
+  transform: rotate(45deg);
+  &:hover{
+    transform: rotate(360deg);
+    transition: transform 0.5s ease-in;
+  }
+  @include kadomaru2(50px);
+}
+
+
+a{
+  background-color: #0ff; opacity: 0.5;
+  &:hover{
+    background-color: #0f0; opacity: 0.5;
+  }
+}
+
+a::after{
+  content: '今日は' + '寒いです';
+  font-family: "", sans-serif;
+}
+
+.box{
+  width: 100px; height: 100px;
+  @extend .item;
+  width: 300px;
+  @media screen and (orientation: landscape){
+    width: 500px;
+  }
+  @extend %kadomaru;
+  $margin: -5px;
+  margin-left: abs($margin);
+  @extend %btnBase;
+  background-color: #ff0; opacity: 0.5;
+  margin:{
+    top: 5px;
+    bottom: 15px;
+  }
+  border: 1px solid #999{
+    top-color: #a99;
+    bottom: 0;
+  }
+  @include kadomaru2(30px);
+}
+
+$name: item;
+$attr: border;
+
+ul .#{$name}{
+  #{$attr}-color: blue;
+}
+
+$radius: 10px;
+
+%kadomaru{
+  $radius: 5px !default;
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  border-radius: $radius;
+}
+
+$isGeneralEnabled: true;
+
+@if $isGeneralEnabled{
+  .item{
+    float: left;
+  }
+  .box{
+    float: right;
+  }
+}
+
+@for $v from 0 through 100{
+  .for#{$v} {
+    margin-bottom: 1px * $v;
+  }
+}
+
+
+$v: 100;
+@while $v > 0 {
+  .mb#{$v} {
+  margin-bottom: 10 * $v + px;
+  } $v: $v - 1;
+}
+
+$nameList: top, about;
+
+@each $item in $nameList {
+  .body-#{$item} {
+    background: url("../img/bg_#{$item}.png");
+  }
+}

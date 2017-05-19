@@ -1,0 +1,27 @@
+/*グローバルナビゲーション*/
+header.global nav{
+  margin: 0 0 50px;
+  ul{
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    li{
+      list-style: none;
+      float: left;
+      width: 160px;
+      a{
+        display: block;
+        height: 50px;
+        width: 100px;
+        text-indent: 100%;
+        white-space: nowrap;
+        overflow: hidden;
+        background: url(./img/nav.jpg) no-repeat left top;
+        &:hover{
+          background-position: 0 -50px;
+        }
+      }
+    }
+  }
+}
+

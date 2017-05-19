@@ -1,0 +1,9 @@
+$height: false;
+
+.item{
+  width: 500px;
+  @if $heigh{
+    background-color: #00f; opacity: 0.5;
+    height: $height;
+  }
+}

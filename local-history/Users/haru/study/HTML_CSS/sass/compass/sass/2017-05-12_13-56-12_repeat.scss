@@ -1,0 +1,12 @@
+@import "compass";
+@import "compass/layout";
+@import "compass/reset";
+
+$base-font-size: 16px;
+$base-line-height: 24px;
+
+.item {
+  background-image: image-url('cube.jpg');
+  width: image-width('../images/cube.jpg');
+  height: image-height('../images/cube.jpg');
+}

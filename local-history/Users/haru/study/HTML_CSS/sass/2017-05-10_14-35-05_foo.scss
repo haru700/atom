@@ -1,0 +1,8 @@
+@mixin linear-gradient($color:#f00, $way:top, $percent:20%){
+  background-color: $color;
+  background-image: linear-gradient($way, $color, 0%, lighten($color, $percent) 100%);
+}
+
+.nav-item{
+  @include linear-gradient();
+}

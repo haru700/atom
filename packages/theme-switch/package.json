@@ -1,0 +1,70 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117414-11635-14fhkbz.7ahjoo5hfr/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117414-11635-14fhkbz.7ahjoo5hfr/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117414-11635-14fhkbz.7ahjoo5hfr/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-117414-11635-w86d4t.icpeklnmi"
+    ]
+  ],
+  "_from": "../d-117414-11635-14fhkbz.7ahjoo5hfr/package.tgz",
+  "_id": "theme-switch@0.4.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/theme-switch",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117414-11635-14fhkbz.7ahjoo5hfr/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117414-11635-14fhkbz.7ahjoo5hfr/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117414-11635-14fhkbz.7ahjoo5hfr/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117414-11635-14fhkbz.7ahjoo5hfr/package.tgz",
+  "_shasum": "9bb8922fde9ecf4ae93c39439f765b355b3da742",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117414-11635-14fhkbz.7ahjoo5hfr/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-117414-11635-w86d4t.icpeklnmi",
+  "activationCommands": {
+    "atom-workspace": [
+      "theme-switch:next",
+      "theme-switch:prev",
+      "theme-switch:next-dark",
+      "theme-switch:prev-dark",
+      "theme-switch:next-light",
+      "theme-switch:prev-light"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/t9md/atom-theme-switch/issues"
+  },
+  "dependencies": {},
+  "description": "Switch theme quckly",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "homepage": "https://github.com/t9md/atom-theme-switch#readme",
+  "license": "MIT",
+  "main": "./lib/main",
+  "name": "theme-switch",
+  "optionalDependencies": {},
+  "readme": "# theme-switch\n\nSwitch theme(ui and syntax).\n\n![gif](https://raw.githubusercontent.com/t9md/t9md/2391f495870160c16ee560e0ee5dc913f0df74d4/img/atom-theme-switch.gif)\n\n# Features\n\n* Switch to next or previous theme within defined set of ui and syntax pair.\n* Provide three kind of theme set store(All, Dark, Light).\n\n# Commands\n\nUse following command to change theme.\n\n* `theme-switch-next`: Change to next theme in `profiles`\n* `theme-switch-prev`: Change to previous theme in `profiles`\n* `theme-switch-next-dark`: Change to next theme in `darkProfiles`\n* `theme-switch-prev-dark`: Change to previous theme in `darkProfiles`\n* `theme-switch-next-light`: Change to next theme in `lightProfiles`\n* `theme-switch-prev-light`: Change to previous theme in `lightProfiles`\n\nNo keymap by default.  \nKeymap example is here.\n```coffeescript\n'atom-workspace:not([mini])':\n  'cmd-shift-up': 'theme-switch:prev'\n  'cmd-shift-down': 'theme-switch:next'\n```\n\n# Configuration\n\nConfigure theme set(=profile) directly in your `config.cson` or via setting UI.  \nIf you are not sure for exact name of ui and syntax name.\nCheck `atom.config.get('core.theme')` in Chrome DevTools.\n\ne.g.\n\n```coffeescript\n\"theme-switch\":\n  profiles: [\n    \"atom-dark-ui spacegray-dark-syntax\"\n    \"atom-dark-ui atom-dark-syntax\"\n    \"atom-light-ui atom-light-syntax\"\n  ],\n  darkProfiles: [\n    \"atom-dark-ui atom-dark-syntax\"\n    \"one-dark-ui one-dark-syntax\"\n  ],\n  lightProfiles: [\n    \"atom-light-ui atom-light-syntax\"\n    \"one-light-ui one-light-syntax\"\n  ]\n```\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t9md/atom-theme-switch.git"
+  },
+  "version": "0.4.0"
+}

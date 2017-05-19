@@ -1,0 +1,10 @@
+// 汎用的なclassをどつかうかどうか
+$getStyle: 0;
+
+@if $getStyle == 1{
+  background-color: #ff0; opacity: 0.5;
+} @else if $getStyle == 2{
+  background-color: #0f0; opacity: 0.5;
+} @else {
+  background-color: #f0f; opacity: 0.5;
+}

@@ -1,0 +1,9 @@
+
+%kadomaru{
+  $radius: 5px;
+  border-radius: $radius solid #ff0;
+}
+
+.item{
+  @extend %kadomaru;
+}

@@ -1,0 +1,19 @@
+
+.item{
+  width: 50px;
+  @include portrait{
+    width: 100%;
+  }
+  @include landscape{
+    width: 25%;
+  }
+
+  .image{
+    @include portrait{
+      width: 150px;
+    }
+    @include landscape{
+      float: left;
+    }
+  }
+}

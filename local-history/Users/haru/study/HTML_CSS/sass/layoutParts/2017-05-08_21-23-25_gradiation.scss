@@ -1,0 +1,16 @@
+@mixin liner-gradient($color: #f00, $way: top, $percent: 20%){
+  background-color: $color;
+  background-image: -webkit-liner-gradient($way, $color 0%, lighten($color, $percent) 100%);
+  background-image: -moz-liner-gradient($way, $color 0%, lighten($color, $percent) 100%);
+  background-image: liner-gradient($way, $color 0%, lighten($color, $percent) 100%);
+}
+
+.item{
+  background-color: red;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background-image: -webkit-linear-gradient(top, red 0%, #ff6666 100%);
+  background-image: -moz-linear-gradient(top, red 0%, #ff6666 100%);
+  background-image: linear-gradient(top, red 0%, #ff6666 100%);
+}

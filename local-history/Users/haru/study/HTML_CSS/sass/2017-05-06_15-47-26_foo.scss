@@ -1,0 +1,46 @@
+@mixin box{
+  background-color: #00f;
+}
+
+$background-color: #0f0;
+@mixin mix($background-color: #f00){
+  background-color: $background-color;
+}
+
+@mixin mix($margin: 30px, $padding: 10px){
+  margin: $margin;
+  padding: $padding;
+}
+
+@mixin mixFoo($v...){
+  text-shadow: $v;
+}
+@mixin mixBar($w: 250px, $pd: 15px, $bg_c: #fff, $bd_c: #ccc){
+  width: $w;
+  padding: $pd;
+  background-color: $bg_c;
+  border: $bd_c;
+}
+
+$values: 300px, 20px;
+
+.hoge{
+  background-color: #ff0;
+  float: left;
+  @include mix($v...);
+}
+
+.foo{
+  background-color: #f00;
+  @include mixFoo(8px 8px 0px #479, 15px -10px 0px #823);
+}
+
+.bar{
+  background-color: #0ff;
+  @include mix(0 0 50px, 20px);
+}
+
+.bazz{
+  background-color: #0ff;
+  @include mix(0 0 50px);
+}

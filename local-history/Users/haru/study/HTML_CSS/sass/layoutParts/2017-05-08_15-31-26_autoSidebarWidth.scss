@@ -1,0 +1,22 @@
+$mainWidth: 65%;
+
+wrapper{
+  width: 100%;
+  background-color: #0ff; opacity: 0.5;
+  width: 100px; height: 100px;
+  float: left;
+}
+
+main{
+  background-color: #f0f; opacity: 0.5;
+  width: 100px; height: 100px;
+  float: left;
+  width: $mainWidth;
+}
+
+.side{
+  background-color: #00f; opacity: 0.5;
+  width: 100px; height: 100px;
+  float: right;
+  width: 100% - $mainWidth -5%;
+}

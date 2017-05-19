@@ -1,0 +1,5 @@
+$prefixes: -webkit-, -moz-, -ms-, -o-, null;
+
+body::after{ 
+  content: 'foo'; 
+}

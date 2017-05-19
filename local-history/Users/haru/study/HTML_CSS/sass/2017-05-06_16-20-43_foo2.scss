@@ -1,0 +1,11 @@
+// 汎用的なclassをどつかうかどうか
+$generalStyle: true;
+
+@if $generalStyle{
+  .fl{
+    float: left;
+  }
+  .fr{
+    float: right;
+  }
+}

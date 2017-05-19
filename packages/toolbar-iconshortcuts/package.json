@@ -1,0 +1,87 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117411-69592-1h8c4mv.bxg8jgu8fr/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117411-69592-1h8c4mv.bxg8jgu8fr/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117411-69592-1h8c4mv.bxg8jgu8fr/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-117411-69592-xfzbvp.e9cpkz9f6r"
+    ]
+  ],
+  "_from": "../d-117411-69592-1h8c4mv.bxg8jgu8fr/package.tgz",
+  "_id": "toolbar-iconshortcuts@3.13.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/toolbar-iconshortcuts",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117411-69592-1h8c4mv.bxg8jgu8fr/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117411-69592-1h8c4mv.bxg8jgu8fr/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117411-69592-1h8c4mv.bxg8jgu8fr/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117411-69592-1h8c4mv.bxg8jgu8fr/package.tgz",
+  "_shasum": "baaf33db39662aba1940c857b8a109706368e974",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117411-69592-1h8c4mv.bxg8jgu8fr/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-117411-69592-xfzbvp.e9cpkz9f6r",
+  "bugs": {
+    "url": "https://github.com/thiagolucio/toolbar-iconshortcuts/issues"
+  },
+  "consumedServices": {
+    "tool-bar": {
+      "versions": {
+        "^0 || ^1": "consumeToolBar"
+      }
+    }
+  },
+  "dependencies": {
+    "atom-package-deps": "^3.0.7"
+  },
+  "description": "A extended Icons from Suda toolbar from Atom",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/thiagolucio/toolbar-iconshortcuts#readme",
+  "keywords": [
+    "toolbar",
+    "tool-bar",
+    "toolbar-iconshortcuts"
+  ],
+  "license": "MIT",
+  "main": "./lib/toolbar-iconshortcuts",
+  "name": "toolbar-iconshortcuts",
+  "optionalDependencies": {},
+  "package-deps": [
+    "tool-bar",
+    "open-in-browser",
+    "atom-live-server",
+    "atom-runner",
+    "platformio-ide-terminal"
+  ],
+  "packageDependencies": {
+    "open-in-browser": "^0.5.0",
+    "atom-live-server": "^1.2.5",
+    "atom-runner": "^2.7.0",
+    "platformio-ide-terminal": "^2.5.0"
+  },
+  "readme": "# toolbar-iconshortcuts package\n\nA more complete option of shortcut icons to the suda toolbar main for ATOM Editor.<br>\n\nPackage Dependencies - It must have installed a toolbar SUDA extension of ATOM before(pre requisite)...[tool-bar](https://atom.io/packages/tool-bar) package.\n\n![Tool bar Icon Shortcuts preview](http://www.thiagolucio.com.br/images/toolbar-iconshortcuts.jpg)\n\n# Buttons\n\n* New File\n* Open...\n* Open Project...\n* Save File\n\n* Open in Browser... (Install automatically) - Need install before the \"Open in Browser\" Package. Search on instal package or goto - https://github.com/magbicaleman/open-in-browser\n\n* Run project on localhost server... (Install automatically) - Need install before the \"atom-live-server\" Package. Search on instal package or goto - https://atom.io/packages/atom-live-server\n\n* Run Script(inside Atom)... (Install automatically) - Need Install before the \"Atom Runner\" package. Search \"atom-runner\" and install or goto -\nhttps://atom.io/packages/atom-runner\n\n* Open Terminal(inside Atom)... (Install automatically) - Need Install before the \"Platformio Ide Terminal\" package. Search \"platformio-ide-terminal\" and install or goto -\nhttps://github.com/platformio/platformio-atom-ide-terminal\n\n* Split Pane Right\n* Toggle Tree-View\n* Find in Buffer\n* Replace in Buffer\n* Toggle Command Palette\n* Settings View\n* Reload Window\n* Toggle Developer Tools\n* Close Tool-Bar\n\nThis package is based to integrated a \"tool-bar\"(Thanks \\o/ ) package from [Suda](https://github.com/suda). <br>\nIf don't install automatically the dependencies pack's, you need install manually them first.\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagolucio/toolbar-iconshortcuts.git"
+  },
+  "version": "3.13.0"
+}

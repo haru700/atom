@@ -1,0 +1,38 @@
+header.global nav{
+  $pos-x: -160px;
+
+  $navList: about, source, dl, profile, contact;
+
+  margin: 0 0 50px;
+  ul{
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+  }
+  li{
+    list-style: none;
+    float: left;
+
+    width: abs($pos-x);
+    a{
+      border: 1px solid #00f;
+      display: block;
+      height: 50px;
+      text-indent: 100%;
+      white-space: nowrap;
+      overflow: hidden;
+      background: url(./nav.jpg) no-repeat left top;
+      &:hover{
+        background-position: 0 -50px;　
+      }
+    }
+    @for $i from 1 through length($navList){
+      a[href^="/#{nth($navList, $i)}/"]{
+        background-position: $i * $pos-x 0;
+        &:hover{
+          background-position: $i * $pos-x -50px;
+        }
+      }
+    }
+  }
+}

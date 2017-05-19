@@ -1,0 +1,26 @@
+@import "recipes";
+
+// ルールのネスト
+.item{
+  p{
+    margin: 0;
+    a{
+      display: block;
+    }
+  }
+}
+
+// 親セレクタの参照 &
+.item{
+  margin: 0 0 30px;
+  .fruitList &{
+    margin: 0;
+  }
+}
+
+div{
+  margin:{
+    top: 5px;
+    background-color: #f0f; opacity: 0.5;
+  }
+}

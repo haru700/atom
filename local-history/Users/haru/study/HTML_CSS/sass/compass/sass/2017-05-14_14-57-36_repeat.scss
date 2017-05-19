@@ -1,0 +1,6 @@
+@import "compass";
+
+$icon-layout: horizontal;
+@import "../images/map/icon/*.png";
+
+@include MAP-sprite(SPRITE, true, px, px);

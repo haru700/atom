@@ -1,0 +1,8 @@
+$width: 100%;
+
+.foo{
+  width: $width / 3;
+}
+.bar{
+  width: ceil($width /3);
+}

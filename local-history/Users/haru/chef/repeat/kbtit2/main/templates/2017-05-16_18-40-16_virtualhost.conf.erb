@@ -1,0 +1,5 @@
+<VirtualHost *:80>
+  ServerAdmin serveradmin@<%= @env_hostname %>
+  DocumentRoot <%= @node.apache.documentroot %>/<% @env_hostname %>
+  ServerName <% @env_hostname %>
+</VirtualHost>

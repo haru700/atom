@@ -1,0 +1,8 @@
+$prefixes: -webkit-, -moz-, -ms-, -o-, null;
+
+body::after{
+  content: 'foo';
+  background-color: #00f; opacity: 0.5;
+  width: 100px;
+  height: 50px;
+}

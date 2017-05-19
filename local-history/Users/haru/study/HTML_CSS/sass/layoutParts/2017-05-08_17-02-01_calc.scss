@@ -1,0 +1,6 @@
+$border: 1px;
+.item{
+  background-color: #00f; opacity: 0.5;
+  width: calc(100% - $border * 2);
+  height: 100px;
+}

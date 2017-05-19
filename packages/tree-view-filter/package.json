@@ -1,0 +1,72 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117414-40943-n5dbam.2lpjdlhaor/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117414-40943-n5dbam.2lpjdlhaor/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117414-40943-n5dbam.2lpjdlhaor/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-117414-40943-11ze059.3lm72b7qfr"
+    ]
+  ],
+  "_from": "../d-117414-40943-n5dbam.2lpjdlhaor/package.tgz",
+  "_id": "tree-view-filter@0.4.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/tree-view-filter",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117414-40943-n5dbam.2lpjdlhaor/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117414-40943-n5dbam.2lpjdlhaor/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117414-40943-n5dbam.2lpjdlhaor/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117414-40943-n5dbam.2lpjdlhaor/package.tgz",
+  "_shasum": "bd5a3ab574007c8e5e6dfeac4975a5bbee60337f",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117414-40943-n5dbam.2lpjdlhaor/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-117414-40943-11ze059.3lm72b7qfr",
+  "bugs": {
+    "url": "https://github.com/monsterkodi/tree-view-filter/issues"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.1.1",
+    "atom-utils": ">=0.9.2",
+    "font-awesome": "^4.5.0",
+    "minimatch": "^3.0.0"
+  },
+  "description": "Limits files in the tree view to those matching certain patterns",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bumpup": "^0.6.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-open": "^0.2.3",
+    "grunt-pepper": "^0.5.8",
+    "grunt-shell": "^1.1.2"
+  },
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "homepage": "https://github.com/monsterkodi/tree-view-filter#readme",
+  "license": "MIT",
+  "main": "./lib/tree-view-filter",
+  "name": "tree-view-filter",
+  "optionalDependencies": {},
+  "readme": "# tree-view-filter\n\nAtom package which hides files in the tree view that don't match the provided pattern(s).\n\n![screencast](https://raw.githubusercontent.com/monsterkodi/tree-view-filter/master/img/screencast.gif)\n\n## Usage\n\nPress `ctrl-alt-shift-f` or invoke `Tree View Filter:Activate` to focus the filter pattern editor, \nenter your pattern and press Enter/Return to confirm.\n\nTo restore the tree view to its unfiltered state:  \neither press `Escape` when the filter editor has focus or click on the `(x)` button to the right.\n\n## Known issues\n\nCurrently, the filter only sets the display style of the file entries to 'none'. \nWhen navigating the tree view with the keyboard, the invisible items still get focus.\nAlso, the filter only applies to the currently expanded directories. \n\nChanges to the [tree-view package](https://atom.io/packages/tree-view) which solve these issues have been [submitted](https://github.com/atom/tree-view/pull/414) and are currently pending review.\n\n## Credits\n\n* screencast generated with [dergachev/screengif](https://github.com/dergachev/screengif)\n* file pattern matching by [minimatch](https://www.npmjs.com/package/minimatch)\n* case insensitive and fuzzy option by [ruleb](https://github.com/ruleb)\n\nand the usual suspects\n\n* almost as good as coffee: [coffeescript](http://coffeescript.org/)\n* a truly hackable editor: [atom](https://atom.io/)\n* grunt, grunt, [grunt](http://gruntjs.com/)\n\n[atom package](https://atom.io/packages/tree-view-filter)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monsterkodi/tree-view-filter.git"
+  },
+  "version": "0.4.1"
+}

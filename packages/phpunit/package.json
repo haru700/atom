@@ -1,0 +1,66 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-41061-12g43zo.o7grg22o6r/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-41061-12g43zo.o7grg22o6r/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-41061-12g43zo.o7grg22o6r/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11749-41061-15kw49p.gzadjcerk9"
+    ]
+  ],
+  "_from": "../d-11749-41061-12g43zo.o7grg22o6r/package.tgz",
+  "_id": "phpunit@1.2.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/phpunit",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-41061-12g43zo.o7grg22o6r/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-41061-12g43zo.o7grg22o6r/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-41061-12g43zo.o7grg22o6r/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11749-41061-12g43zo.o7grg22o6r/package.tgz",
+  "_shasum": "f7cdc006abd616f7f47f07e0a0d0cc30f3d9a223",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-41061-12g43zo.o7grg22o6r/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11749-41061-15kw49p.gzadjcerk9",
+  "bugs": {
+    "url": "https://github.com/alairock/phpunit-atom/issues"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.0.3",
+    "fs-plus": "2.x",
+    "jquery": "^2",
+    "temp": "~0.6.0"
+  },
+  "description": "A simple PHPUnit test runner.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.150.0"
+  },
+  "homepage": "https://github.com/alairock/phpunit-atom#readme",
+  "license": "MIT",
+  "main": "./lib/phpunit",
+  "name": "phpunit",
+  "optionalDependencies": {},
+  "private": false,
+  "readme": "#PHPUnit for Atom\nRun your PHPUnit tests right within the Atom Editor!\n\nTDD (Test driven development) is an extremely important part of development. Now you hold the power within your editor!\n\n### PreReq's\nYou must have PHP and PHPUnit installed. My preference is HomeBrew, but you can do whatever you like. The only real configuration required for this to work is you must have a phpunit.xml configuration file in the root of the project, and you can optionally pass the path of the PHPUnit binary path from in the settings panel. Also PHP and PHPUnit must be executable from within Atom. This might require you to change the permissions of the executables, or make other tweaks to the binaries. (I didn't require any, but just in case).\n\n\n\nTODO:\n![A screenshot of your spankin' package](http://i.imgur.com/oFr8HyM.gif?1)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alairock/phpunit-atom.git"
+  },
+  "version": "1.2.0"
+}

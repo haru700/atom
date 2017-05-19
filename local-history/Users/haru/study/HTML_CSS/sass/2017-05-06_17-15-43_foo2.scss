@@ -1,0 +1,7 @@
+$list: foo, bar, bazz;
+
+@each $item in $list{
+  .body-#{$item} { 
+    background-image: url(../img/bg_#{$item}.png); 
+  }
+}

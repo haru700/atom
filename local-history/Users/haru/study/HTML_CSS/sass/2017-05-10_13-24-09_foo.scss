@@ -1,0 +1,6 @@
+%opacity{
+  $opacity_value: 0.7 !default;
+  opacity: $opacity_value;
+  -ms-filter: "alpha(opacity=#{$opacity_value * 100})";
+  filter: alpha(opacity=#{$opacity_value * 100})
+}

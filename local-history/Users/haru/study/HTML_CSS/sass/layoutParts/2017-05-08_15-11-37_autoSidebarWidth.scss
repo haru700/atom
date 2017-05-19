@@ -1,0 +1,8 @@
+$wrapWidth: 960px;
+$mainWidth: 640px;
+$sideWidth: $wrapWidth - $mainWidth - 20;
+
+#conents{
+  float: left;
+  width: $wrapWidth;
+}

@@ -1,0 +1,10 @@
+@import "compass";
+@import "compass/layout";
+@import "compass/reset";
+
+.item{
+  $experimental-support-for-svg : true;
+  @include background(linear-gradient(left top, rgba(0, 255, 0, 0.2), rgba(255, 0, 0, 0.5), rgba(0, 0, 255, 1)) );
+  @include background(radial-gradient(left top, #fff, #00f, #f00) );
+  width: 100px; height: 100px;
+}

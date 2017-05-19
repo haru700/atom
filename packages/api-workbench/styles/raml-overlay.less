@@ -1,0 +1,175 @@
+.raml-overlay {
+  position: fixed;
+  display: flex;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 999; /* Less than notifications (`1000`) */
+  justify-content: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.5s, visibility 0.5s;
+
+  &.open {
+    opacity: 1;
+    visibility: visible;
+    transition: opacity 0.5s;
+  }
+
+  .raml-logo {
+    flex: 1;
+    background-image: url("atom://api-workbench/images/raml-logo.png");
+    background-size: contain;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    width: 764px;
+    max-width: 60%;
+    margin: 10px;
+  }
+}
+
+
+li span.outline > a {
+  opacity: 0;
+}
+
+li.selected span.outline > a {
+  opacity: 1;
+}
+
+li:hover span.outline > a {
+  opacity: 1;
+}
+
+.ate > select {
+  color: rgb(195, 220, 180) !important;
+}
+
+.ate.string {
+  color: rgb(145, 221, 184) !important;
+}
+.ate.markdown {
+  color: rgb(145, 115, 184) !important;
+}
+.ate.trait {
+    color: rgb(255, 179, 141) !important;
+}
+
+.ate.type {
+    color: rgb(255, 229, 141) !important;
+}
+.ate.enum {
+    color: rgb(100, 148, 237) !important;
+}
+
+.ate.unknown {
+    color: rgb(255, 78, 71) !important;
+}
+
+
+.checkbox-group {
+  margin: 10px !important;
+  display: inline !important;
+  background: none !important;
+}
+
+.api-workbench-checkbox-container {
+    padding-left: 1em;
+}
+
+.api-workbench-checkbox {
+  -webkit-appearance: none;
+  display: inline-block;
+  position: relative;
+  font-size: inherit;
+  margin: 0 .75em 0 -2.25em;
+  vertical-align: top;
+  width: 1.5em;
+  height: 1.5em;
+  cursor: pointer;
+  outline: 0;
+  border-radius: @component-border-radius;
+  background-color: @text-color-subtle;
+  transition: background-color .16s cubic-bezier(0.5, 0.15, 0.2, 1);
+
+  &:focus {
+    box-shadow: none !important;
+  }
+
+  &:active {
+    background-color: transparent !important;
+  }
+
+  &::before,
+  &::after {
+    content: "";
+    position: absolute;
+    top: 1.1em;
+    left: .6em;
+    height: .16em;
+    min-height: 2px;
+    border-radius: 1px;
+    background-color: @base-background-color;
+    transform-origin: 0% 0%;
+    opacity: 0;
+    transition: transform .1s cubic-bezier(0.5, 0.15, 0.2, 1), opacity .1s cubic-bezier(0.5, 0.15, 0.2, 1);
+  }
+  &::before {
+    width: .45em;
+    transform: rotate(225deg) scale(0);
+  }
+  &::after {
+    width: .9em;
+    margin: -1px;
+    transform: rotate(-45deg) scale(0);
+    transition-delay: .05s;
+  }
+
+  &:checked {
+    background-color: @background-color-success;
+    &:active {
+      background-color: transparent !important;
+    }
+    &::before,
+    &::after {
+      opacity: 1;
+    }
+    &::before {
+      transform: rotate(225deg) scale(1);
+      transition-delay: .05s;
+    }
+    &::after {
+      transform: rotate(-45deg) scale(1);
+      transition-delay: 0;
+    }
+  }
+}
+
+.text-field {
+    width: auto !important;
+}
+
+.text-field > atom-text-editor {
+  margin-bottom: auto !important;
+}
+
+ atom-text-editor[mini] .placeholder-text {
+   opacity: 0.4;
+   font-size: 80%;
+ }
+
+ span.wizard-description > label {
+   opacity: 0.8;
+   margin-top: 8px !important;
+   margin-bottom: 8px !important;
+ }
+
+ select[disabled] {
+   opacity: 0.4 !important;
+ }
+
+ .modal span.text-field {
+   margin-top: 4px;
+ }

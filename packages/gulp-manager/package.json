@@ -1,0 +1,80 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-34695-1u17s9h.rfdww2ke29/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-34695-1u17s9h.rfdww2ke29/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-34695-1u17s9h.rfdww2ke29/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11749-34695-1aoztav.944kfkcsor"
+    ]
+  ],
+  "_from": "../d-11749-34695-1u17s9h.rfdww2ke29/package.tgz",
+  "_id": "gulp-manager@0.2.19",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/gulp-manager",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-34695-1u17s9h.rfdww2ke29/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-34695-1u17s9h.rfdww2ke29/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-34695-1u17s9h.rfdww2ke29/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11749-34695-1u17s9h.rfdww2ke29/package.tgz",
+  "_shasum": "24930fe2af5e94ceafac616b171b2e7eb72e7e20",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-34695-1u17s9h.rfdww2ke29/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11749-34695-1aoztav.944kfkcsor",
+  "bugs": {
+    "url": "https://github.com/benjaminRomano/gulp-manager/issues"
+  },
+  "consumedServices": {
+    "bottom-dock": {
+      "versions": {
+        "^0.2.0": "consumeBottomDock"
+      }
+    }
+  },
+  "dependencies": {
+    "ansi-to-html": "^0.3.0",
+    "atom-bottom-dock": "^0.4.0",
+    "space-pen": "^5.1.1"
+  },
+  "description": "Manage gulpfiles from inside your editor",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0"
+  },
+  "homepage": "https://github.com/benjaminRomano/gulp-manager#readme",
+  "keywords": [
+    "gulp",
+    "manager",
+    "gulpfile",
+    "runner"
+  ],
+  "license": "MIT",
+  "main": "./lib/main",
+  "name": "gulp-manager",
+  "optionalDependencies": {},
+  "packageDependencies": {
+    "bottom-dock": "^0.2.0"
+  },
+  "readme": "# gulp-manager package\n\nManage gulpfiles from inside Atom.\n\n**Note: This package requires [bottom-dock](https://atom.io/packages/bottom-dock)**\n\n##### Commands\n* ctrl-k ctrl-t: toggles panel\n* ctrl-k ctrl-g create new gulp pane\n* ctrl-k ctrl-r: refreshes window\n* ctrl-k ctrl-c: closes window\n\n![image](https://cloud.githubusercontent.com/assets/9221137/9418069/e270ae40-4816-11e5-863b-5a48d653987d.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminRomano/gulp-manager.git"
+  },
+  "version": "0.2.19"
+}

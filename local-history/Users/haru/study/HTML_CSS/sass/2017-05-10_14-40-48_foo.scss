@@ -1,0 +1,11 @@
+@mixin linear-gradient($color:#f00, $way:top, $percent:20%){
+  background-color: $color;
+  background-image: -webkit-linear-gradient($way, $color 0%, lighten($color, $percent) 100%);
+  background-image: -moz-linear-gradient($way, $color 0%, lighten($color, $percent) 100%);
+  background-image: linear-gradient($way, $color, 0% lighten($color, $percent) 100%);
+}
+
+.nav-item{
+  height: 100px;
+  @include linear-gradient(#999, left, 50%);
+}

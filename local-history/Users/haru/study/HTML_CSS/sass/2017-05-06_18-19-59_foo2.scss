@@ -1,0 +1,5 @@
+$list: foo, bar, bazz;
+
+.foo{
+  background-image: url(#{nth($list)}.png);
+}

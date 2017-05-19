@@ -1,0 +1,82 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117419-63094-z7cr1g.a26m7psyvi/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117419-63094-z7cr1g.a26m7psyvi/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117419-63094-z7cr1g.a26m7psyvi/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-117419-63094-hhhvkd.popwhlg14i"
+    ]
+  ],
+  "_from": "../d-117419-63094-z7cr1g.a26m7psyvi/package.tgz",
+  "_id": "node-resolver@1.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/node-resolver",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117419-63094-z7cr1g.a26m7psyvi/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117419-63094-z7cr1g.a26m7psyvi/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117419-63094-z7cr1g.a26m7psyvi/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117419-63094-z7cr1g.a26m7psyvi/package.tgz",
+  "_shasum": "266137c159723dfd03be790739971f1f24716249",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117419-63094-z7cr1g.a26m7psyvi/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-117419-63094-hhhvkd.popwhlg14i",
+  "activationEvents": [
+    "node-resolver:open-selected-dependencies"
+  ],
+  "author": {
+    "name": "Hugh Kennedy",
+    "email": "hughskennedy@gmail.com",
+    "url": "http://hughsk.io/"
+  },
+  "bugs": {
+    "url": "https://github.com/hughsk/atom-node-resolver/issues"
+  },
+  "dependencies": {
+    "astw": "^1.2.0",
+    "clone": "^0.1.17",
+    "esprima": "^1.2.2",
+    "file-position": "0.0.0",
+    "is-require": "0.0.1",
+    "resolve": "^0.7.1",
+    "static-eval": "^0.2.3"
+  },
+  "description": "Atom plugin to jump to a module's file from its require statement",
+  "devDependencies": {},
+  "homepage": "https://github.com/hughsk/atom-node-resolver",
+  "keywords": [
+    "atom",
+    "require",
+    "plugin",
+    "resolve",
+    "file",
+    "navigation"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "node-resolver",
+  "optionalDependencies": {},
+  "readme": "# node-resolver [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)\n\nAtom plugin to jump to a module's file from its require statement.\n\n![node-resolver](http://imgur.com/1JW3Txg.gif)\n\n## Usage\n\n1. Move your cursor to a require statement.\n2. Open the command palette and run the \"Node Resolver: Open Selected Dependencies\" command.\n3. The selected file will open.\n\nNote that you can also select a range of text and run the command to open up\n*all* of the files required within that range.\n\nIf you'd like to add a shortcut for this, I'd recommend adding the following\nto your `keymap.cson`:\n\n``` cson\n'.workspace':\n  'ctrl-alt-o': 'node-resolver:open-selected-dependencies'\n```\n\n## License\n\nMIT. See [LICENSE.md](http://github.com/hughsk/atom-node-resolver/blob/master/LICENSE.md) for details.\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/atom-node-resolver.git"
+  },
+  "scripts": {},
+  "version": "1.0.1"
+}

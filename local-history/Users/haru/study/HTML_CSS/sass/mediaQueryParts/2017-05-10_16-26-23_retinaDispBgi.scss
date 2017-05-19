@@ -1,0 +1,21 @@
+$prefixes: -webkit-, -moz-, -ms-, -o-, null;
+
+@mixin bg_size($w, $h: auto){
+  background-color: #00f; opacity: 0.5;
+
+  @each $item in $prefixes {
+    #{$item}background-size: $w $h;
+  }
+}
+
+body{
+  background-image: url(./cube.jpg) no-repeat;
+  background-color: #f0f; opacity: 0.5;
+
+  @media screen and (-webkit-min-device-pixel-ratio: 1.5),
+                    (min-resolution: 2dppx)
+  {
+    @include bg_size(690px / 2, auto);
+  }
+
+}

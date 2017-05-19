@@ -1,0 +1,64 @@
+/* line 3, ../sass/gradient.scss */
+.item {
+  background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PHJhZGlhbEdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgY3g9IjAlIiBjeT0iMCUiIHI9IjEwMCUiPjxzdG9wIG9mZnNldD0iMTAlIiBzdG9wLWNvbG9yPSIjMDA4Y2ZmIi8+PHN0b3Agb2Zmc2V0PSIyMCUiIHN0b3AtY29sb3I9IiMwMGJiNGIiLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZjAwZmYiLz48L3JhZGlhbEdyYWRpZW50PjwvZGVmcz48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI2dyYWQpIiAvPjwvc3ZnPiA=');
+  background-size: 100%;
+  background-image: -moz-radial-gradient(left top, #008cff 10%, #00bb4b 20%, #ff00ff);
+  background-image: -webkit-radial-gradient(left top, #008cff 10%, #00bb4b 20%, #ff00ff);
+  background-image: radial-gradient(left top, #008cff 10%, #00bb4b 20%, #ff00ff);
+  width: 100px;
+  height: 100px;
+  white-space: nowrap;
+  overflow: hidden;
+  -ms-text-overflow: ellipsis;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=7900%);
+  opacity: 79%;
+}
+
+/* line 12, ../sass/gradient.scss */
+.item a {
+  color: #111;
+  overflow: hidden;
+  *zoom: 1;
+}
+/* line 18, ../../../../../../../usr/local/lib/ruby/gems/2.4.0/gems/compass-core-1.0.3/stylesheets/compass/typography/links/_link-colors.scss */
+.item a:visited {
+  color: #444;
+}
+/* line 21, ../../../../../../../usr/local/lib/ruby/gems/2.4.0/gems/compass-core-1.0.3/stylesheets/compass/typography/links/_link-colors.scss */
+.item a:focus {
+  color: #f35;
+}
+/* line 24, ../../../../../../../usr/local/lib/ruby/gems/2.4.0/gems/compass-core-1.0.3/stylesheets/compass/typography/links/_link-colors.scss */
+.item a:hover {
+  color: #222;
+}
+/* line 27, ../../../../../../../usr/local/lib/ruby/gems/2.4.0/gems/compass-core-1.0.3/stylesheets/compass/typography/links/_link-colors.scss */
+.item a:active {
+  color: #333;
+}
+
+/* line 17, ../sass/gradient.scss */
+.foo {
+  list-style-type: none;
+}
+/* line 6, ../../../../../../../usr/local/lib/ruby/gems/2.4.0/gems/compass-core-1.0.3/stylesheets/compass/typography/lists/_inline-list.scss */
+.foo, .foo li {
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
+
+/* line 23, ../sass/gradient.scss */
+.fruitList {
+  margin-left: 0;
+}
+/* line 29, ../../../../../../../usr/local/lib/ruby/gems/2.4.0/gems/compass-core-1.0.3/stylesheets/compass/typography/lists/_bullets.scss */
+.fruitList li {
+  padding-left: 14px;
+  background: url('../images/cube.jpg') no-repeat -303px -239px;
+  list-style-type: none;
+}
+
+/*# sourceMappingURL=gradient.css.map */

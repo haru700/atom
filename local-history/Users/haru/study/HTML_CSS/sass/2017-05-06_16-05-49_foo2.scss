@@ -1,0 +1,8 @@
+@mixin hackIE7($){
+  *:first-child + html &{
+    @content;
+  }    
+}
+
+.foo
+

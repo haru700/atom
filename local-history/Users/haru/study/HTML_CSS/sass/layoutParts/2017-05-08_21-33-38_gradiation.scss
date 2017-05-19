@@ -1,0 +1,11 @@
+@mixin liner-gradient($color: #f00, $way: top, $percent: 20%){
+  background-color: $color;
+  background-image: -webkit-liner-gradient($way, $color 0%, lighten($color, $percent) 100%);
+  background-image: -moz-liner-gradient($way, $color 0%, lighten($color, $percent) 100%);
+  background-image: liner-gradient($way, $color 0%, lighten($color, $percent) 100%);
+}
+
+.wrapper{
+  height: 200px;
+  @include liner-gradient();
+}

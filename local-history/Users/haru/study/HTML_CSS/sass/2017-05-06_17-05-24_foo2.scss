@@ -1,0 +1,11 @@
+$v: 300;
+
+@while $v > 200 {
+  .mt_#{$v}{
+    margin-top: $v + px;
+  }
+  .mb_#{$v}{
+    margin-bottom: $v + px;
+  }
+  $v: $v - 10;
+}

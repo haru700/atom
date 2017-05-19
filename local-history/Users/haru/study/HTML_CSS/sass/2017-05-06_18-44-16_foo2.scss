@@ -1,0 +1,15 @@
+
+$v: 1000px;
+
+@function warnTest(){
+  @if unitless($v){
+    $v: $v + px;
+  } @else {
+    @warn "#{$v}はだめ! $vには単位は入れないで!";
+  }
+  @return $v;
+}
+
+.box{
+  width: warnTest();
+}

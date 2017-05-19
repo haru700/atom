@@ -1,0 +1,9 @@
+$prefixes: -webkit-, -moz-, -ms-, -o-, null;
+
+@mixin bg_size($w, $h: auto){
+  @each $item in $prefixes {
+    #{$item}background-size: $w $h;
+  }
+}
+
+

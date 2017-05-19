@@ -1,0 +1,11 @@
+@import "compass";
+@import "../images/map/hover/*.png";
+@import "../images/map/icon/*.png";
+
+@include all-icon-sprites;
+
+
+.item{
+  $icon-layout: horizontal;
+  width: 500px; height: 500px;
+}

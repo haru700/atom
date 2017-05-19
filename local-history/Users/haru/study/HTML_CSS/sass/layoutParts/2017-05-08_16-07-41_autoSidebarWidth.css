@@ -1,0 +1,23 @@
+/* line 5, autoSidebarWidth.scss */
+.wrapper {
+  width: 960px;
+  height: 100px;
+  float: left;
+}
+
+/* line 11, autoSidebarWidth.scss */
+main {
+  background-color: #f0f;
+  opacity: 0.5;
+  height: 100px;
+  float: left;
+  width: 640px;
+}
+
+/* line 18, autoSidebarWidth.scss */
+.side {
+  float: right;
+  width: 320px - 20px;
+}
+
+/*# sourceMappingURL=autoSidebarWidth.css.map */

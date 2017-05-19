@@ -1,0 +1,21 @@
+$width: 100%;
+
+.foo{
+  width: $width / 3;
+}
+.bar{
+  width: ceil($width /3);
+}
+
+body{
+  background-color: #cccccc;
+}
+
+$c: #888;
+
+.foo{
+  background-color: lighten($c, 20%);
+}
+.foo{
+  background-color: daeken($c, 20%);
+}

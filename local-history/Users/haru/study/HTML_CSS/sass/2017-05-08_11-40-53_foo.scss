@@ -1,0 +1,12 @@
+$prefixes: -webkit-, -moz-, -ms-, -o-, null;
+
+a{
+  @each $prefix in $prefixes {
+    #{$prefix}: all 0.3s ease-in-out;
+  }
+}
+
+#main{
+  padding: 20px;
+  background-color: #efefef;
+}

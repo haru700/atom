@@ -1,0 +1,8 @@
+@import "compass";
+@import "compass/layout";
+@import "compass/reset";
+
+.item *{
+
+  @include link-colors(#999, #362, #333, #444, #555);
+}

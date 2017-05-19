@@ -1,0 +1,14 @@
+$wrapWidth: 960px;
+$mainWidth: 640px;
+$sideWidth: $wrapWidth - $mainWidth - 20;
+
+#contents{
+  float: left;
+  width: $wrapWidth;
+}
+
+main{
+  background-color: #f0f; opacity: 0.5;
+  float: left;
+  width: $wrapWidth;
+}

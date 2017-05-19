@@ -1,0 +1,13 @@
+@mixin fz($size){
+  font-size: $size + px
+}
+
+html{
+  font-size: 62.5%;
+
+}
+
+
+.item{
+  @include fz(18);
+}

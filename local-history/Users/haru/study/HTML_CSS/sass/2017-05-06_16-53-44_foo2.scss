@@ -1,0 +1,5 @@
+@for $v from 0 through 3{
+  .throughSample_#{$v} { 
+    margin-bottom: 2px * $v; 
+  } 
+}

@@ -1,0 +1,4175 @@
+!!ATOK_TANGO_TEXT_HEADER_1
+!!一覧出力
+!!対象辞書;/Users/haru/Library/Preferences/ATOK29/ATOK29U1.DIC
+!!単語種類;登録単語(*) 自動登録単語($)
+!!読み範囲;(読みの先頭) → (読みの最終)
+!!出力日時;17/05/06 09:15
+
+あああ	fos	名詞*
+００	);	名詞*
+００	};	名詞*
+００	];	名詞*
+０００	[0]	名詞*
+０２５６	range(0, 256)	名詞*
+１１１	[1]	名詞*
+１２５２	'cp-1252'	名詞*
+２２	""	名詞*
+２２２	"""	名詞*
+２２２	[2]	名詞*
+２９	")	名詞*
+２ｈｔｔｐ	"http://"	名詞*
+３０００	http://localhost:3000/	名詞*
+３１ｐｙ	#! /user/bin/python	名詞*
+３３３	[3]	名詞*
+３いｄｔｇ	#id tag.attr,	名詞*
+３いｄｔｇ	#id tag.attr{ padding-left: 48px; }	名詞*
+３うｔｆ	# -*- codung: utf-8 -*-	名詞*
+３うｔｆ	# coding: utf-8	名詞*
+３でふぃねｄ	#if defined(__FOO__) #endif	名詞*
+３でふぃねｄ	#if defined(__FOO__) #include ".h" #endif	名詞*
+３でふぃねｄ	#if defined(__FOO__) #include ".h" #else #include ".h"#endif	名詞*
+３るｂｙ	# -*- mode: ruby -*-	名詞*
+４−：：	$result = Cls::meth();	名詞*
+４３いｄ	$('#' + id + '.')	名詞*
+４３いｄ	$('#' + id + '.browse')	名詞*
+４３いｄ	$('#' + id + '.edit')	名詞*
+４４４	[4]	名詞*
+４ｂれあｋ	for($i=0; $i <= 10; $i++){if($i > 5){ break; }}	名詞*
+４ｂれあｋ	if($i > 5){break;}	名詞*
+４ｃｈｋ	$checked = (条件や、真偽値);	名詞*
+４ｃｈｋ	$checked = in_array();	名詞*
+４ｃｈｋ	$checked = isset();	名詞*
+４ｃｈｋ	$checked = ($var === );	名詞*
+４ｃｈｋ	$checked = empty();	名詞*
+４ｃｈｋ	$(this).prop('checked');	名詞*
+４ｃぃえ	$params['client'];	名詞*
+４ｃぃえ	$params['to_client'];	名詞*
+４ｃぉね	$_clone = clone $;	名詞*
+４ｃらｔ	$params['created_at']	名詞*
+４ｃんｔ	$container = new Illuminate\Container\Container;	名詞*
+４ｄｓｎ	$dsn = "";	名詞*
+４ｄｓん	$dsn = "";	名詞*
+４ｆｃふぉれ	$closure = function($i, $list){ foreach($i as $v){  } };	名詞*
+４ｆｐｔ	.find('').parents('').text();	名詞*
+４ｆｒｃ	$(this).find('').removeClass('');	名詞*
+４ｆんｃ	$ = fnc();	名詞*
+４ｇｊｓ	$.getJSON('.json', function(data){	名詞*
+４ｈｒｈ	$http_responce_header	名詞*
+４ｈｒｈ	var_dump($http_responce_header);	名詞*
+４ｈｒｈ	<?php var_dump($http_responce_header); ?>	名詞*
+４ｈｔｔｐ	$HTTP__VARS	名詞*
+４ｍちｔぇ	{{ $metadata->page_title }}	名詞*
+４ｐｆｔ	.parents('').find('').text();	名詞*
+４ｐｍｓ	$php_error_msg	名詞*
+４ｐｒｍ	$params['path'];	名詞*
+４ｐｒｍ	$params[''];	名詞*
+４ｐろｐ	$(this).prop('checked');	名詞*
+４ｐろｐ	$(this).prop('checked', false);	名詞*
+４ｐろｐ	$('').prop('checked', false);	名詞*
+４ｐろｐ	$('').prop('checked');	名詞*
+４ｒｑｃぉ	$request, Closure $next	名詞*
+４ｒｓｌｔ	$result = $stm->fetchAll(PDO::FETCH_ASSOC);	名詞*
+４ｒんｒ	$response = $next($request); return $response;	名詞*
+４ｓｃｃｔ	$result = setcookie("counter", ++$counter, time() );	名詞*
+４ｓｃｒ	$('html, body').scrollTop(0);	名詞*
+４ｓｃｒ	$('html, body').animate({ 'scrollTop': 0 }, 'slow');	名詞*
+４ｓｄｎ	$_SERVER['HTTP_HOST'].dirname($_SERVER['PHP_SELF']);	名詞*
+４ｓｆｗ	$sql = "SELECT * FROM テーブル WHERE";	名詞*
+４ｓｇｃｐ	$params = session_get_cookie_params();	名詞*
+４ｓｑｌ	$sql = "SQL";	名詞*
+４ｓｑｌ	$sql = "SELECT * FROM テーブル" $stm = $pdo->prepare($sql);	名詞*
+４ｓｑｌ	$sql = "";	名詞*
+４ｓｑｌ	$sql = ""; $stm = $pdo->prepare($sql); $stm->execute();	名詞*
+４ｓｑｌ	$sql = ""SELECT * FROM テーブル"";	名詞*
+４ｓｔｍ	$stm = $pdo->prepare($sql);	名詞*
+４ｓｔｍ	$stm = $pdo->prepare($sql); $stm->execute();	名詞*
+４ｓｔｒｓ	$strs[] = "";	名詞*
+４ｓぱん	$err = '<span class=""></span><br>';	名詞*
+４ｔｆｆ	function(){$(this).find('').fadeOut();}	名詞*
+４ｔｆｆ	$(this).find('').fadeOut();	名詞*
+４ｔｇｌ	$(this).slideToggle(300);	名詞*
+４ｔｒｍ	$var = trim($hash['key']);	名詞*
+４ｔｒｍ	$var = trim($_POST['']);	名詞*
+４ｔｒｍ	$var = trim($_SESSION['']);	名詞*
+４ｔｒｍ	$var = trim($_POST['id']);	名詞*
+４ｔｒｍ	$name = trim($_POST['name']);	名詞*
+４ｔｒｍ	$id = trim($_POST['id']);	名詞*
+４ｔｒｍ	$id = trim($_SESSION['id']);	名詞*
+４ｔｒｍ	$name = trim($_SESSION['name']);	名詞*
+４ｔｒｍ	$item = trim($array[0]);	名詞*
+４ｔｒｍ	$item = trim($hash['キー']);	名詞*
+４ｔｒん	$updateTrnUsr = new UpdateTrnUsr();	名詞*
+４ｔｒん	$updateTrn->col = $params['col'];	名詞*
+４ｔｒん	$updateTrn->col = trim($params['col']);	名詞*
+４ｔｒん	$updateTrn->tel= trim($params['']) . '-' . rim($params[''])	名詞*
+４ｔｒん	$updateTrnUser = UpdateTrnUsr::find($id);	名詞*
+４ｔｒん	$updateTrn->checkbox = Config::get('...');	名詞*
+４ｔｒん	$updateTrn->authId = $authId;	名詞*
+４ｔｒんこんｆ	$updateTrn->checkbox = Config::get('...');	名詞*
+４ｔｘｔ	$filename = ".txt";	名詞*
+４ｗｈｌｓ	protected $whiteList = ['127.0.0.1'];	名詞*
+４ぉあｄ	$(window).load(function(){ $('').meth(); });	名詞*
+４あｃｔ	$('.').removeClass('active'); $(this).addClass('active');	名詞*
+４あｃｔ	$url = action('Notifes@add');	名詞*
+４あｃｔ	$url = action('Notifes@edit', ['id' => 1]);	名詞*
+４あｃｔ	$activeUser = Trn::where('email', '=', $email)->count();	名詞*
+４あｄｄｒ	$address = [ 'pref_id' => $records->pref_id, '' => $->, ];	名詞*
+４あｄｍ	$params['admin'];	名詞*
+４あｐｐ	$app = app();	名詞*
+４あｐｐ	$app-> = ;	名詞*
+４あｐｐ	$app->meth();	名詞*
+４あｐｐ	$app->meth(function(){  });	名詞*
+４あｐｐ	$app->(function(){  });;	名詞*
+４あｐｐ	$app->(Foo::class, function(){ return new Foo(); });;	名詞*
+４あｐｐ	$app['']	名詞*
+４あｐｐ	$app['']['']	名詞*
+４あｐｐ	$app = new Foo\Container();	名詞*
+４あｐｐ	$app['foo'] = function($app){ return new Foo(); };	名詞*
+４あｒｇ	$isArg = (isset($_POST['name']) )	名詞*
+４あｒｇ	$isArg = (isset($_POST['name']) );	名詞*
+４あｒｇ	$isArg = (isset($_POST['arg']) )	名詞*
+４あｒｇ	$isArg = (in_array($arg, $array) );	名詞*
+４あｒｇ	$isArg = (empty($arg) );	名詞*
+４あｒｇ	$isArg = ($arg === )	名詞*
+４あｒｇｓ	$args[''] = '';	名詞*
+４あｒｒ	$array = array('', '', '');	名詞*
+４あｒｒ	$array = array('', '', ''); foreach($array as $value){}	名詞*
+４あｒｒ	$objs = array($, $, $, $);	名詞*
+４あｓｆ	$[array_search(func($arr), $arr)]	名詞*
+４あｓｆ	$ = $[array_search(func($arr), $arr)];	名詞*
+４あｔｔ	var 変数 = $(this).attr('');	名詞*
+４あｔｔ	$(this).attr('');	名詞*
+４あｔｔ	$(this).attr('href');	名詞*
+４あｔｔ	.attr('');	名詞*
+４あｔｔ	.attr('href');	名詞*
+４あｔｔ	.attr('class');	名詞*
+４あｔｔ	.attr('id');	名詞*
+４あｔｔ	.attr('value');	名詞*
+４あｔｔ	.attr('name');	名詞*
+４あｔｔｒ	var 変数 = $(this).attr('');	名詞*
+４あｔｔｒ	$(this).attr('');	名詞*
+４あｔｔｒ	$(this).attr('href');	名詞*
+４あうｔｈ	$auth = $request->session()->get(Config::get('const.logi');	名詞*
+４あうｔｈ	$auth = $request->session()->get(Config::get('...')  );	名詞*
+４あうｔｈ	$auth['id']	名詞*
+４いｍｇ	$url = $image['sizes']['medium'];	名詞*
+４いｍｐ	$str = implode("区切り文字", $array);	名詞*
+４いいｖ	$sql = "INSERT INTO テーブル(カラム1, カラム2) VALUES(値1, 値2)";	名詞*
+４いいｖ	$sql = "INSERT INTO テーブル(カラ1, カラ2) VALUES(:プレ, :プレ2)";	名詞*
+４いんｃ	$table->increments('id');	名詞*
+４いんｃ	$incrementing	名詞*
+４いんｄ	.index('.')	名詞*
+４いんｄ	.index('#')	名詞*
+４いんｐ	$input = Input::all();	名詞*
+４いんｐ	$input = Input::only(['']);	名詞*
+４いんｐ	$input = Input::only(array_keys($rules)  );	名詞*
+４いんｐ	$input['status']	名詞*
+４いんｐ	$('input[name="title"]', editBlock)	名詞*
+４いんｐ	$('input[name=""]')	名詞*
+４いんｐ	$('input[name=""]', editBlock)	名詞*
+４いんｔ	$ = (int)$;	名詞*
+４うういｄ	$uuid = uniqid($prefixId, $salt);	名詞*
+４うぷｂ	$params['unpublish'];	名詞*
+４うんｇ	$unguarded	名詞*
+４う゛ぁｌ	$('').val('');	名詞*
+４う゛ぁｌ	.eq(index).val();	名詞*
+４う゛ぁｒ	var 変数名 = $(this).find('');	名詞*
+４う゛ぁｒ	var インデックス変数 = $('').index($(this));	名詞*
+４う゛ぁｒ	var $オブジェクト名 = { プロパ:値, メソ:function(仮引数){処理}}	名詞*
+４う゛ぁｒ	var $ = $('').('');	名詞*
+４う゛ぁｒ	var 変数名 = $(this).('');	名詞*
+４う゛ぁｒ	var $ = $('#');	名詞*
+４う゛ぁｒ	var $ = $('.');	名詞*
+４う゛ぁｒ	var $ = $(this).find('');	名詞*
+４う゛ぁｒ	var $ = $('セレクタ');	名詞*
+４う゛ぁｒ	var $ = $('');	名詞*
+４う゛ぁｒ	var $JQARG = $('#');	名詞*
+４う゛ぁｒ	var 変数名 = $('#').('');	名詞*
+４う゛ぁｒ	var 変数名 = $('.').('');	名詞*
+４う゛ぁｒ	var 変数名 = $('#').val();	名詞*
+４う゛ぁｒ	$var = get_var();	名詞*
+４う゛ぁぃ	$validator = Validator::make($rules);	名詞*
+４う゛ぁぃ	$validator = Validator::make($input, $rules);	名詞*
+４えｒｒ	$errors[];	名詞*
+４えｒｒ	$errors[] = ;	名詞*
+４えｒｒ	$errors[] = "";	名詞*
+４えｒｒ	$err .= $e->getMessage(); exit($err);	名詞*
+４えｘｐ	$array = explode ("区切り文字", $str);	名詞*
+４えあｃｈ	$.each(data.foo, function (){	名詞*
+４えあｃｈ	$('.').each(function(){ return ; });	名詞*
+４えおｄ	$writedata = <<< "EOD" EOD;	名詞*
+４えくぁ	.eq().addClass('active');	名詞*
+４えんｖ	$_ENV ($HTTP_ENV_VARS)	名詞*
+４えんｖ	$env = App::enviroment();	名詞*
+４えんｖ	$_ENV	名詞*
+４えんｖ	dd($_ENV);	名詞*
+４おｂｊ	$obj = new クラス();	名詞*
+４おｂｊ	$obj = new クラス('');	名詞*
+４おｂｊｓ	$objs = array($, $, $, $);	名詞*
+４おｆｆ	$('').offset().top;	名詞*
+４おｌｄ	$olddata = $fileObj->fread($fileObj->getSize()  );	名詞*
+４おｌｄ	$olddata = "\n".$olddata	名詞*
+４かちぇ	$value = cache('key');	名詞*
+４こｌｌ	$collection = collect([ , , ]);	名詞*
+４こｌｌ	$collection = collect([ '', '', ]);	名詞*
+４こｌｌ	$collection = collect([ '', ])->(function($){ return $; });	名詞*
+４こｌｌ	$collection = collect(['' =>  '', '' => '' ], ['' =>  '']);	名詞*
+４こｌｌ	$keys = collect(['name', 'age']);	名詞*
+４こｍｂ	$dict = $combined->all();	名詞*
+４こっぇｃｔ	$collection = collect([ , , ]);	名詞*
+４こおｋ	$COOKIE_ ($HTTP_COOKIE_VARS)	名詞*
+４こんｆ	$config['']	名詞*
+４こんｆ	$config[''], $config['']	名詞*
+４こんｆ	($config[''], $config[''])	名詞*
+４こんｆ	$ = config('app.');	名詞*
+４こんち	for($i=0; $i <= 10; $i++){ if($i %2 == 0){continue;} }	名詞*
+４こんち	if($i%2 == 0){ continue; }	名詞*
+４しょｗ	$('').show();	名詞*
+４じぇんｃ	$arr = json_encode($json);	名詞*
+４せｒｖ	$_SERVER ($HTTP_SERVER_VARS)	名詞*
+４せｓｓ	$_SESSION	名詞*
+４せｓｓ	$var = $_SESSION["var"];	名詞*
+４せｓｓ	<?php $_SESSION["var"] = ""; ?>	名詞*
+４せｓｓ	$_SESSION["var"] = "";	名詞*
+４せｓｓ	<?php $var = $_SESSION["var"]; ?>	名詞*
+４せｓｓ	dd($_SESSION);	名詞*
+４せぇｃｔ	$("select option").attr("selected", false);	名詞*
+４せりあｌ	$($('#').serializeArray()  ).each(function(i, v){  });	名詞*
+４だてｓ	protected $dates = ['completed_at', 'deleted_at'];	名詞*
+４ちｔぇ	$params['title'];	名詞*
+４ちゅん	$chunks->toArray();	名詞*
+４てぃｓ	$(this).is()	名詞*
+４てぃｓ	$(this).is(':checked')	名詞*
+４てゃｐｐ	$this->app	名詞*
+４てゃｐｐ	$this->app->();	名詞*
+４てゃｐｐ	$this->app->(function($app){ return ; });	名詞*
+４てゃｐｐ	$this->app->(Foo::class, function($app){return new Foo();});	名詞*
+４てょｍ	$objs = $this->obj->meth();	名詞*
+４でぁｔ	$params['deleted_at'];	名詞*
+４でふぇｒ	protected $defer = true;	名詞*
+４はｓｃ	if($(this).hasClass(foo) == true){ $(this).meth(); }	名詞*
+４はｓｈ	$hash['キー'];	名詞*
+４はｓｈ	$hash['追加するキー'] = '追加する値';	名詞*
+４はｓｈ	$hash = array( '' => '', '' => '', '' => '' );	名詞*
+４はｓｈ	$hash = array( '' => '',); foreach($hash as $value){}	名詞*
+４はｓｈ	$hash = array( '' => '',); foreach($hash as $key=>$value){}	名詞*
+４はｓｈ	$hash = array( '' => '', '' => '', '' => true);	名詞*
+４はｓｈ	$hash = array( '' => '', '' => '', '' => false);	名詞*
+４はｓｈ	$hash = array('' => , '' => '', '' => true, '' => false)	名詞*
+４はｓｈ	$hash = array('' => '');	名詞*
+４ぱぎれｓ	$results->count()	名詞*
+４ぱぎれｓ	$results->currentPage()	名詞*
+４ぱぎれｓ	$results->firstItem()	名詞*
+４ぱぎれｓ	$results->hasMorePages()	名詞*
+４ぱぎれｓ	$results->lastItem()	名詞*
+４ぱぎれｓ	$results->lastPage()	名詞*
+４ぱぎれｓ	$results->nextPageUrl()	名詞*
+４ぱぎれｓ	$results->perPage()	名詞*
+４ぱぎれｓ	$results->previousPageUrl()	名詞*
+４ぱぎれｓ	$results->url($page)	名詞*
+４ふぁｃ	$(this).find('').addClass('');	名詞*
+４ふぃぇ	$_FILES	名詞*
+４ふぃぇ	$foo_file = DIR . "/$file.php";	名詞*
+４ふぃぇｓ	dd($_FILES);	名詞*
+４ふぃんｄ	$(this).find('');	名詞*
+４ふぉｂｊ	$params['fobj'] = $fobj;	名詞*
+４ふぉｂｊ	$fobj = ReferenceTrnFobj::find($id);	名詞*
+４ふぉｂｊ	$obj['fobj']->foo	名詞*
+４ふぉｒ	for($i=0; $i < 10; $i++){}	名詞*
+４ふぉｒ	for($i=0; $i <= 10; $i++){}	名詞*
+４ふぉｒ	for($i=0; $i <= count($配列変数)-1; $i++){}	名詞*
+４ふぉお	$FOO['']->メソ();	名詞*
+４ふぉお	$_FOO['']	名詞*
+４ふぉんｌ	$fileObj = NULL;	名詞*
+４ぶいｌｄ	$builder = UsrService::getUsers(); $users = $builder->get();	名詞*
+４ぶいｌｄ	$builder = Trn::query();	名詞*
+４ぶいｌｄ	$objs = $builder->get();	名詞*
+４ぶいｌｄ	$builder = $builder->where('', '=', $);	名詞*
+４ぶいｌでｒ	$builder = UsrService::getUsers(); $users = $builder->get();	名詞*
+４ぶいｌでｒ	$builder = Trn::query();	名詞*
+４ぶいｌでｒ	$objs = $builder->get();	名詞*
+４ほｓｔ	$host = 'localhost:8889'; 	名詞*
+４ぼｄｙ	$params['body'];	名詞*
+４ぽｓｔ	$_POST ($HTTP_POST_VARS)	名詞*
+４ぽｓｔ	$post = $posts[$i];	名詞*
+４ぽｓｔ	dd($_POST);	名詞*
+４めｔｈ	$FOO['']->メソ();	名詞*
+４めたｋｗ	$metadata->keywords	名詞*
+４もにｔ	$params['moniter'];	名詞*
+４もにｔ	$params['to_moniter'];	名詞*
+４るぇｓ	$rules = [  '' => '',  ];	名詞*
+４れｃｓ	$recs = $recs->(function($rec){ return $rec->; });	名詞*
+４れそうｒせぱｔｈ	$resource_path = $resource_path();	名詞*
+５５	%	名詞*
+５５５	[5]	名詞*
+５ｄｓｎ	"%02d : %s\n"	名詞*
+５ｆｃｓ	<%= f.collection_select :fobj_id, Fobj.all, :id, :id %>	名詞*
+５ｆｆｆ	<%= f.file_field :image, class:"" %>	名詞*
+５ｆｆｆ	<%= f.label :name %><%= f.file_field :image, class:"" %>	名詞*
+５ｆｔｆ	<%= f.text_field :name %>	名詞*
+５ｆｔｆ	<%= f.text_field :name, class:"" %>	名詞*
+５ｆｔｆ	<%= f.label :name %><%= f.text_field :name, class:"" %>	名詞*
+５ｆすｂ	<%= f.submit '保存', class:"" %>	名詞*
+５ｈｔｔｐ	<%= link_to "", "http://" %>	名詞*
+５ｊｓれん	<%= escape_javascript(render()) %>	名詞*
+５ｊｓれん	<%= escape_javascript(render("コs/パ", obj: @obj)) %>	名詞*
+５ｌｒｔ	<%= link_to '', _path(@obj.id), method: : , remote: true  %>	名詞*
+５ｌｒｔ	<%= link_to '', _path(@obj.id), remote: true  %>	名詞*
+５ｓｃｒ	%3Cscript src='	名詞*
+５ｔｆｔ	<%= text_field_tag :name, @obj.name %>	名詞*
+５ｔｆｔ	<%= text_field_tag 'obj[name]', @obj.name %>	名詞*
+５ｔｆｔ	<%= text_field_tag :name, @obj.name, class:"" %>	名詞*
+５ｔｆｔ	<%= text_field_tag 'obj[name]', @obj.name, class:"" %>	名詞*
+５ぃｃｒ	<%= link_to "", current_user %>	名詞*
+５ぃんｋ	<%= link_to "", "/" %>	名詞*
+５ぃんｋ	<%= link_to "", "http://" %>	名詞*
+５ぃんｋ	<%= link_to "", "http://localhost:3000/" %>	名詞*
+５ぃんｋ	<%= link_to "", _path %>	名詞*
+５ぃんｋ	<%= link_to "", _new %>	名詞*
+５ぃんｋ	<%= link_to "", "//#{@obj.id}" %>	名詞*
+５ぃんｋ	<%= link_to "", _path(obj.id) %>	名詞*
+５ぃんｋ	<%= link_to obj.name, "//#{@obj.id}" %>	名詞*
+５ぃんｋ	<%= link_to obj.name, _path(obj.id) %>	名詞*
+５ぃんｋ	<%= link_to obj.name, "//#{@obj.id}", id:"", class:"" %>	名詞*
+５ぃんｋ	<%= link_to "", _path(@obj.id) %>	名詞*
+５ぃんｋ	<%= link_to "", _path(@obj.id) , id:"", class:"" %>	名詞*
+５ぃんｋ	<%= link_to "", _path(@obj.id) , id:"" %>	名詞*
+５ぃんｋ	<%= link_to "", _path(@obj.id) , class:"" %>	名詞*
+５ぃんｋ	<%= link_to "", "//#{@obj.id}", id:"", class:"" %>	名詞*
+５ぃんｋ	<%= link_to "", "//#{@obj.id}", id:"" %>	名詞*
+５ぃんｋ	<%= link_to "", "//#{@obj.id}", class:"" %>	名詞*
+５ぃんｋ	<%= link_to "", _path(obj.id), method: 'delete' %>	名詞*
+５ぃんｋ	<%= link_to "", @obj, method: 'delete' %>	名詞*
+５ぃんｋ	<%= link_to "", @obj , class:"" %>	名詞*
+５ぃんｋ	<%= link_to "", @obj %>	名詞*
+５ぃんｋ	<%= link_to "", @obj , id:"", class:"" %>	名詞*
+５ぃんｋ	<li><%= link_to obj.name ,obj  %></li>	名詞*
+５ぃんｋ	<li><%= link_to "", _path(@obj.id) , class:"" %></li>	名詞*
+５ぃんｋ	<%= link_to obj.name ,obj  %>	名詞*
+５ぃんｋ	<%= link_to "", _path, method: :delete %>	名詞*
+５ぃんｋ	<%= link_to '', _path(current_user.id) , class:"" %>	名詞*
+５ぃんｋ	%link%	名詞*
+５ぃんｋでｌ	<%= link_to "", _path, method: :delete %>	名詞*
+５いｆｃｒ	<% if current_user.id == @user.id %><% end %>	名詞*
+５いｆｃｒ	<% if current_user.id == @user.id %>	名詞*
+５いｆｃｒ	<% if current_user.id == @note.user.id %><% end %>	名詞*
+５いｔｄ	<%= image_tag "デフォルト画像名", class:"" %>	名詞*
+５いｔｄ	<%= image_tag "#{}", class:"" %>	名詞*
+５いふぃｍ	<% if obj.画像カラム %>５いｔ<% else %>５いｔｄ <% end %>	名詞*
+５いふぃｍ	<% if obj.image %><% else %><% end %>	名詞*
+５う゛ぁｒ	<% var = "" %>	名詞*
+５えｒｒ	<% @obj.errors.full_messages.each do |message| %><%end%>	名詞*
+５えｘｔ	{% extends "base.html" %}	名詞*
+５えあｃｈ	<% .each do || %> <% end %>	名詞*
+５おｆん	<%= obj.fobj.name %>	名詞*
+５おふぃ	<%= obj.fobj.fobj_id %>	名詞*
+５すｂみｔ	<%= submit_tag '保存' %>	名詞*
+５すｂみｔ	<%= submit_tag '保存', class:"" %>	名詞*
+５ぱｔｃｈ	<%= link_to '', _path(@obj.id) , method: :patch, class="" %>	名詞*
+５ぱｔｈ	<%= link_to "", _path %>	名詞*
+５ぱｔｈ	<%= link_to "", root_path %>	名詞*
+５ふぃい	{% for item in %}	名詞*
+５ふぃい	{% for item in %}{% endfor %}	名詞*
+５ぽｓｔ	<li><%= link_to '', _path() , method: :post,class="" %></li>	名詞*
+５ぽｓｔ	<%= link_to '', _path(@obj.id) , method: :post, class="" %>	名詞*
+５まｎｙ	<% @manys.each do |many| %><% end %>	名詞*
+５まんｙ	<% @manys.each do |many| %><% end %>	名詞*
+５もいｄ	<%= many.one.name %>	名詞*
+５ろおｔ	<%= link_to "", root_path %>	名詞*
+６６６	[6]	名詞*
+６６ｆｃ	 && func()	名詞*
+７７	''	名詞*
+７７７	'''	名詞*
+７７７	[7]	名詞*
+７８	')	名詞*
+７ｘｍｌ	'<?xml ?'.">\n"	名詞*
+７ｘｍｌ	echo '<?xml ?'.">\n";	名詞*
+７ｘｍｌ	echo '<?xml version="" encording="utf-8" ?'.">\n";	名詞*
+８０００	http://localhost:8000/	名詞*
+８０８０	http://proxyout.lanl.gov:8080/	名詞*
+８２	("	名詞*
+８２００	(responce.statusCode = 200)	名詞*
+８２００	(responce.statusCode == 200)	名詞*
+８２００	(responce.statusCode != 200)	名詞*
+８７	('	名詞*
+８８８	[8]	名詞*
+８８８９	localhost:8889	名詞*
+８ｃｌｓ	( , cls=)	名詞*
+８ｃけん	(!cken($) )	名詞*
+８ｃけん	(cken($) )	名詞*
+８ｃけん	(!cken($_POST) )	名詞*
+８ｃけん	(cken($_POST) )	名詞*
+８ｆんｃ	(function(){}  )();	名詞*
+８ｆんｃ	(function(){ console.log(); }  )();	名詞*
+８ｆんｃ	(function(){ return ; }  )();	名詞*
+８ｑｈｐ	($qry->have_posts()  )	名詞*
+８ｑｈｐ	(!$qry->have_posts()  )	名詞*
+８ｓｃｍｐ	(strcmp( , ) == 0)	名詞*
+８ｓたｔ	(responce.statusCode = )	名詞*
+８ｓたｔ	(responce.statusCode == )	名詞*
+８ｓたｔ	(responce.statusCode != )	名詞*
+８あｇｓ	(arguments[] == arguments[])	名詞*
+８あｇｓ	(arguments[] != arguments[])	名詞*
+８あｇｖ	(process.argv.length <= 2)	名詞*
+８あんｄ	( and )	名詞*
+８いｍｑ	($qry->is_main_query()  )	名詞*
+８いｍｑ	(!$qry->is_main_query()  )	名詞*
+８いｒｒ	(in_array() )	名詞*
+８いｓｓ	(isset($_POST["name"]) )	名詞*
+８いｓｓ	(!isset($_POST["name"]) )	名詞*
+８いｓｓ	(isset($_FOO[""]) )	名詞*
+８いｓｓ	(!isset($_FOO[""]) )	名詞*
+８いｓｓ	(isset($_SESSION["var"]) )	名詞*
+８いｓｓ	(!isset($_SESSION["var"]) )	名詞*
+８いｓｓ	(!isset($_POST["id"]) )	名詞*
+８いｓｓ	(isset($_POST["id"]) )	名詞*
+８いｓｓ	(isset($_POST['name']) )	名詞*
+８いｓｓ	(!isset($_POST['name']) )	名詞*
+８いｓｓ	(isset($_POST['id']) )	名詞*
+８いｓｓ	(!isset($_POST['id']) )	名詞*
+８いｓｓ	(isset($_COOKIE[session_name()] )	名詞*
+８いｓｓ	(!isset($_COOKIE[session_name()] )	名詞*
+８いｓｔ	(int , string )	名詞*
+８いあｒｒ	(!in_array() )	名詞*
+８いあｒｒ	(in_array() )	名詞*
+８いあｒｒ	(in_array($var, $array) )	名詞*
+８いあｒｒ	(!in_array($var, $array) )	名詞*
+８いあｒｒ	(!in_array($_POST[""],  ["", "", ""]) )	名詞*
+８いあｒｒ	(in_array($_POST[""],  ["", "", ""]) )	名詞*
+８うｒｌ	(url, options = {})	名詞*
+８うｒｌ	(url = nil, options = {})	名詞*
+８うんでｆ	( == undefined)	名詞*
+８うんでｆ	( != undefined)	名詞*
+８う゛ぁｌ	($value === $)	名詞*
+８う゛ぁｌ	($value !== $)	名詞*
+８う゛ぁｌ	($value === '')	名詞*
+８う゛ぁｌ	($value !== '')	名詞*
+８えｍｐ	(empty($) )	名詞*
+８えｍｐ	(!empty($) )	名詞*
+８えｍｐ	(empty($_POST) )	名詞*
+８えｍｐ	(!empty($_POST) )	名詞*
+８えｍｐ	(!empty($_FOO) )	名詞*
+８えｍｐ	(empty($_FOO) )	名詞*
+８えｍｐ	(empty($_SESSION) )	名詞*
+８えｍｐ	(!empty($_SESSION) )	名詞*
+８えｍｐ	(empty($_FOO['']) )	名詞*
+８えｍｐ	(empty($_POST['']) )	名詞*
+８えｍｐ	(!empty($_POST['']) )	名詞*
+８えｍｐ	(empty($_SESSION['']) )	名詞*
+８えｍｐ	(!empty($_SESSION['']) )	名詞*
+８えｍｐ４ｐ	(empty($_POST) )	名詞*
+８えｍｐ４ｐ	(!empty($_POST) )	名詞*
+８えｒｒ	(err)	名詞*
+８えｒｒ	(!err)	名詞*
+８えんｄ	($ == end($)  )	名詞*
+８おｂｊ	(object )	名詞*
+８こうんｔ	(count() > )	名詞*
+８ふぇｘ	(function_exsists('') )	名詞*
+８ふぇｘ	(!function_exsists('') )	名詞*
+９９	()	名詞*
+９９	),	名詞*
+９９	],	名詞*
+９９	},	名詞*
+９９	']	名詞*
+９９	')	名詞*
+９９	',	名詞*
+９９	")	名詞*
+９９	",	名詞*
+９９９	[9]	名詞*
+：：	\*	名詞*
+：：ｃｍｔ	DB::commit();	名詞*
+：：ｃｒ	Schema::create('foos', function($table){ $table->f('k'); });	名詞*
+：：ｃｒ	$obj = Foo::create(['' =>   ]);	名詞*
+：：ｃｒ	$obj = App\Foo::create(['' =>   ]);	名詞*
+：：ｃｒ	$obj = App\Foo::create(['' =>  , '' => , '' => , ]);	名詞*
+：：ｃれあて	$obj = Foo::create([ '' => , ]);	名詞*
+：：ｄろｐ	Schema::drop('foos');	名詞*
+：：ｆｃ	::('', function(){  });	名詞*
+：：ｆｃ	Foo::('', function($foo){  });	名詞*
+：：ｆｗｈ	DB::meth('meth from foos where col = ?', []);	名詞*
+：：ｆぁｓｈ	Session::flash('', '表示内容');	名詞*
+：：ｆんｗ	$obj = Foo::firstOrNew(['' =>   ]);	名詞*
+：：ｊそん	Response::json($arr);	名詞*
+：：ｊそん	return Response::json($arr);	名詞*
+：：ｐれてんｄ	$sql = DB::pretend(function(){ DB::meth('', []); });	名詞*
+：：ｑｒｙ	$builder = Trn::query();	名詞*
+：：ｒｂ	DB::rollBack();	名詞*
+：：ｓ３	Facades\Strage::disk('s3')->allFiles();	名詞*
+：：ｓたて	DB::statement('meth foos');	名詞*
+：：ｔｂ	DB::table('foos')->();	名詞*
+：：ｔｂ	DB::table('s')->update(['' =>   ]);	名詞*
+：：ｔｂ	DB::table('s')->get();	名詞*
+：：ｔｂ	DB::table('s')->where('', '')->first();	名詞*
+：：ｔｂ	$ = DB::table('s')->where('', '');	名詞*
+：：ｔｂ	$ = DB::table('s')->();	名詞*
+：：ｔｂ	$ = DB::table('s');	名詞*
+：：ｔｂ	$ = DB::table('s')->orderBy('id', 'desc')	名詞*
+：：ｔｂ	$ = DB::table('s')->where('', '')->();	名詞*
+：：ｔｂ	$query = DB::table('s')->select('name');	名詞*
+：：ｔｂ	DB::table('s')->insert(['' =>  , '' =>  ]);	名詞*
+：：ｔｂ	$id = DB::table('s')->insertGetId(['' =>  , '' =>  ]);	名詞*
+：：ｔらんさｃｔ	DB::transaction(function(){ DB::table('foos')->();  });	名詞*
+：：ｔらんさｃｔ	DB::beginTransaction();	名詞*
+：：ｗｈ	$objs = App\Foo::where('', 1);	名詞*
+：：ｗｈ	$objs = Foo::where('', 1);	名詞*
+：：ｗｈ	DB::meth('meth foos where col = ?', []);	名詞*
+：：ｗｈ	App\Foo::where('name', '=', 'val')	名詞*
+：：ｗｈ	$rec = App\Foo::where('name', '=', 'val')->get();	名詞*
+：：ｗｈ	$rec = App\Foo::where([ '' => '', ])->get();	名詞*
+：：ｗｈ	App\Foo::where([ '' => '', ])	名詞*
+：：ｗｈ	App\Foo::where('name', '>', 0)	名詞*
+：：ｗｈ	App\Foo::where('name', '<', 9)	名詞*
+：：ｗｈ	$rec = App\Foo::where('name', '<', 9)->get();	名詞*
+：：ｗｈ	$rec = App\Foo::where('name', '>', 0)->get();	名詞*
+：：ｗｈ	$rec = App\Foo::where('', '=', '')->first();	名詞*
+：：ｗｈ	$rec = App\Foo::where([ '' => '', ])->first();	名詞*
+：：ｗｈ	$rec = App\Foo::where([ '' => '', ])->();	名詞*
+：：ｗｈ	$rec = App\Foo::where('', '=', '')->get()->toArray();	名詞*
+：：ｗｈ	$rec = App\Foo::where('', '=', '')->get()->toJson();	名詞*
+：：ｗｈ	$rec = App\Foo::where([ '' => '', ])->get()->toArray();	名詞*
+：：ｗｈ	$rec = App\Foo::where([ '' => '', ])->get()->toJson();	名詞*
+：：ｗｈ	$ = App\::where('', );	名詞*
+：：ｗｈ	App\User::where('name', $value)	名詞*
+：：ｗｈ	::where('name', $value)	名詞*
+：：ｗｈ	::where('name', $value)->first()	名詞*
+：：ｗｈ	Trn::where('email', '=', $email)->where('id', '!=', $id)	名詞*
+：：ぃｓてん	DB::listen(function($sql, $bindings, $time){  });	名詞*
+：：あｌｌ	$objs = Foo::all();	名詞*
+：：あｌｌ	$objs = App\Foo::all();	名詞*
+：：あぼｒｔ	::abort(404);	名詞*
+：：いんｇ	App\Foo::ing(function($foo){  });	名詞*
+：：いんｓ	DB::insert('insert into foos (id, name) values(?, ?)', []);	名詞*
+：：いんｓ	App\Foo::insert([ ['' =>  '', '' => '', ], [ '' => '', ] ]);	名詞*
+：：いんｓ	App\Foo::insert([ ['' =>  '', '' => '', ], [], [], [] ]);	名詞*
+：：いんｓ	App\Foo::insert([ ['n1' =>  'v1', n2'' => 'v2', ], [], []]);	名詞*
+：：いんふぉ	Log::info($query);	名詞*
+：：うｐｄ	DB::update('update foos set col1 = '?' where col2 = ?',[,]);	名詞*
+：：うｐｄ	DB::update('update foos set col1 = '?' where id = ?', [,]);	名詞*
+：：うぇん	App::when('Foo')	名詞*
+：：うぇん	App::when('Foo')->needs('Inf')->give('Super');	名詞*
+：：うんｇ	Model::unguard();	名詞*
+：：うんｇ	Model::unguard(); Model::reguard();	名詞*
+：：う゛ぁｌ	DB::meth('meth foos values (?, ?)', [ , ]);	名詞*
+：：えｄ	App\Foo::ed(function($foo){  });	名詞*
+：：えｑｌ	DB::enableQueryLog();	名詞*
+：：えｘｔ	Foo::extend('bar', function($app){ return new Bar; });	名詞*
+：：おんｌｙ	$input = Input::only(['']);	名詞*
+：：おんｌｙ	$input = Input::only(array_keys($rules)  );	名詞*
+：：おんｌｙｔｒ	$obj = Foo::onlyTrashed()->find($id);	名詞*
+：：おんｌｙｔｒ	::onlyTrashed()->find($id);	名詞*
+：：くｒｒ	$route = Route::current();	名詞*
+：：くｒｒ	$routeName = Route::currentRouteName();	名詞*
+：：くｒｒ	$action = Route::currentRouteAction();	名詞*
+：：げｔ	int FooCls::get(){ return m_; }	名詞*
+：：こｍｐ	Foos::STATUS_COMPLETED	名詞*
+：：こっみｔ	DB::commit();	名詞*
+：：しゃれ	View::share('key', 'value');	名詞*
+：：せｌ	$results = DB::select('select * from fs where id = ?', []);	名詞*
+：：せｌ	DB::select('select * from fs where id = :id', [ 'id' => 1]);	名詞*
+：：せｔ	void FooCls::set(type arg){ m_ = arg; }	名詞*
+：：せんｄ	\Mail::send('.', ['' =>  $command->-> ], function($mess){});	名詞*
+：：ちゅんｋ	::chunk(100, function($users){ foreach($users as $user){}});	名詞*
+：：ぢｓｋ	Facades\Strage::disk('s3')->allFiles();	名詞*
+：：ぢえ	Schema::dropIfExists('foos');	名詞*
+：：でｌ	DB::delete('delete from foos where id = ?', []);	名詞*
+：：でｓｔ	App\Foo::destroy(主キー値);	名詞*
+：：でｓｔ	App\Foo::destroy(1);	名詞*
+：：でｓｔ	App\Foo::destroy([1, 2, 3]);	名詞*
+：：でｓｔ	$result = UpdateTrnUsr::destroy($id);	名詞*
+：：ぱぎ	$users = App\User::paginate(9);	名詞*
+：：びんｄ	App::bind('foo', function(){ return Foo; });	名詞*
+：：びんｄ	App::bind('Inf', 'Foo');	名詞*
+：：ふぃんｄ	$foo = Foo::find($id);	名詞*
+：：ふぃんｄ	public function update($id){ $foo = Foo::find($id); }	名詞*
+：：ふぃんｄ	$record = Foo::find(limit数);	名詞*
+：：ふぃんｄ	$record = App\Foo::find(9);	名詞*
+：：ふぃんｄ	$record = Foo::find(ID値, ['name', 'email']);	名詞*
+：：ふぃんｄ	$record = App\Foo::find(1);	名詞*
+：：ふぃんｄ	$record = App\Foo::find(1)->update(['' =>   ]);	名詞*
+：：ふぃんｄ	$record = App\Foo::find(1)->();	名詞*
+：：ふぃんｄ	$bar = App\Foo::find(1)->bar;	名詞*
+：：ふぃんｄ	$foo(s) = App\Bar::find(1)->foo(s);	名詞*
+：：ふぃんｄ	$bar(s) = App\Foo::find(1)->bar(s);	名詞*
+：：ふぃんｄ	$ = App\::find();	名詞*
+：：ふぃんｄ	$fobj = ReferenceTrnFobj::find($id);	名詞*
+：：ふぃんｄ	$updateTrnUser = UpdateTrnUsr::find($id);	名詞*
+：：ふぉｆ	$model = App\::findOrFail(1);	名詞*
+：：ふぉｆ	App\::findOrFail($id);	名詞*
+：：べぎん	DB::beginTransaction(); try{  }catch(DBException $e){  }	名詞*
+：：ぼおｔ	parent::boot($events);	名詞*
+：：まけ	$foo = App::make('foo');	名詞*
+：：まけ	$foo = App::make('Foo');	名詞*
+：：まけ	App::make('Inf')->meth();	名詞*
+：：まけ	$foo = ServiceProvider::make('Foo');	名詞*
+：：んｗｔｈ	Foo::Foo(){ m_barp = new Bar(this); }	名詞*
+：ｃまｌｌ	*cp = (char*)malloc(sizeof(char)*SIZE);	名詞*
+：ｋ：ｆ	 * this.key * this.walkForce	名詞*
+：ｋ：ｆ	 * key * this.walkForce	名詞*
+：ｋ：ｔ	*key * this.field	名詞*
+：ｔｍｐ	*addr2 = tmp;	名詞*
+：ｔｍｐ	*p2 = tmp;	名詞*
+：ｔｍｐ	*p = tmp;	名詞*
+：あｄｄｒ	*addr = *addr2;	名詞*
+：いんｄ	[:index]	名詞*
+：いんｔ	 + (int)$	名詞*
+：んｔｈ	*:nth-child()	名詞*
+：んｔｈ	:nth-child(even)	名詞*
+：んｔｈ	:nth-child(odd)	名詞*
+：んｔｈ	*:nth-child(){}	名詞*
+：んｔｈ	:nth-child(even){}	名詞*
+：んｔｈ	:nth-child(odd){}	名詞*
+；；	\+	名詞*
+；ｄｌｔ	 + _dlt	名詞*
+；ｓｔｒ	+= str()	名詞*
+；ｓｔｒ	+= str(	名詞*
+；ｖ	" + var + "	顔文字*
+；あｃｔ	+ "&action="	名詞*
+；れｌｄｌｔ	feb = jan + reldlt	名詞*
+＠ｂれあｋ	@break($-> == )	名詞*
+＠ｐｒｍ	@. = params[:]	名詞*
+＠ｐｒｍ	@テーブル.属性名 = params[:属性名]	名詞*
+＠ｐｒｍ	@obj.name = params[:name]	名詞*
+＠ｐｒｍ	@obj.name = params[:obj][:name]	名詞*
+＠ｐｒｍ	@param [] $	名詞*
+＠ｐｒｍ	@param array $	名詞*
+＠ｐｒｍ	@param int $	名詞*
+＠ｐｒｍ	@param Object $	名詞*
+＠ｐｒｍ	@param \Illuminate\Http\Request $request	名詞*
+＠ｐｒｍ	@prm \ $ 	名詞*
+＠ｐｒｍ	@param string $	名詞*
+＠ｐｒｍ	@param Request $request	名詞*
+＠ｐろｐ	@property def attr(self): return self.attr	名詞*
+＠ｐろｐ	@attr.setter def attr(self, arg): self.attr = arg	名詞*
+＠ｐろｐ	@property def prop(self): return 演算(self.属性本名, arg)	名詞*
+＠ｐろｐ	@property def prop(self): return 2 * self.属性本名	名詞*
+＠ｐろｐ	@property int $	名詞*
+＠ｓたｃｋ	<head>@stack('scripts')</head>	名詞*
+＠ｓたｃｋ	@stack('scripts')	名詞*
+＠ｙｌｄ	@yield('content')	名詞*
+＠あｒｒ	@param array $	名詞*
+＠いｆｌ	@if($loop->first)  @endif	名詞*
+＠いｆｌ	@if($loop->last)  @endif	名詞*
+＠いｆｌ	@if($loop->first)  @endif @if($loop->last)  @endif	名詞*
+＠いｆｌ	@if($loop->)  @endif	名詞*
+＠いｆｌ	@if($loop->parent->first)  @endif	名詞*
+＠いｆｌ	@if($loop->parent->last)  @endif	名詞*
+＠いｆｌ	@if($loop->)  @endif index iteration remaining count depth	名詞*
+＠いｆｌ	@if($loop->parent->)  @endif	名詞*
+＠いふぃｓ	@if(!isset($[''])  ) @endif	名詞*
+＠いふぇｍｐ	@if(empty( ) ) @endif	名詞*
+＠いふぇｍｐ	@if(!empty( ) ) @endif	名詞*
+＠いふぇｍｐ	@if(empty($->deleted_at) ) @endif	名詞*
+＠いんｃ	@include('partials.footer')	名詞*
+＠いんｔ	@param int[] $	名詞*
+＠いんｔ	@param int $	名詞*
+＠えｘｔ	@extends('layouts.default')	名詞*
+＠えあｃｈ	@each('view.foo', $jobs, '', 'view.bar')	名詞*
+＠おｂｊ	@obj = クラス.new(ハッシュ)	名詞*
+＠おｂｊ	@obj = クラス.new(nm1:params[:nm1], nm2:params[:nm2])	名詞*
+＠おｂｊ	@obj = M.new(params.require(:obj).permit(:name1, :name2))	名詞*
+＠おｂｊ	@obj = Obj.new(obj_params)	名詞*
+＠おｂｊ	@obj = Obj.new(ストロングパラメータメソッド)	名詞*
+＠おｂｊ	@obj.user_id = current_user.id	名詞*
+＠おｂｊ	@obj = current_user.objs.build(obj_params)	名詞*
+＠おｂｊ	@param Object $	名詞*
+＠おｂｊｓ	@objs = @fobj.objs	名詞*
+＠せｃｔ	@section('') footer{ prop: value; }	名詞*
+＠せｃｔ	@section('') footer{ prop: value; } @show	名詞*
+＠せｃｔ	@section('') @show	名詞*
+＠せｃｔ	@section('')	名詞*
+＠せｃｔ	@section('') @parent @stop	名詞*
+＠せｃｔ	@section('content')	名詞*
+＠せｃｔ	@section('content') @endsection	名詞*
+＠せｃｔ	@section('inline-script') @parent @stop	名詞*
+＠せｃｔ	@section('inline-style') @parent @stop	名詞*
+＠せｓｓ	@if(session('')  )<div class="">{{ session('')}}</div>@endif	名詞*
+＠ぱれんｔ	@parent .child tag{} #child tag.attr{} @stop	名詞*
+＠ふぉｂｊ	@fobj = @user.fobjs.build	名詞*
+＠ふぉｒ	@for ($i = 0; $i <= 9; $i++) @endfor	名詞*
+＠ふぉれ	@foreach($foos as $foo) @endforeach	名詞*
+＠ふぉれ	@foreach($foos as $foo) <>{{ $foo-> }}</> @endforeach	名詞*
+＠ふぉれ	@foreach($s as $) @endforeach	名詞*
+＠ふぉれ	@foreach($ as $item) {{ $item }} @endforeach	名詞*
+＠ふぉれ	@foreach($ as $item)  <p>{{ $item }}</p> @endforeach	名詞*
+＠ふぉれ	@foreach($foos->chunk(5) as $chunk) @endforeach	名詞*
+＠ふぉれ	@foreach($s as $) div[class=""]{ {{ \$-> }} } @endforeach	名詞*
+＠ふぉれ	@foreach($chunk as $item) div[class=""] @endforeach	名詞*
+＠ふぉれ	@foreach( as $key=> $value) @endforeach	名詞*
+＠ふぉれｋｖ	@foreach( as $key=> $value) @endforeach	名詞*
+＠ふぉれいｆ	@foreach($s as $) @if($-> == ) @endif @endforeach	名詞*
+＠ぷｓｈ	@push('scripts')<script src=".js"></script>@endpush	名詞*
+＠まｎｙ	@manys = Many.where(one_id: @one.id)	名詞*
+＠まｎｙ	@manys = @one.manys	名詞*
+＠まｎｙ	@many = @one.manys.build	名詞*
+＠まんｙ	@manys = @one.manys	名詞*
+＠まんｙ	@many = @one.manys.build	名詞*
+＠めｔｈ	@method t meth()	名詞*
+＠ろうｔ	@app.route('/')	名詞*
+Ａ	A	名詞*
+Ａ	a	名詞*
+ＣＬＳ	class=""	名詞*
+Ｄぃ	div[class=""]>label+input[type="" name="" value="" class=""]	短縮読み*
+Ｅ	e	名詞*
+Ｅ	E	名詞*
+ＨＴＭＬ	<!DOCTYPE html> <html><head></head></html>	名詞*
+Ｉ	I	名詞*
+Ｉ	i	名詞*
+ＩＤ	id=""	名詞*
+Ｍａｔｈ	Math.ceil()	名詞*
+Ｏ	o	名詞*
+Ｏ	O	名詞*
+ＳＣＲ	<script></script>	短縮読み*
+ＳＣＲ	<script src=""></script>	短縮読み*
+ＴＧ	<></>	名詞*
+ＴんＶＣ	<input type="text" name="" value="" class="">	短縮読み*
+ＴんＶＣ	input[type="" name="" value="" class=""]	短縮読み*
+Ｕ	U	名詞*
+Ｕ	u	名詞*
+Ｗｈああ	while(){}	名詞*
+＾	~	名詞*
+＾	!	名詞*
+＾	"	名詞*
+＾	#	名詞*
+＾	$	名詞*
+＾	%	名詞*
+＾	&	名詞*
+＾	'	名詞*
+＾	(	名詞*
+＾	)	名詞*
+＾	=	名詞*
+＾４	^$	名詞*
+＾＾	\^	名詞*
+＾＾ｓｖ	 == 0, '',	名詞*
+＾＾ｓｖ	( == 0, '', )	名詞*
+＾・・４	^(//)(.)*$	名詞*
+ｂ１２３	( b1, b2, b3 ) = (nw['b1'], nw['b2'], nw['b3'])	名詞*
+ｂｃｒｙｐｔ	$password = bcrypt('clear_password');	名詞*
+ｂｇｒｍ	bgrms = bigrams(text)	名詞*
+ｂｇｒｍ	from nltk import bigrams	名詞*
+ｂｌｔｍ	public function fos(){ return $belongsToMany(Fo::class); }	名詞*
+ｂｓｔｒ	base += str()	名詞*
+ｂｓｔｒ	base += str(	名詞*
+ｂｔんｍ	button[name=""]	名詞*
+ｂｖｐｎ	$stm->bindValue(':name', $_POST["name"], PDO::PARAM_STR);	名詞*
+ｂｖぴｄ	$stm->bindValue(':id', $_POST["id"], PDO::PARAM_INT);	名詞*
+ｂｙてｓ	the_bytes = bytes(list)	名詞*
+ｂｙてｓ	the_bytes = bytes(range(0, 256))	名詞*
+ｂｙてｓ	the_bytes = bytes(byarr)	名詞*
+ｂｙてｓ	input = bytes(input, 'utf-8')	名詞*
+ｂｙてｓ	rep_bytes = bytes(rep_str, 'utf-8')	名詞*
+ｂｙてｓ	_bytes = bytes(_str, 'utf-8')	名詞*
+ｂぁんｋ	{ include_blank: '' }	名詞*
+ｂぁんｋ	{ include_blank: '選択してください' }	名詞*
+ｂぁんｋ	target="_blank"	名詞*
+ｂぉｃｋ	class="block"	名詞*
+ｂぉぎんふぉ	<title><?php bloginfo('name'); ?></title>	名詞*
+ｂぉぎんふぉ	<?php bloginfo('name'); ?>	名詞*
+ｂれあｋ	if i > 5 break end	名詞*
+ｂれあｋ	for(i=0; i <= 10; i++){if(i > 5){break;}}	名詞*
+ｂれあｋ	if(i > 5){break;}	名詞*
+ｂれあｋ	if input == 'q' : break	名詞*
+ｃ：ｆｃ	char *func(type* arg, type* arg2){ return &; }	名詞*
+ｃｂんｗｗ	callback(null, window, window.jQuery);	名詞*
+ｃｃんｔ	class FooController extends Controller{}	名詞*
+ｃｃんｔ	class _Controller extends Controller{ public function f(){}}	名詞*
+ｃｆｇｒ	cfg.read('.cfg')	名詞*
+ｃｈｋこんｆ	chkconfig サービス on	名詞*
+ｃｈくｒ	chain += current + 	名詞*
+ｃｈくｒ	chain += current + ' '	名詞*
+ｃｈもｄ	chmod 774 <ファイル/ディレクトリ名>	名詞*
+ｃｈもｄ	chmod -R 777 ./	名詞*
+ｃｌ４ｔｈ	console.log($(this).val()  );	名詞*
+ｃｌｂ：	def callback() :	名詞*
+ｃｌｃｐ	console.log(obj.constructor.prototype.prop);	名詞*
+ｃｌｐｒｐ	console.log(obj.__proto__.prop);	名詞*
+ｃｌｐｒｔ	console.log(.prototype);	名詞*
+ｃｌｐｒｔ	console.log(obj.__proto__ === Foo.prototype);	名詞*
+ｃｌｐｒｔ	console.log(obj.__proto__.prop);	名詞*
+ｃｌｐｒｔ	console.log(obj.__proto__ === Array.prototype);	名詞*
+ｃｌｐｒｔ	console.log(obj.__proto__ === String.prototype);	名詞*
+ｃｌｐｒｔ	console.log(obj.__proto__);	名詞*
+ｃｌｓ	, class:""	名詞*
+ｃｌｓ	, cls=	名詞*
+ｃｌｓ	class=""	名詞*
+ｃｌｓ；	クラス obj1, obj2;	名詞*
+ｃｌｓ；	class Foo{};	名詞*
+ｃｌｓ；	class Foo{ public:  };	名詞*
+ｃｌｓ；	class Foo{ public: int num; string name; };	名詞*
+ｃｌｓ；	class Foo{ public: int num; string name; char* ch; };	名詞*
+ｃｌｓ；	class Foo{ public: private: };	名詞*
+ｃｌｓ；	class Foo{ public: };	名詞*
+ｃｌｓｍｃｒ	class << C def class_macro end end	名詞*
+ｃｌｓｒ	def outer(arg) : def closure() : return arg return inner	名詞*
+ｃｌｓｒ：	def outer(arg) : def closure() : return arg return inner	名詞*
+ｃｌｓ・	class Foo{ /* @return */ }	名詞*
+ｃｌｓねｗ	= Class.new do end	名詞*
+ｃｌｔｈ	console.log(this);	名詞*
+ｃｌｔｈ	console.log(this.meth()  );	名詞*
+ｃｌｔｈ	console.log(this.prop  );	名詞*
+ｃｌｔｈ	console.log(this.meth(), this.meth()  );	名詞*
+ｃｌｔｈ	console.log(this.constructor, this.constructor);	名詞*
+ｃｌｔｈ	console.log($(this)  );	名詞*
+ｃｌｔｙ	console.log(typeof );	名詞*
+ｃｌｔｙ	console.log(typeof , typeof );	名詞*
+ｃｌこん	console.log(obj.constructor === Foo);	名詞*
+ｃｌこん	console.log(obj.constructor);	名詞*
+ｃｌしｆ	class クラス implements インタフェース{}	名詞*
+ｃｌしｍｐ	class クラス implements インタフェース{}	名詞*
+ｃｌしｍｐ	class クラス implements インタフェース, インタフェース2{}	名詞*
+ｃｌしんｐ	class クラス implements インタフェース, インタフェース2{}	名詞*
+ｃｌふぃんｄ	console.log($(this).find('')  );	名詞*
+ｃｌほｐ	console.log(obj.hasOwnProperty()  );	名詞*
+ｃｍｐｌ	cmpl $, %eax	名詞*
+ｃｍｓｔ	Vector3 tapPoint = Camera.main.ScreenToWorldPoint()	名詞*
+ｃｍぽしｔ：	class 集約クラス(): def __init__(self, partsobj1, partsobj2):	名詞*
+ｃｐｆ：	class Factory(protocol.Factory) : def (self,): return Echo()	名詞*
+ｃｐｆ：	class Factory(protocol.Factory) : protocol = Echo	名詞*
+ｃｐｆ：	class Factory(protocol.ClientFactory) : 	名詞*
+ｃｐｐ：	class Echo(protocol.Protocol) :	名詞*
+ｃｐふぁｃｔ	class Factory(protocol.Factory) : def (self,): return Echo()	名詞*
+ｃｐれｑ	"require":{ "fw/fw": "0.0.*" },	名詞*
+ｃｐれｑ	"require":{ "fw/fw": "~0.0" },	名詞*
+ｃｐれｑ	"require":{ "/": "..*" },	名詞*
+ｃｐれｑｄｖ	"require-dev":{ "lib/": "0.0.*" },	名詞*
+ｃｐれｑｄｖ	"require-dev":{ "/": "..*" },	名詞*
+ｃｒｄｂ	create database	名詞*
+ｃｒｄｂ	DB名 character set utf8;	名詞*
+ｃｒｄｂ	CREATE DATABASE foo;	名詞*
+ｃｒｓｆ	<%= crsf_meta_tags %>	名詞*
+ｃｒｔｂ	CREATE TABLE テーブル ()	名詞*
+ｃｓｄｄ	printf(" > "); scanf("%d%d", , );	名詞*
+ｃｓｆｃ	const string func() const;	名詞*
+ｃｓｒｆ	<%= csrf_meta_tags %>	名詞*
+ｃｓｖｄｒ	csvin = csv.DictReader(fileobj, fieldnames=['col1', 'c2',])	名詞*
+ｃｓｖｄｒ	csvin = csv.DictReader(fileobj)	名詞*
+ｃｓｖｄｒ	csvin = csv.DictReader(strio)	名詞*
+ｃｓｖｄｗ	csvout = csv.DictWriter(fileobj, [ 'col1', 'col2',])	名詞*
+ｃｓｖｒ	csvin = csv.reader(fileobj)	名詞*
+ｃｓｖｒ	csvin = csv.reader(strio)	名詞*
+ｃｓｖｗ	csvout = csv.writer(fileobj)	名詞*
+ｃｓｖｗｈ	csvout.writeheader()	名詞*
+ｃｓｖｗｒ	csvout.writerows(rows)	名詞*
+ｃｔｃ：	class Test(unittest.TestCase) : 	名詞*
+ｃｔｃｔ	const T arg, const T arg2	名詞*
+ｃｔｈ：	class Foo(threading.Thread) :	名詞*
+ｃｔｙぺ	class="type-"	名詞*
+ｃｔｙぺ	class="type-C"	名詞*
+ｃｔｙぺ	class="type-A"	名詞*
+ｃｔｙぺ	class="type-B"	名詞*
+ｃｔｙぺ	#include <ctype.h>	名詞*
+ｃｖｓｆ	config.vm.synced_folder "../data", "/vagrant_data"	名詞*
+ｃｗ０１	Console.Write("{0}{1}", , );	名詞*
+ｃｗｇｃ	Console.WriteLine("" + GC.GetTotalMemory(false)  );	名詞*
+ｃｗｇｔ	Console.Write(.GetType()  );	名詞*
+ｃｗｌ０	Console.WriteLine("{0}", );	名詞*
+ｃｗｌ０１	Console.WriteLine("{0}{1}", , );	名詞*
+ｃｗｌ０１２	Console.WriteLine("{0}{1}{2}", , , );	名詞*
+ｃｗｌ１	Console.WriteLine("{0}{1}", , );	名詞*
+ｃｗｌ２	Console.WriteLine("{0}{1}{2}", , , );	名詞*
+ｃｗｌ；	Console.WriteLine("" + );	名詞*
+ｃｗｌ；	Console.WriteLine( + "");	名詞*
+ｃｗｌ；	Console.WriteLine(  + "" + );	名詞*
+ｃｗｌ；	Console.WriteLine("" + + "");	名詞*
+ｃｗｌｃ	Console.WriteLine(calc(x, y)  );	名詞*
+ｃｗｌｇｔ	Console.WriteLine(.GetType()  );	名詞*
+ｃｗｌｇｔｍ	Console.WriteLine("" + GC.GetTotalMemory(false)  );	名詞*
+ｃｗｌｔｓ	Console.WriteLine(obj.ToString()  );	名詞*
+ｃｗｔｓ	Console.Write(obj.ToString()  );	名詞*
+ｃｗんｍんｍｓ	Console.Write("nums_nums[{0}][{1}]", m, n);	名詞*
+ｃぁｇｓ	console.log(arguments[]);	名詞*
+ｃぁｓｓ	__CLASS__	名詞*
+ｃぃｍｐ	class クラ implements イン, イン2{ public function 関数名($){} }	名詞*
+ｃぉすれ	use Closure;	名詞*
+ｃけｙｓ	conn.keys('*')	名詞*
+ｃばせ：	class テーブル名(Base) :	名詞*
+ｃふぉｒｍ	class="form"	名詞*
+ｃまｌｌ	cp = (char*)malloc(sizeof(char)*SIZE);	名詞*
+ｃまｔｈ	#include <cmath>	名詞*
+ｃれあｔ	$params['creat'];	名詞*
+ｃれあｔ	creat	名詞*
+ｃれあｔ	'creat'	名詞*
+ｃれあて	ActiveRecord::Base.create_table :s do |t| end	名詞*
+ｃれあて	def create @ = .new @. = "" @. = end	名詞*
+ｃれあて	def create @ = .new @. = params[:] @. = params[:] end	名詞*
+ｃれあて	def create @o = C.new @o.nm = params[:nm] @o.save end	名詞*
+ｃれあて	def create @o = C.new  @o.save end	名詞*
+ｃれあて	post '/' => '#create'	名詞*
+ｃれあて	post '/コントローラ' => 'コントローラ#create'	名詞*
+ｃれあて	app/views//create.html.erb	名詞*
+ｃれあて	create.html.erb	名詞*
+ｃれあて	def create @o = M.new @o.n = params[:id] @o.save end	名詞*
+ｃれあて	def create @o = M.new @o.n = params[:id] @o.save red end	名詞*
+ｃれあて	respond_to do |format| if @obj.save else end end 	名詞*
+ｃれあて	def create @obj = Model.new(obj_params) end	名詞*
+ｃれあて	if @obj.save redirect_to : ,notice '' @obj else render : end	名詞*
+ｃれあて	def create @o = file = if ! .nil? end @o.name if @o.save end	名詞*
+ｃれあてｄ	status: :created	名詞*
+ｃれあてｄ	created TIMESTAMP DEFAULT CURRENT_TIMESTAMP,	名詞*
+ｃれあてｔｂ	2016_01_01_000009_create_foos_table.php	名詞*
+ｃんｃｔ	'Connaction':'keep-alive',	名詞*
+ｃんｍｓ	char names[][256] = { "", "", };	名詞*
+ｃんｔｘ	conn.text	名詞*
+ｃんｔこんｓ	class Controller{  public function __construct(){  }  }	名詞*
+ｄ：：：	def inner(*args, **kwargs) : return result	名詞*
+ｄ：：：	def meh(*args, **kwargs) : return result	名詞*
+ｄ：：：	def meth(*args, **kwargs) : lists = [ arg for arg in args ]	名詞*
+ｄ：ｆｒ	def (): from .request import return ()	名詞*
+ｄ：ｆｒ	def (): from .request import return	名詞*
+ｄ：ｆｒ	def (): from .request import return ""	名詞*
+ｄ：ｆｒ	def (*args): from .request import return ()	名詞*
+ｄ：ｆｒ	def (args*): from .request import return	名詞*
+ｄ：ｆｒ	def (): from .request import	名詞*
+ｄ：ｆｒ	def (*args): from .request import	名詞*
+ｄ：ｐｒ	def _(): print('')	名詞*
+ｄ：ｐｒ	def _(): print("")	名詞*
+ｄ：ｐｒ	def _(*args): print('')	名詞*
+ｄ：ｐｒ	def _(*args): print("")	名詞*
+ｄ：ｐｒ	def (): print("")	名詞*
+ｄ：ｐｒ	def (): print('')	名詞*
+ｄ：ｐｒ	def (*args): print("")	名詞*
+ｄ：ｐｒ	def (*args): print('')	名詞*
+ｄ：ｐｒ	def show() : print('', )	名詞*
+ｄ：ｙｌ	def () : yield ""	名詞*
+ｄ：いｍ	def _() : from foo import bar 	名詞*
+ｄ：いｍ	def _() : import 	名詞*
+ｄ：ふぃ	def (): from import return ()	名詞*
+ｄ：ふぃ	def (*args): from import return ()	名詞*
+ｄ：ふぃ	def (): from import return 	名詞*
+ｄ：ふぃ	def (): from import return ""	名詞*
+ｄ：ふぃ	def (*args): from import return 	名詞*
+ｄ：ふぃ	def (): from import	名詞*
+ｄ：ふぃ	def (*args): from import	名詞*
+ｄ：ふぃｒ	def _(): result = [  x for x in range(0, 9) ] return result 	名詞*
+ｄａｙ	ｔｔ	名詞*
+ｄｂ：：	double**	名詞*
+ｄｂ：：	double N::dbl = 0.0;	名詞*
+ｄｂ：：	double N::dbl;	名詞*
+ｄｂ：：	DB::tb('foos')	名詞*
+ｄｂ：：	DB::meth('meth foos where col = ?', []);	名詞*
+ｄｂ：：	DB::beginTransaction(); DB::commit(); DB::rollBack();	名詞*
+ｄｂ：：	DB::beginTransaction(); try{  }catch(DBException $e){  }	名詞*
+ｄｂ：：	DB::commit();	名詞*
+ｄｂｌｓ	double dbls[256];	名詞*
+ｄｂｌｓ	dbls[0] = .;	名詞*
+ｄｂｌｓ	dbls[1] = .;	名詞*
+ｄｂｌｓ	dbls[2] = .;	名詞*
+ｄｂｌｓ	dbls[3] = .;	名詞*
+ｄｂｌｓ	dbls[4] = .;	名詞*
+ｄｂｔｂ	DB::table('foos');	名詞*
+ｄｂｔｂ	DB::table('foos')->select(['']);	名詞*
+ｄｂみｇ	database/migrations/	名詞*
+ｄｂもｐ	db = dbm.open('', 'c')	名詞*
+ｄｂもｐ	db = dbm.open('', 'r')	名詞*
+ｄｂもｐ	db = dbm.open('', 'w')	名詞*
+ｄｃんｆ	"data-confirm" => "本当に削除しますか?"	名詞*
+ｄｄ	%d	名詞*
+ｄｄｂｌ	dd( (bool)$);	名詞*
+ｄｄｇｔ	dd(gettype()  );	名詞*
+ｄｄｊでｃ	dd(json_decode()  );	名詞*
+ｄｄｓｔ	dd( (string)$);	名詞*
+ｄｄｔｈ	dd($this->);	名詞*
+ｄｆｄｘ	df/dx	名詞*
+ｄｆｄｘ	∂f/∂x0	名詞*
+ｄｆｄｘ	∂f/∂x1	名詞*
+ｄｆｌｔ	defaults(metname, *args, &blk)	名詞*
+ｄｆｌｔ	default: 処理; break;	名詞*
+ｄｆｓｔ：	def func(first=0, second=0, third=0, last=0) :	名詞*
+ｄｐｒ：	def (): print('', )	名詞*
+ｄｒｂ：	def (): with open('', 'rb') as fileobj : 	名詞*
+ｄｒｆｎ	dictreaded.fieldnames	名詞*
+ｄｒｇｓ	driver.get('https://')	名詞*
+ｄｒｇｗ	driver.get('http://www.')	名詞*
+ｄｓ：：：：	def find_one(self, *args, **kwargs): 	名詞*
+ｄｓ：ｐｒ	def _(self) : print('', )	名詞*
+ｄぃ	div[class=""]>label+input[type="" name="" value="" class=""]	短縮読み*
+ｄせｌｆ	def self.; ; end	名詞*
+ｄせｌｆ	def self.; @ = ; end	名詞*
+ｄせｓｓ	devise/sessions	名詞*
+ｄせｓｓ	destroy_user_session	名詞*
+ｄせｓｓ	destroy_user_session_path	名詞*
+ｄつｒｌ	data-url="{{ route('foos.', $foo->id) }}"	名詞*
+ｄつちｌ	import dateutil	名詞*
+ｄつちｌ	from dateutil.parser import parse	名詞*
+ｄつちｌ	from dateutil.relativedalta import relativedelta	名詞*
+ｄのね：	def foo(arg=None) : if arg is None : arg = []	名詞*
+ｄぱｓｓ	devise/passwords	名詞*
+ｄふぃｒ	def _(): result = [  x for x in range(0, 9) ] return result 	名詞*
+ｄふぃｒ：	def _(): result = [  x for x in range(0, 9) ] return result 	名詞*
+ｄふぉお	def foo() : if __name__ == '__main__' : foo()	名詞*
+ｄふぉお：	def foo() : if __name__ == '__main__' : foo()	名詞*
+ｄべｘｃ	if($result === false){ throw new DBException(); }	名詞*
+ｄまｌｌ	dp = (double*)malloc(sizeof(double)*SIZE);	名詞*
+ｄまっぉｃ	dp = (double*)malloc(sizeof(double)*SIZE);	名詞*
+ｄめｔｈ	____(){}	名詞*
+ｄらんげ：	def my_range(first, last, step) : n = first	名詞*
+ｄらんげ：	while n < last : yield n n += step	名詞*
+ｆ：：：	func(*args, **kwargs)	名詞*
+ｆｃｃｂ	function(callback){}	名詞*
+ｆｃｗ４	function(window, $){}	名詞*
+ｆｃ・：	$result = func() ?: 'default';	名詞*
+ｆｃんｔ	class="form-control"	名詞*
+ｆｃんｔ	form-control	名詞*
+ｆｄｍｐ	json_dmp = json.dumps(data)	名詞*
+ｆｆ：；	{ font-family: serif; }	名詞*
+ｆｆ：；	{ font-family: ""; }	名詞*
+ｆｆ：；	font-family: serif;	名詞*
+ｆｆ：；	font-family: "";	名詞*
+ｆｆｃｓ	func(func2(), "");	名詞*
+ｆｆｓｃ	fflush(stdout); scanf("%", &var);	名詞*
+ｆｋｖ：	for key, value in 辞書名.items() :	名詞*
+ｆｋｖ：	for key, value in .items() :	名詞*
+ｆｋう゛ぃ：	for key, value in () : 	名詞*
+ｆｋう゛ぃ：	for key, value in () : print(key, value)	名詞*
+ｆｋう゛ぃい：	for key, value in 辞書名.items() :	名詞*
+ｆｋう゛ぃぢ：	for key, value in dict.items() :	名詞*
+ｆｋう゛ぃぢ：	for key, value in 辞書名.items() :	名詞*
+ｆｌ：；	float: left;	名詞*
+ｆｌ：；	li{ float: left; }	名詞*
+ｆｌ：；	float: right;	名詞*
+ｆｌいｆ	for line in fileobj :	名詞*
+ｆｐｆｃ	<%= f.password_field :password_confirmation %>	名詞*
+ｆｐｆｃ	fprintf(fp, "\n"); fclose(fp);	名詞*
+ｆｐｆｃ	fprintf(fp, "\r\n"); fclose(fp);	名詞*
+ｆｐｆｄｄ	fprintf(fp, "%d %d\r\n");	名詞*
+ｆｐｆｒ	fprintf(fp, "\r\n");	名詞*
+ｆｐｆｓｓ	fprintf(fp, "%s %s\r\n");	名詞*
+ｆｐｒｔ	Function.prototype.func = function(){}	名詞*
+ｆｐｔｓ	fputs(文字列のポインタ, fp);	名詞*
+ｆｐんｌ	if(fp==NULL){ printf("\n");  exit(1); }	名詞*
+ｆｒｃ：	for row, col in cells : 	名詞*
+ｆｒｃ：	for row, col in cells : print(row, col)	名詞*
+ｆｒしｃ：	for row, col in cells : print(row, col)	名詞*
+ｆｓ：；	{ font-size: px; }	名詞*
+ｆｓ：；	font-size: px;	名詞*
+ｆｓｆｃ	func("" , func() );	名詞*
+ｆｗあｄｄ	firewall-cmd --add-service=https --zone=public --permanent	名詞*
+ｆｗれｌ	firewall-cmd --reload	名詞*
+ｆぁｓｈ	<p><%= notice %></p><p ><%= alert %></p>	名詞*
+ｆぁｓｈ	<div><p><%= notice %></p><p ><%= alert %></p></div>	名詞*
+ｆぁｓｋ	from flask import Flask	名詞*
+ｆぁｓｋ	app = Flask(__name__, static_folder='.', static_url_path='')	名詞*
+ｆぁｓｋ	app = Flask(__name__)	名詞*
+ｆぁｓｋ	from flask import Flask, render_template	名詞*
+ｆぁｓｋ	from flask import Flask, render_template, request	名詞*
+ｆぁｓｋ	from flask import request, flash, redirect, url_for	名詞*
+ｆぃｆ：	for line in fileobj : data += line	名詞*
+ｆぃｌ：	for line in lines : print(line, end='')	名詞*
+ｆぅえんｔ	$metadata = new \Illuminate\Support\Fluent([ '' => [], ]);	名詞*
+ｆぉｃｋ	$fileObj->flock(LOCK_EX); $fileObj->flock(LOCK_UN);	名詞*
+ｆぉｃｋ	$fileObj->flock(LOCK_SH); $fileObj->flock(LOCK_UN);	名詞*
+ｆぉあｔ	f float 4,  d double float 8	名詞*
+ｆぉおｒぢｖ	def __floordiv__(self):	名詞*
+ｆぉおｒぢｖ	__floordiv__()	名詞*
+ｆう゛ぃ：	for value in 辞書名.values() :	名詞*
+ｆぎｃ：	for grandchild in child :	名詞*
+ｆげｔｃ	c = fgetc(fp)	名詞*
+ｆげｔｓ	fgets  suc : 読み取った文字列, err: NULL	名詞*
+ｆげｔｓ	fgets(文字列のポインタ, 読み込む文字数+1の値, fp);	名詞*
+ｆげｔｓ	fgets(文字列を指すポインタ, 文字数+1の値, stdin);	名詞*
+ｆげｔｓ	fgets(line, SIZE, fp)	名詞*
+ｆしｒ：	for child in root :	名詞*
+ｆしんｐ	function(){ return ; }, $input	名詞*
+ｆしんｐ	function($){ return $; }, $input	名詞*
+ｆじｐ：	for a_item, b_item in zip(as, bs) :	名詞*
+ｆじｐ：	for in zip() :	名詞*
+ｆせｌｌ：	for cell in cells : print(cell)	名詞*
+ｆせえｋ	fseek(fp, 0, SEEK_END);	名詞*
+ｆせえｋ	fseek(fp, 0, SEEK_SET);	名詞*
+ｆせえｋ	fseek(fp, 移動バイト数, 開始位置);	名詞*
+ｆぢｓｔ	from nltk import FreqDist	名詞*
+ｆぢｓｔ	fdist = FreqDist(text)	名詞*
+ｆぢｓｔ	fdist = FreqDist(bgrms)	名詞*
+ｆぢｓｔ	fdist = FreqDist(grms)	名詞*
+ｆてｌｌ	size = ftell(fp);	名詞*
+ｆぷｔｃ	fputc('\n', fp);	名詞*
+ｆぷｔｓ	fputs suc: 書き出した文字数, err: EOF	名詞*
+ｆぷｔｓ	fputs(input, fp);	名詞*
+ｆぷｔｓ	fputs(line, fp);	名詞*
+ｆらｇめんｔ	fragment = fileobj.read(chunk)	名詞*
+ｆらｇめんｔ	data += fragment	名詞*
+ｆらｇめんｔ：	if not fragment : break data += fragment	名詞*
+ｆりｃ：	for row in csvin :	名詞*
+ｆりｄｒ：	for row in dictreaded :	名詞*
+ｆりｒ：	for row in rows : print(row)	名詞*
+ｆりｒ：	for row in rows :	名詞*
+ｆれあｄ	$readdata = $fileObj->fread($fileObj->getSize()  );	名詞*
+ｆれあｄ	fread(rdata, sizeof(char), sizeof(rdata), fp);	名詞*
+ｆれあｄ	fread(rdata, sizeof(char), sizeof(rdata), fp); fclose(fp);	名詞*
+ｆれあｄ	fread(rdata, sizeof(char), size, fp);	名詞*
+ｆれあｄ	fread(rdata, sizeof(char), size, fp); fclose(fp);	名詞*
+ｆろｍ：	form foo.all imprt *	名詞*
+ｆんｃ４	function f(){ return ; } $('').eve(function(){return f();});	名詞*
+ｆんｃ６	Foo func(Foo &p){}	名詞*
+ｆんｃ８	function(){}();	名詞*
+ｆんしｆ	function(){  if(){}else{}  }	名詞*
+ｆんしｆ	function(){  if(){  return ; }  }	名詞*
+ｇｃｇｔｍ	GC.GetTotalMemory(false)	名詞*
+ｇｃぉね	git clone https://github.com/	名詞*
+ｇｈｐｙ	https://github.com/Python	名詞*
+ｇｌｙｐｈ	<i class="glyphicon"></i>	名詞*
+ｇｌｙｐｈ	<i class="glyphicon glyphicon-"></i>	名詞*
+ｇｒｂｙ	GROUP BY	名詞*
+ｇｒｂｙ	GROUP BY c HAVING COUNT(*) <= 9	名詞*
+ｇｒぇｔ	greenlets = [ gevent.spawn(), gevent.spawn() ]	名詞*
+ｇｔづｊｓ	get_template_directory_uri() . '/js/file.js'	名詞*
+ｇｖｊｇ	gevent.joinall(greenlets)	名詞*
+ｇｖｓｃ	gevent.socket	名詞*
+ｇｖｓｃｇ	gevent.socket.gethostbyname	名詞*
+ｇｖｓｐ	gevent.spawn(outgoing, zmq_sock, socketio)	名詞*
+ｇｖｓｐ	gevent.spawn(incomming, uname, socketio)	名詞*
+ｇｖｓｐ	jobs = [ gevent.spawn( , host) for host in hosts ]	名詞*
+ｇｖじゃ	gevent.joinall(jobs, timeout=5)	名詞*
+ｇぉばｌ	print(globals() )	名詞*
+ｇこんｆ	get_config($)	名詞*
+ｇこんｆ	$conf = get_config($);	名詞*
+ｇしんｄ	get{ return data[index]; } set{ data[index] = value; }	名詞*
+ｇらｄｓ	grads['W'] = numerical_gradient(f, self.params['W'])	名詞*
+ｇらｄｓ	grads['b'] = numerical_gradient(f, self.params['b'])	名詞*
+ｇらｄｓ	grads['W1'] = self.layers['Affine1'].dW	名詞*
+ｇらｄｓ	grads['b1'] = self.layers['Affine1'].db	名詞*
+ｇらぢえんｔ	def gradient_descent(f, init_x, lr=0.1, step_num=100) :	名詞*
+ｇらぢえんｔ	x = init_x for i in range(step_num) :	名詞*
+ｇらぢえんｔ	grad = numerical_gradient(f, x) x -= lr * grad return x	名詞*
+ｇらぢえんｔ	gradient_descent(f, init_x=x, lr= , step_num= )	名詞*
+ｇらぢえんｔ	dW = dlf.numerical_gradient(f, net.W)	名詞*
+ｇらんｔ	DB名.* to ユーザ@localhost;	名詞*
+ｇらんｔ	grant create on	名詞*
+ｇらんｔ	grant drop on	名詞*
+ｇらんｔ	grant alter on	名詞*
+ｇろうｐ	group : , : do gem '' end	名詞*
+ｇろうｐ	group : , : do gem '' : end	名詞*
+ｇんｇ	range(0, 9, 2)	顔文字*
+ｈ１ぺｃ	<h1><?php echo $"" ?></h1>	名詞*
+ｈ２ぺｃ	<h2><?php echo $"" ?></h2>	名詞*
+ｈｄｆｍ	header.find('meta', attrs={ '':''}  )	名詞*
+ｈｄｆｔ	header.find('').text	名詞*
+ｈｍｔｈ	has_many :s, :through => :s 	名詞*
+ｈｍｔｈ	class < ActiveRecord::Base has_many :s, :through => :s end	名詞*
+ｈｒｌｓ	url = 'https://'	名詞*
+ｈｒｐｄ	$HTTP_RAW_POST_DATA	名詞*
+ｈｔｍｌ	<html></html>	名詞*
+ｈｔｍｌ	<html><head></head><body></body></html>	名詞*
+ｈｔｍｌ	<html><body></body></html>	名詞*
+ｈｔｍｌ	<!DOCTYPE html>	名詞*
+ｈｔｍｌ	<!DOCTYPE html> <html></html>	名詞*
+ｈｔｍｌ	<!DOCTYPE html> <html lang="ja"></html>	名詞*
+ｈｔｍｌ	<html lang="ja"></html>	名詞*
+ｈｔｍｌ	<!DOCTYPE html><html><body></body></html>	名詞*
+ｈｔｍｌ	<!DOCTYPE html><html lang="ja"><body></body></html>	名詞*
+ｈｔｔｐ	http://localhost:3000/	名詞*
+ｈｔｔｐ	<a href="<%= http:// %>"><%= 文字列 %></a>	名詞*
+ｈｔｔｐ	  http://ドメイン:ポート/	名詞*
+ｈｔｔｐ	http://	名詞*
+ｈｔｔｐ	http://.www	名詞*
+ｈｔｔｐ	http://.html	名詞*
+ｈｔｔｐ	http://127.0.0.1:/	名詞*
+ｈｔｔｐ	"http://"	名詞*
+ｈｔｔｐ	('http://')	名詞*
+ｈｔｔｐ	'http://'	名詞*
+ｈｔｔｐ	http:///?=&=	名詞*
+ｈｔｔｐ	 = 'http://'	名詞*
+ｈｔｔｐｄ	/etc/httpd/conf/httpd.conf	名詞*
+ｈｔｔｐｄ	/etc/httpd/	名詞*
+ｈｔｔｐｄ	systemctl enable httpd.service	名詞*
+ｈｔｔｐｄ	systemctl start httpd.service	名詞*
+ｈｔｔｐｋ	Http\Kernel	名詞*
+ｈｔｔｐｓ	<a href="<%= https:// %>"><%= 文字列 %></a>	名詞*
+ｈｔｔｐｓ	'https://'	名詞*
+ｈｔｔｐｓ	 = 'https://'	名詞*
+ｈｔｔｐｓ	'https:'	名詞*
+ｈｔｔｐすｂｒ	httpsubr = require('./httpsubr'),	名詞*
+ｈｔｔぺｒｒ	from urllib.error import HTTPError	名詞*
+ｈそｔｈ	has_one : , :through => :	名詞*
+ｈれｆｐ	href="<?php ?>"	名詞*
+ｈれｆｐ	href="<?php _($) ?>"	名詞*
+ｉｄ	id=""	名詞*
+ｊｄｍｐ	json_dmp = json.dumps(data)	名詞*
+ｊｄｍｐ	import json json_dmp = json.dumps(data)	名詞*
+ｊｄｍｐ	json.dumps()	名詞*
+ｊｄｍｐ	json_str = json.dumps()	名詞*
+ｊｑｍｊ	/jquery.min.js	名詞*
+ｊｑｍｊ	jquery.min.js	名詞*
+ｊｓどｍ	jsdom.jsdom(content);	名詞*
+ｊｓどｍ	jsdom = require('jsdom'),	名詞*
+ｊｓどｍ	jsdom.jsdom	名詞*
+ｊぉあｄｓ	py_dict = json.loads(json_dmp)	名詞*
+ｊぱｒせ	JSON.parse()	名詞*
+ｊぱｒせ	JSON.parse(XMLHttpRequest.responseText)	名詞*
+ｊぱｒせ	response = JSON.parse(XMLHttpRequest.responseText)	名詞*
+ｋｖふぃ	{  key  :  val  for key, val in kwargs.items()  }	名詞*
+ｋｖふぃ	out_dict = {  key  :  val  for key, val in kwargs.items()  }	名詞*
+ｋｖふぃ	{  key  :  val  for key, val in dicts.items()  }	名詞*
+ｋｖふぃ	out_dict = {  key  :  val  for key, val in dicts.items()  }	名詞*
+ｋｙｗｄｓ	string keywords[] = { "", "", "", };	名詞*
+ｋふぃｒｆ	[ key for key in range(0, 9) if key == ]	名詞*
+ｌ５ぽｓｔ	<%= link_to '', _path(@obj.id) , method: :post, class="" %>	名詞*
+ｌｒ	list(range(0, 9)  )	顔文字*
+ｌｒ	list(range(1, 9)  )	顔文字*
+ｌｒ	list(range(0, 9, 2)  )	顔文字*
+ｌｒ	list(range(1, 9, 2)  )	顔文字*
+ｌｒ	list(range(9, 1, -1)  )	顔文字*
+ｌｒ	list(range(9, 0, -1)  )	顔文字*
+ｌｓｂｌ	<li><span></span><br><label></label></li>	名詞*
+ｌｘｓｓ	C:\Users\Alice\AppData\Local\lxss\	名詞*
+ｌすｂｍ	<li><input type="submit" value="投稿する"></li>	名詞*
+ｌでｂｇ	Log::debug();	名詞*
+ｍｂｓｔ	mb_strtoupper()	名詞*
+ｍｂｓｔ	mb_strtolower()	名詞*
+ｍｂｓｔ	mbstring.internal_encoding = UTF-8	名詞*
+ｍｂｓｔ	mbstring.language = Japanese	名詞*
+ｍｋちめ	from time import mktime	名詞*
+ｍｋぢｒ	os.makedirs(dir)	名詞*
+ｍｋぢｒ	os.makedirs()	名詞*
+ｍｌ	map(lambda x: x + 1, リスト)	顔文字*
+ｍｌｐｊｑ	p = multiprocessing.JoinableQueue()	名詞*
+ｍｍｃｄ	module module class def end end end end	名詞*
+ｍｍｃｍ	module module class def end end end end	名詞*
+ｍｐｋｙｓ	mp[keys[]] = ;	名詞*
+ｍｐｋｙｓ	mp[keys[0]] = "";	名詞*
+ｍｐｋｙｓ	mp[keys[0]]	名詞*
+ｍｐけｙｓ	mp[keys[1]] = "";	名詞*
+ｍｐんｍｓ	mp[names[1]] = "";	名詞*
+ｍｐんｍｓ	mp[names[1]] = ;	名詞*
+ｍｐんｍｓ	mp[names[0]] = "";	名詞*
+ｍｐんｍｓ	mp[names[0]]	名詞*
+ｍｓｇｃ	ch = msg['channel']	名詞*
+ｍｓｇｄ	data = msg['data']	名詞*
+ｍｓｇでｃ	msg[0].decode('utf-8')	名詞*
+ｍｓｔｒ	string m_str;	名詞*
+ｍｙｓｑｌ	localhost:8889	名詞*
+ｍｙｓｑｌ	db='mysql'	名詞*
+ｍｙｓｑｌ	mysql -u root -p	名詞*
+ｍｙｓｑｌｃ	mysql_connect()	名詞*
+ｍｙｓｑｌｃ	$mysql_conn = mysql_connect('sarver', 'usrname', 'pass');	名詞*
+ｍぁｍ	map(lambda x: x + 1, リスト)	顔文字*
+ｐｂｆｃ	public function func(){}	名詞*
+ｐｂｆｃ	public function _Filter(){}	名詞*
+ｐｂｆｃ	public function func(){ return inner(); }	名詞*
+ｐｂｆｃ	public function f(Acm $obj){return $obj->boot($this->name);}	名詞*
+ｐｂｆｃ	public function func(){ return $this->->(); }	名詞*
+ｐｂｆｃ	public function func(){ $this-> = ; }	名詞*
+ｐｂｆｃ	public function __construct(){}	名詞*
+ｐｂｆｃ	/** @param $ @return */ public function func(){}	名詞*
+ｐｂｆｃ＠	public function func(){ /** @var $conf \\ */ }	名詞*
+ｐｂｆｆ	public function func(){ for($i = 0; $i <= 9; $i++){  } }	名詞*
+ｐｂｍｄ	public_method_difined?()	名詞*
+ｐｂはんｄぇ	public function handle(_Command, $command){}	名詞*
+ｐｂれｑ	/**@param $ */ public function func(Request $request){}	名詞*
+ｐｃｌｓ	<?php class クラス名 {} ?>	名詞*
+ｐｃｌｓ	<?php class クラス名 { public function 関数名(){} } ?>	名詞*
+ｐｃｌｓ	<?php class クラス {} $obj = new クラス();  ?>	名詞*
+ｐｃｌｓ	class クラス{} $obj = new クラス();	名詞*
+ｐｃｌｓ	class クラス{ public $; } $obj = new クラス();	名詞*
+ｐｃｌｓ	<?php class クラス名 { public $; } $obj = new クラス(); ?>	名詞*
+ｐｃｌｓ	<?php class クラス名 { public function __construct($) {} } ?>	名詞*
+ｐｄ：；	padding: px;	名詞*
+ｐｄ：；	padding-top: px;	名詞*
+ｐｄ：；	padding-left: px;	名詞*
+ｐｄ：；	padding-right: px;	名詞*
+ｐｄ：；	padding-bottom: px;	名詞*
+ｐｄ：；	padding: px px;	名詞*
+ｐｄｆｍ	from pdfminer	名詞*
+ｐｄｆｒｍ	from pdfminer.pdfinterp import PDFResourceManager,	名詞*
+ｐｄｆｒｍ	rsmgr = PDFResourceManager()	名詞*
+ｐｄｆｔｃ	from pdfminer.converter import TextConverter	名詞*
+ｐｄｆぁｐ	from pdfminer.layout import LAParams	名詞*
+ｐｄｍｐ	pickled_bytes = pickle.dumps(obj)	名詞*
+ｐｄｍｐ	pickle.dump(リスト, fileobj)	名詞*
+ｐｆ６６	printf("0x%x 0x%x\n", &, &);	名詞*
+ｐｆ：：	printf("%d %d\n", *ip, *ip2);	名詞*
+ｐｆｃｆ	public function __construct(CloudFilesystem $file){  }	名詞*
+ｐｆｃｒ	public function create(){ return view('dir.file'); }	名詞*
+ｐｆｄｄ	printf("%d%d\n", ,);	名詞*
+ｐｆｄｄ	printf("%d %d\n", ,);	名詞*
+ｐｆｄｆ	printf("%d %f\n", , );	名詞*
+ｐｆｄｓ	printf("%d%s\n", ,);	名詞*
+ｐｆｄｓ	printf("%d %s\n", , );	名詞*
+ｐｆｆｄ	printf("%f %d\n", , );	名詞*
+ｐｆｆｆ	printf("%f%f\n");	名詞*
+ｐｆｆｆ	printf("%f %f\n");	名詞*
+ｐｆｆｆ	printf("%f %f\n", , );	名詞*
+ｐｆｆｓ	printf("%f %s\n", , );	名詞*
+ｐｆｇｆ	<?php if(get_field('')  ) : ?><?php else : ?><?php endif; ?>	名詞*
+ｐｆｐｐ	printf("0x%x 0x%x\n", p, p);	名詞*
+ｐｆｒｃん	public function handle($request, Closure $next){}	名詞*
+ｐｆｒｄ	printf("%x\n", rdata[i]);	名詞*
+ｐｆｒｑ	public function func(Request $request){}	名詞*
+ｐｆｒｑ	public function func(Request $request){ $o = new Foo; }	名詞*
+ｐｆｓｄ	printf("%s%d\n", ,);	名詞*
+ｐｆｓｄ	printf("%s %d\n", , );	名詞*
+ｐｆｓｆ	printf("%s %f\n", , );	名詞*
+ｐｆｓｓ	printf("%s%s\n", ,);	名詞*
+ｐｆｓｓ	printf("%s %s\n", ,);	名詞*
+ｐｆｘ６	printf("0x%x\n", &);	名詞*
+ｐｆｘｘ	printf("%x %x\n", hex, hex);	名詞*
+ｐｆｘｘ	printf("0x%x 0x%x\n", hex, hex);	名詞*
+ｐｆｘｘ	printf("0x%x 0x%x\n", &, &);	名詞*
+ｐｆげｔ	public function get(){  return $this->name; }	名詞*
+ｐｆこんｓ	public function __construct(){}	名詞*
+ｐｆこんｓ	public $fo; public function __construct(){ $this->fo = fo; }	名詞*
+ｐｆこんｓ	public function __construct(CodeRepositoryServise $foo){  }	名詞*
+ｐｆこんｓ	public function __construct(Foo $foo){ $this->foo = $foo; }	名詞*
+ｐｆこんｓ	public function __construct(Foo $foo){ $this->foo->meth(); }	名詞*
+ｐｆこんｓ	public function __construct(){ $this->beforeFilter(); }	名詞*
+ｐｆこんｓ	public function __construct(Foo $foo){ $this->foo = $foo }	名詞*
+ｐｆこんｓ	/** @ */ public function __construct($){ $this-> = $; }	名詞*
+ｐｆせｔ	public function set($arg){ $this->name = $arg; }	名詞*
+ｐｆせｔ	public function set($arg){ $this-> = $arg; }	名詞*
+ｐｆてｒｍ	public function terminate($request, $response){}	名詞*
+ｐｆはんｄぇ	public function handle($request, Closure $next){}	名詞*
+ｐｆはんｄぇ	if(! array_intersect($this->, $)  ){ throw new Exeption(); }	名詞*
+ｐｆはんｄぇ	public function handle(FooWas_ed $event){  }	名詞*
+ｐｆぼおｔ	public function boot(DispacherContract $events){ }	名詞*
+ｐｆぼおｔ	public function boot(Foo $events){ parent::boot($events); }	名詞*
+ｐｆぼおｔ	public function func(Acm $o){ return $o->boot($this->); }	名詞*
+ｐｆぼおｔ	public function boot(Dispatcher $dispatcher){ }	名詞*
+ｐｆぼおｔ	public function boot(){ F::m('',function(){ return ; });}	名詞*
+ｐｆぼおｔ	public function boot(){F::('',function($){return F::($);});}	名詞*
+ｐｆれｑ	public function func(Request $request){}	名詞*
+ｐｆれｑ	/**@param $ */ public function func(Request $request){}	名詞*
+ｐｆれｑ	/**@param $ */ public function func(Request $request, $id){}	名詞*
+ｐｈｊｓ	driver = webdriver.PhantomJS(executable_path='phantomjs')	名詞*
+ｐｈｊｓ	~/phantomjs/bin/	名詞*
+ｐｈｐｃ	<?php class Foo{ public function __construct(){} }	名詞*
+ｐｈｐｆｌｇ	php_flag foo {on|off}	名詞*
+ｐｈｐｒ	php -r 'PHPコード;'	名詞*
+ｐｈｐｓ	php -S 127.0.0.1:8000 -t 'public/'	名詞*
+ｐｈｐｓ	php -S 127.0.0.1:8000 -t '.'	名詞*
+ｐｈｐｓ	php -S 127.0.0.1:8000 -t './public/'	名詞*
+ｐｈｐｓ	php -S localhost:8080	名詞*
+ｐｈｐｓ	php -S localhost:8080 -t /パス/ドキュメントルート	名詞*
+ｐｈｐｖ	php_value foo val	名詞*
+ｐｈｔｃ	<?php try{}catch(Exception $e){} ?>	名詞*
+ｐｈｔｔｐ	__('http://')	名詞*
+ｐｈぱｄみん	php_admin_value foo val	名詞*
+ｐｈぱどみん	php_admin_flag foo {on|off}	名詞*
+ｐｈぴに	php --ini D:\yamazaki\xampp\php\php.ini > foo.txt	名詞*
+ｐｈぺう゛ぁｌ	php -r "eval();"	名詞*
+ｐｈぺう゛ぁｌ	php -r "eval('?>'.mehth()  );"	名詞*
+ｐｈんｗ	<?php $obj = new Foo(); ?>	名詞*
+ｐｍｌ	print(map(lambda x: x + 1, リスト)  )	顔文字*
+ｐｒ２２	print([''][''])	名詞*
+ｐｒ２２	print(item[''][''])	名詞*
+ｐｒ４４	print(array['$']['$'])	名詞*
+ｐｒ４７	print(array['$'][''])	名詞*
+ｐｒ７４	print(array['']['$'])	名詞*
+ｐｒ７７	print(array[''][''])	名詞*
+ｐｒ７７：	print([''][''][:])	名詞*
+ｐｒ７；	print('', + )	名詞*
+ｐｒ８７	print((), '')	名詞*
+ｐｒｃｄ	print(curr_dir)	名詞*
+ｐｒｃｆ	print(cur.fetchone()  )	名詞*
+ｐｒｃｗ	print(os.getcwd()  )	名詞*
+ｐｒｄｒ	print('directory: ',dir, '\n')	名詞*
+ｐｒｆｓ	printf("%s\n", );	名詞*
+ｐｒｆｔ	printf("\t\n");	名詞*
+ｐｒｆん	print('', func.__name__)	名詞*
+ｐｒｇｆ	C:\Program Files	名詞*
+ｐｒｇｆ	C:\Program Files (x86)	名詞*
+ｐｒｇｔ	print(.get_text()  )	名詞*
+ｐｒｇｔ	print(.get_text(), '\n')	名詞*
+ｐｒｈｒ	print(html.read()  )	名詞*
+ｐｒｋｖ	print(key, value)	名詞*
+ｐｒｌｇ	print (list(gen)  )	名詞*
+ｐｒｌｒ	print(len(lines), 'lines read')	名詞*
+ｐｒｍ	print(map()  )	顔文字*
+ｐｒｍｄ	private_method_difined?()	名詞*
+ｐｒｍｌ	print(map(lambda x: x + 1, リスト)  )	顔文字*
+ｐｒｍｓ	promise.then(callback, callback){}	名詞*
+ｐｒｍｓ	self.params = {}	名詞*
+ｐｒｐｄｆ	process_pdf(rsmgr, device, pdf)	名詞*
+ｐｒｐｓ	print("posts:{$foo}");	名詞*
+ｐｒｐｓ	print("posts:{$foo}<br>");	名詞*
+ｐｒｒ	print(result)	顔文字*
+ｐｒｒｃ	print(row, col)	名詞*
+ｐｒｒｔ	print('returned from func => \n')	名詞*
+ｐｒｓｌ	print('' + str(len() )  )	名詞*
+ｐｒｓｌ	print ('', self)	名詞*
+ｐｒｓｌ	print (self)	名詞*
+ｐｒｓｍ	print(self.meth(), self.meth()  )	名詞*
+ｐｒｓｐ	print( , sep=', ')	名詞*
+ｐｒｓｐ	print(obj.meth(), obj.meth() , sep=', ')	名詞*
+ｐｒｓｐ	print(self.meth(), self.meth() , sep=', ')	名詞*
+ｐｒｓｐ	print(self.param, self.param, sep=', ')	名詞*
+ｐｒｓｐ	print(obj.param, obj.param , sep=', ')	名詞*
+ｐｒｓｐ	print(self.param, self.param  )	名詞*
+ｐｒｓｓ	print(' "%s" "%s" '  % ( ,)  )	名詞*
+ｐｒｓｓ	print(' %s %s ' % ( , )  )	名詞*
+ｐｒｓｓｓ	print(' "%s" "%s" "%s" '  % ( , ,)  )	名詞*
+ｐｒｓｔ	print('\n---------------START---------------------------\n')	名詞*
+ｐｒｓｔ	print('\n---------------START---------------------------)	名詞*
+ｐｒｓｔｓ	print(' %s\t%s ' % ( , )  )	名詞*
+ｐｒｓｖ	print('', )	名詞*
+ｐｒｓｖ	print('', , '\n')	名詞*
+ｐｒｓｖｖ	print('', , )	名詞*
+ｐｒｓｖｖ	print('', , '\n')	名詞*
+ｐｒｔ−	obj.__proto__ === Foo.prototype	名詞*
+ｐｒｔ５	print('/t %s ' % ( , )  )	名詞*
+ｐｒｔｇ	print("<>"); print("</>");	名詞*
+ｐｒｔｘ	print(.text)	名詞*
+ｐｒｔｙ	print ('type() = ', type(), '\n')	名詞*
+ｐｒｔｙ	print ('type() = ', type(), )	名詞*
+ｐｒｔｙ	print (' = ', ) print ('type() = ', type() )	名詞*
+ｐｒｖｓ	print(, '')	名詞*
+ｐｒｖｓ	print(, '\n')	名詞*
+ｐｒｖｓ	private string ;	名詞*
+ｐｒｖｓ	private string name = "";	名詞*
+ｐｒｖｓ	private string private_name = "";	名詞*
+ｐｒｖｖｓ	print(, , '')	名詞*
+ｐｒｖｖｓ	print(, , '\n')	名詞*
+ｐｒう゛ぃ	private int num = 0;	名詞*
+ｐｒう゛ぃ	private int private_num = 0;	名詞*
+ｐｒさｖ	print(sys.argv[0])	名詞*
+ｐｒせｌｆ	print(self)	名詞*
+ｐｒちめいｔ	print(timeit('コード', number=カウント)  )	名詞*
+ｐｒでｃ	print(.decode('utf-8')  )	名詞*
+ｐｒぴｄ	print(' "%s" '  % (os.getpid(), arg)  )	名詞*
+ｐｒぴｄ	print (p.pid)	名詞*
+ｐｒふぉ	print(fileobj)	名詞*
+ｐｒふぉ	print(fileobj.()  )	名詞*
+ｐｒふぉ	print("<font size='5' color='FFFFFF'><b>$foo</b></font>");	名詞*
+ｐｒもｃ	実体 = params[:obj][:objsテーブルのカラム名]	名詞*
+ｐｒんｔ	console.log("");	名詞*
+ｐｓｆｃ	/* @param $ @return */ public static function func(){}	名詞*
+ｐｓｐｒ	<?php echo echo sprintf("\n",$var); ?>	名詞*
+ｐｓｓｇ	public string Na{ set{ name = value; } get{ return name;} } 	名詞*
+ｐｓｔｇ	from nltk import pos_tag	名詞*
+ｐｓｔｈ	public Foo(string ){ this.name = name; }	名詞*
+ｐｓｔぢん	PHP_STDIN	名詞*
+ｐｓｖｍ	public class クラス{ public static void main(String[] args){} }	名詞*
+ｐｓｗｄ	passwd='root',	名詞*
+ｐｓう゛ぇり	if(password_verify($input, $hash)  ){}else{}	名詞*
+ｐｓう゛ぇり	password_verify($input, $hash)	名詞*
+ｐｔｃｒ	<?php try{}catch(Exception $e){ $pdo->rollBack(); } ?>	名詞*
+ｐｔｆｃ	protected function func{ }	名詞*
+ｐｔｆｃ	protected function func(){ return }	名詞*
+ｐｔｆｃ	protected function func(){ $->meth(); }	名詞*
+ｐｔｆｓちぇ	protected function schedule(Schedule $schedule){ }	名詞*
+ｐｔｍｄ	protected_method_difined?()	名詞*
+ｐｔｓｆ	protected static function func(){  }	名詞*
+ｐｔｓｓ	protected static string protected_static_name = "";	名詞*
+ｐｕｔｓ	puts "<></>"	名詞*
+ｐｖｃｗ	public void Foo(){ Console.WriteLine(""); }	名詞*
+ｐｖｔｔ	public void Handler(){ transform.Translate(0, 0, 0); }	名詞*
+ｐｗｂｃ	PASSWORD_BCRYPT	名詞*
+ｐｙｈｔ	python3 -m http.server	名詞*
+ｐｙｌｄ	yield n n += step	名詞*
+ｐｙｍｄ	<?php the_time('Y-m-d'); ?>	名詞*
+ｐｙｓｙｓぱｔｈ	/user/lib64/python33.zip	名詞*
+ｐｙぱｔｈ	/user/lib64/python33.zip	名詞*
+ｐｙぱｔｈ	/user/lib64/python3.3	名詞*
+ｐｙぱｔｈ	/user/lib64/python3.3/plat-linux	名詞*
+ｐｙぱｔｈ	/user/lib64/python3.3/	名詞*
+ｐｙぱｔｈ	/user/lib64/python3.3/lib-dynload	名詞*
+ｐｙぱｔｈ	/user/lib64/python3.3/site-packages	名詞*
+ｐｙぱｔｈ	/user/lib/python3.3/site-packages	名詞*
+ｐぁｍ	関数(リスト, lambda x : x + 1 )	顔文字*
+ｐぁｍ	関数(リスト, lambda x : x.メソ()  )	顔文字*
+ｐぁｍ	lam = (lambda x, y: x + y)	顔文字*
+ｐぅぎんｓ	C:\Repos\jig-admin\public\assets\client\plugins	名詞*
+ｐぉあｄ	lists = pickle.load(fileobj)	名詞*
+ｐぉあｄ	dataset = pickle.load(fileobj)	名詞*
+ｐぉあｄｓ	obj = pickle.loads(pickled_bytes)	名詞*
+ｐっぼおｔ	public function boot(Dispatcher $dispatcher){}	名詞*
+ｐう゛ぁｒ	<?php $var = ; ?>	名詞*
+ｐう゛ぁｒ	<?php $$var = ; ?>	名詞*
+ｐう゛ぁｒ	<?php $var = 値 ?>	名詞*
+ｐう゛ぁりｆｙ	if(!password_verify()  ){ return false; }	名詞*
+ｐう゛ぇｒ	PHP_VERSION	名詞*
+ｐせｓｓ	<?php require_once("../file.php"); session_start(); ?>	名詞*
+ｐせｘｔ	<?php class F extends S{ public function __construct(){  } }	名詞*
+ｐそｃｋ	pub = ctx.socket(zmq.PUB)	名詞*
+ｐはｓｈ	<?php $hash = array(); ?>	名詞*
+ｐはｓｈ	<?php $hash = array('' => ''); ?>	名詞*
+ｐふｐｄ	public function update($id){ $foo = Foo::find($id); }	名詞*
+ｐふぁｇｖ	printf("%s", *argv);	名詞*
+ｐふぃん	printf("%d %s\n", .id, .name);	名詞*
+ｐふぃん	printf("%d %s\n", [i].id, [i].name);	名詞*
+ｐふぃん	printf("%d %s\n", ids[i], names[i]);	名詞*
+ｐふぇｒ	public function __construct(Doer $er){ $this->er = $er; }	名詞*
+ｐふぇｒ	public function __construct(erInterface $er){  }	名詞*
+ｐふぉｍ	printf("%s\n", obj.meth() );	名詞*
+ｐふぉｍ	printf("%d\n", obj.meth() );	名詞*
+ｐふぉｒ	<?php for(i=0; i <= 10; i++){} ?>	名詞*
+ｐふぉｒ	<?php for($i=0; $i <= count($配列変数)-1; $i++){} ?>	名詞*
+ｐふぉｒ	<?php for($i=0; $i <= 10; $i++): ?><?php endfor ?>	名詞*
+ｐふぉｒ	<?php for($i=0;$i <= count($arry)-1;$i++): ?><?php endfor?>	名詞*
+ｐふぉれ	<?php foreach($array as $value){} ?>	名詞*
+ｐふぉれ	<?php foreach($ハッシュ as $key => $value){} ?>	名詞*
+ｐふぉれ	<?php foreach($h as $key => value) : ?><?php endforeach ?>	名詞*
+ｐふぉれ	<?php foreach($ハッシュ as $key => $value) : ?>	名詞*
+ｐふぉれ	<?php foreach($array as $value) : ?><?php endforeach ?>	名詞*
+ｐふぉれ	<?php foreach($objs as $obj) : ?><?php endforeach ?>	名詞*
+ｐふぉれ	<?php foreach($posts as $post) : setup_postdata($post); ?>	名詞*
+ｐふんｃ	public function 関数名(){}	名詞*
+ｐふんｃ	public function 関数名(){ retrurn ;}	名詞*
+ｐふんｃ	public function 関数名(){ return ; }	名詞*
+ｐふんｃ	<?php function foo(){} ?>	名詞*
+ｐへｌｓ	<?php }else{ ?>	名詞*
+ｐへあでｒ	header('ヘッダ: '.$obj);	名詞*
+ｐへあでｒ	header('ヘッダ: '.meth() );	名詞*
+ｐまｓｙ	pmasync.get()	名詞*
+ｐらｇま	#pragma once	名詞*
+ｐらｇま	#pragma comment(lib, ".lib")	名詞*
+ｐらｔｓ	print(.attrs)	名詞*
+ｐらｔｓ	print(.attrs[''])	名詞*
+ｐらいｓ	raise Error('')	名詞*
+ｐらいｓ	raise IndexError('')	名詞*
+ｐらいｓ	raise ValueError('')	名詞*
+ｐらいｓ	raise KeyError('')	名詞*
+ｐらいｓ	raise AttributeError('')	名詞*
+ｐりｖｄ	private double dbl = 0.0;	名詞*
+ｐりあｔ	print(item.atters[''])	名詞*
+ｐれくぉ	 <?php require_once(); ?>	名詞*
+ｐれぢｃｔ	predict(dict, x[i])	名詞*
+ｐれぢｃｔ	def predict(x) : return np.dot(x, y)	名詞*
+ｐれぢｃｔ	def predict(self, x) : return np.dot(x, self.W)	名詞*
+ｐれぢｃｔ	p = net.predict(x)	名詞*
+ｐれぺんｄ	.class_eval do prepend end	名詞*
+ｐれぺんｄ	def self.prepended(othermod) end	名詞*
+ｐれぺんｄ	def self.prepended(modorclass) end	名詞*
+ｐれぺんｄ	prepended do end	名詞*
+ｐれんｄ	print( , end= '')	名詞*
+ｐろｃ：	def proc(line):	名詞*
+ｐろｇｆ	C:\Program Files (x86)	名詞*
+ｐろｐｇｓ	プロパティ = property(get_非公開属性, set_非公開属性)	名詞*
+ｐろｘｙ	proxy = xmlrpc.client.ServerProxy('http://localhost:6789/')	名詞*
+ｐろｘｙｆ	result = proxy.func()	名詞*
+ｐろう゛ぃで	/**@ */public function provides(){ return [Foo::class]; }	名詞*
+ｐろじぇｃｔｓ	\\192.168.1.201\seekcloud\02_projects	名詞*
+ｐんぷｔｐｌｃ	<input type="text" name="" placeholder="">	名詞*
+ｑｂれあｋ	if input == 'q' : break	名詞*
+ｑｒｙ：：	$fobj = ReferenceMstFobj::query();	名詞*
+ｑｒｙｓｔｒ	foreach($hash as $key =>$value){ $qar[] ="{$key}={$value}";}	名詞*
+ｑｒｙｓｔｒ	$qrystr = implode("&", $qar);	名詞*
+ｒｂ２ｄ	Rigidbody2D rigid2d;	名詞*
+ｒｂ２ｄ	this.rigid2d = GetComponent<Rigidbody2D>();	名詞*
+ｒｃｓｒｆ	Route::when('*', 'csrf', ['post']);	名詞*
+ｒｃｓｖ	SplFileObject::READ_CSV	名詞*
+ｒｃｔるｎ	reactor.run()	名詞*
+ｒｇｆｃ	Route::get('/{id}', function(){ return ; });	名詞*
+ｒｇｆｃ	Route::get('', function(){ return ; });	名詞*
+ｒｇｆｃ	Route::get('/{}', function(){ return ; });	名詞*
+ｒｇｆｃ	Route::get('foos/{foo}/bars/{bar}', function(){ return ; });	名詞*
+ｒｇｆｃ	Route::get('/{foo?}', function($foo = ''){ return ; });	名詞*
+ｒｇｆｃ	Route::get('/{?}', function($ = ''){ return ; });	名詞*
+ｒｇｆｃ	Route::get('/{id}', function($id){ return ; });	名詞*
+ｒｇｆｃ	Route::get('/{id}', function($sd, $id){ return ; });	名詞*
+ｒｇｆｃ	Route::get('users/{user}', function(App\User $user){  });	名詞*
+ｒｇｆｃ	Route::get('', function(){ return ; })->middleware('');	名詞*
+ｒｇｆｃ	Route::get('/', function(Request $request){ return ; });	名詞*
+ｒｇｆｃ	Route::get('/', function(){ return ''; });	名詞*
+ｒｇｆｃ	Route::get('/{?}', function($ = ){ $ = $this->app->(); });	名詞*
+ｒｇｆｃ	Route::get('do/{?obj}', function($obj = ){ $er = this->a });	名詞*
+ｒｇｆｃｍｗ	Route::get('', function(){ return ; })->middleware('');	名詞*
+ｒｇｆｃｍｗ	Route::get('', function(){  })->middleware('MW::class');	名詞*
+ｒｇｆｃｖｗ	Route::get('', function(){ return view('');; });	名詞*
+ｒｇｆｃｖｗ	Route::get('', function(){ return view('', ['' =>  '']); });	名詞*
+ｒｇｆｃれ	Route::get('', function(){ return redirect(''); });	名詞*
+ｒｇｆｃれｑ	Route::get('/', function(Request $request){ return ; });	名詞*
+ｒｇｆｃれｑ	Route::get('/',function(ServerRequestInterface $request){});	名詞*
+ｒｇｆｃれｓ	Route::get('', function(){ return response('', 200); });	名詞*
+ｒｇｆｃれｓ	Route::get('/', function(){return response('', 200)->(); });	名詞*
+ｒｇｆｃんｍ	Route::get('', function(){ return ; })->name('');	名詞*
+ｒｇｆｃんｍ	Route::get('/{id}/', function($id){ return ; })->name('');	名詞*
+ｒｇｌｄ	Route::get('/', function(){ Log::debug(); });	名詞*
+ｒｇぱぎ	Route::get('s', function(){ $s = App\Foo::paginate(); });	名詞*
+ｒｇぱぎ	Route::get('os', function(){ return App\O::paginate(); });	名詞*
+ｒｐｆｃ	Route::post(function(){  });	名詞*
+ｒｐｆｃ	Route::post(function(){ return redirect(''); });	名詞*
+ｒｑｊｓ	req.json()	名詞*
+ｒｑｔｘ	req.text	名詞*
+ｒｓｌｔ	$result = $stm->fetchAll(PDO::FETCH_ASSOC);	名詞*
+ｒｓｌｔ	$var = $stm->fetchAll(PDO::FETCH_ASSOC);	名詞*
+ｒｓｓ２	<?php bloginfo('rss2_url'); ?>	名詞*
+ｒｔ−−−	return $ === ;	名詞*
+ｒｔ−１	return -1;	名詞*
+ｒｔ２５	return "" % ()	名詞*
+ｒｔ２５	return "" % (self.attr , self.attr)	名詞*
+ｒｔ４ｔｈ	return $this	名詞*
+ｒｔ４ｔｈ	return $this->->;	名詞*
+ｒｔ４ｔｈ	return $this->->();	名詞*
+ｒｔ４ｔｈ	return $this->();	名詞*
+ｒｔ４ｔｈ	return $this->;	名詞*
+ｒｔ４えｒ	return $doer->do($obj);	名詞*
+ｒｔ４おｍ	return $obj->meth();	名詞*
+ｒｔ：：	return Foo::func();	名詞*
+ｒｔ：：：	return func(*args, **kwargs)	名詞*
+ｒｔ：ｔ	return *this;	名詞*
+ｒｔｂｋ	return back();	名詞*
+ｒｔｂｋ	return back()->withInput();	名詞*
+ｒｔｂｌ	return (bool)$;	名詞*
+ｒｔｂｌｔ	return $this->belongsTo(Fobj::class);	名詞*
+ｒｔｂｌｔｍ	return $belongsToMany(Fobj::class);	名詞*
+ｒｔｄｄ	return dd($);	名詞*
+ｒｔｆｃ	return function(){ return ; };	名詞*
+ｒｔｆｃ	return function($){ return $; };	名詞*
+ｒｔｆｃ	return function($) use($){ return $; };	名詞*
+ｒｔｆく	return function($) use($&i){ i++; return $; };	名詞*
+ｒｔｆく	return function($) use($){ return $; };	名詞*
+ｒｔｌｍ	return lambda x :	名詞*
+ｒｔｍｐ	return tmp;	名詞*
+ｒｔｍｐ	return &tmp;	名詞*
+ｒｔｐｒｍｓ	return .promise();	名詞*
+ｒｔｒｊ	return Response::json([ 'result' => 'OK' ], 200);	名詞*
+ｒｔｒｊ	return Response::json([  'result' => 'NG',  ], 400);	名詞*
+ｒｔｓｌｆ	return self::$foo;	名詞*
+ｒｔｓｔ	return conn.status	名詞*
+ｒｔｓｔ	return (string)$;	名詞*
+ｒｔｔｈ	return this.prop;	名詞*
+ｒｔｔｔ	return (T)(typeof(T)  );	名詞*
+ｒｔｔｔ	return foo<T>(t)();	名詞*
+ｒｔｖｄ	return var_dump($);	名詞*
+ｒｔｖｍ	return View::make('', []);	名詞*
+ｒｔｖｍ	return View::make('', [  'Foos' => $Foos,  ]);	名詞*
+ｒｔｖｍ	return View::make('', compact('' , '')  );	名詞*
+ｒｔｖｍ	return View::make('foo.list', ['foos' =>   $foos]);	名詞*
+ｒｔｖｗ	return view('welcome');	名詞*
+ｒｔｖｗ	return view('posts')->with('foos', $foos);	名詞*
+ｒｔｖｗ	return view('welcome', ['user' =>  $user]);	名詞*
+ｒｔｖｗ	return view('user.index'), ['users' => $users];	名詞*
+ｒｔｖｗ	return view('.index', ['s' => $s]);	名詞*
+ｒｔｖｗ	return view('user.'), ['user' => User::($id)  ];	名詞*
+ｒｔｖｗ	return view(['' =>  '']);	名詞*
+ｒｔｖｗ	return view('.', $data);	名詞*
+ｒｔｖｗ	return view('.user.add', $params);	名詞*
+ｒｔｖｗ	return view('.user.edit', $params);	名詞*
+ｒｔｖｗ	return view('..', $params)->with('foos', $foos);	名詞*
+ｒｔｖｗ	return view('..', $params, [ '_Json' => $_Json ]);	名詞*
+ｒｔｖｗ	return view('..', $params, [ '_' => $_])->with('fos', $fos);	名詞*
+ｒｔｖｗｗ	return view('..', $params)->with('foos', $foos);	名詞*
+ｒｔｖっうぃｔｈ	return view('..', $params)->with('foos', $foos);	名詞*
+ｒｔｗｈ	return App\User::where('name', $value);	名詞*
+ｒｔびゃｒｒ	return bytearray()	名詞*
+ｒｔふぉｒ	return "<テーブルクラス({}, {}, {})>".format(self.カラム1, self.カラム2)	名詞*
+ｒｔぼおｔ	return $->boot($this->);	名詞*
+ｒｔれｒ	return Redirect::route('foos.index');	名詞*
+ｒｔれｓ	return Response::json([], 400);	名詞*
+ｒｔれｓ	return Response::json([ 'result' => 'NG', ], 400);	名詞*
+ｒｔれｓ	return Response::json([ 'result' => 'OK', ], 200);	名詞*
+ｒｔれｓ	return response();	名詞*
+ｒｔれｓ	return response('Hello')->cookie('name', 'value', $minutes);	名詞*
+ｒｔれｓ	return response('Hello')->cookie($cookie);	名詞*
+ｒｔれｓ	return response('')->header('Content-Type', 'text/plain');	名詞*
+ｒｔれｓ	return response('', 200)->header('', '');	名詞*
+ｒｔれｓ	return response('', 200);	名詞*
+ｒｔれｓ	return response('', 200)->();	名詞*
+ｒｔれｓ	return response('', 400);	名詞*
+ｒｔれｓ	return response('', 200)->header('', $type);	名詞*
+ｒｔれｓ	return response()->view('', $data, 200);	名詞*
+ｒｔれｓ	return response()->view('', $data, 200)->header('', '');	名詞*
+ｒｔれｓ	return response()->json([ '' => '' , '' =>  '' ]);	名詞*
+ｒｔれｓ	return response()->json([ 'name' => '' , 'state' =>  '' ]);	名詞*
+ｒｔれｓ	return response()->download($pathToFile);	名詞*
+ｒｔれｓ	return response()->file($pathToFile);	名詞*
+ｒｔれｓ	if(!empty() ){ return new Response('Notfound', 404); }	名詞*
+ｒｔれｓ	return response()->json($result);	名詞*
+ｒｔんｌ	return NULL;	名詞*
+ｒｔんｗ	return new Foo();	名詞*
+ｒｔんｗ	return new Foo($app['']);	名詞*
+ｒｔんｗ	return new Foo($app['']['']);	名詞*
+ｒｔんｘ	return $next($request);	名詞*
+ｒｖｌｄ	resources/views/layouts/default.blade.php	名詞*
+ｒくぁｐｐ	require app('path').'resources/views/theme.php';	名詞*
+ｒくぇんｃ	req.encoding	名詞*
+ｒげｔｗ	Route::get('/user/{}', function(){ return ''; })->where()	名詞*
+ｒげｔ・	Route::get('/user/{name?}', function($ = ''){ return $; });	名詞*
+ｒげｔんｍ	Route::get('foo', 'FoosController@')->name('');	名詞*
+ｒちんｔ	return (int)$;	名詞*
+ｒてゃｓｍ	return $this->hasMany(Fobj::class);	名詞*
+ｒてゃそね	return $this->hasOne(Fobj::class);	名詞*
+ｒてゃんｄぇ	return $next($request);	名詞*
+ｒぽｓｔ	Route::post(function(){  });	名詞*
+ｒぽｓｔ	Route::post('', function(){ return Response::json([], 9);});	名詞*
+ｒぽｓｔ	Route::post('{id}/', [ 'as' => '.', 'uses' => '@', ]);	名詞*
+ｒぽｓｔ	Route::post('', [ 'as' => '.', 'uses' => '@', ]);	名詞*
+ｒぽｓｔ	Route::post('foos', 'FoosController@store');	名詞*
+ｒまｔｃｈ	Route::match(['get', 'post'], '/', function(){  });	名詞*
+ｒんｇ	range(1, 9)	顔文字*
+ｒんｇ	range(9, 0, -1)	顔文字*
+ｒんｇ	range(1, 9, 2)	顔文字*
+ｒんｇ	range(9, 1, -1)	顔文字*
+ｒんｇ	range(1, 9,)	顔文字*
+ｒんｇ	range(0, 9)	顔文字*
+ｒんｇ	range_obj = range(0, 9)	顔文字*
+ｒんｍｍ	'' => [ 'required', 'numeric', 'min:1', 'max:2' ],	名詞*
+ｒんご	range_obj = range(0, 100)	顔文字*
+ｒんご	range_obj = range(0, 9)	顔文字*
+ｒんご	range_obj = range(1, 9)	顔文字*
+ｒんご	range_obj = range(0, 9, 2)	顔文字*
+ｒんご	range_obj = range(1, 9, 2)	顔文字*
+ｒんご	range_obj = range(9, 0, -1)	顔文字*
+ｒんご	range_obj = range(9, 1, -1)	顔文字*
+ｓｃｃｔ	setcookie("counter", ++$counter, time() );	名詞*
+ｓｃｃｔ	setcookie("visitedCount", ++$visitedCount, time()+60*5);	名詞*
+ｓｃｄｄ	printf(" > "); scanf("%d%d", &, & );	名詞*
+ｓｃｄｓ	printf(" > "); scanf("%d%s", &, & );	名詞*
+ｓｃｍｐ	strcmp( , )	名詞*
+ｓｃｍｐ	strcmp( , "")	名詞*
+ｓｃｍｐ	(strcmp( , "") == 0)	名詞*
+ｓｃｒ	<script></script>	短縮読み*
+ｓｃｒ	<script src=""></script>	短縮読み*
+ｓｃｒ＠	<script>@section('') @show</script>	名詞*
+ｓｃｒｆ	<script>(function(){  })();</script>	名詞*
+ｓｃｒｆｃ	<script>$(function (){  });</script>	名詞*
+ｓｃｒｆｆ	{{ csrf_field() }}	名詞*
+ｓｃｓｄ	printf(" > "); scanf("%s%d", &, &);	名詞*
+ｓｃｓｓ	printf(" > "); scanf("%s%s", &, &);	名詞*
+ｓｃｔｆ	sc.textFile('.json')	名詞*
+ｓｃｔｆｍ	sc.textFile('.json').map(lambda x: json.loads(x)  )	名詞*
+ｓｃｖｃ	setcookie("visitedCount", ++$visitedCount, time()+60*5);	名詞*
+ｓｃｗｔｆｍ	sc.wholeTextFiles('/').map(lambda x: json.loads(x)  )	名詞*
+ｓｃらｌ	ScriptAlias / "/var/www"	名詞*
+ｓｃらｌ	<IfModule alias_module>ScriptAlias / "/var"</IfModule>	名詞*
+ｓｃらｐｙ	import scrapy	名詞*
+ｓｃらｐｙ	from scrapy.item import Item, Field	名詞*
+ｓｃんｔ	SELECT COUNT(*) FROM t WHERE(c2, c2) IN (  )	名詞*
+ｓｆｇｒ	SELECT c FROM t GROUP BY c HAVING COUNT(*) > (  )	名詞*
+ｓｆｗ８	SELECT c FROM t WHERE c = (  )	名詞*
+ｓｆｗｆｃ	SELECT c FROM t WHERE c FUNC(  )	名詞*
+ｓｆｗｆｃ	SELECT c FROM t WHERE c FUNC( SELECT * FROM t WHERE c )	名詞*
+ｓｆｗｌ	SELECT FROM WHERE LIMIT	名詞*
+ｓｆｗｌ	SELECT カラム FROM テーブル WHERE 条件 LIMIT 開始位置、行数	名詞*
+ｓｆｗｌ	SELECT * FROM tb WHERE col LIKE '%%';	名詞*
+ｓｇｃｐ	session_get_cookie_params();	名詞*
+ｓｇｃｐ	$params = session_get_cookie_params();	名詞*
+ｓｈｃｍｄ	shapeCmd.insert(1, '-')	名詞*
+ｓｌｃｔ	select = input(':')	名詞*
+ｓｌｄｒ	self.dir	名詞*
+ｓｌｄｒ	self.dir + '/' + root	名詞*
+ｓｌｆｃ	self.x = func()	名詞*
+ｓｌｆｃ	self.y = func(x)	名詞*
+ｓｌｆｃ	self.y = func(self.x)	名詞*
+ｓｌｆん	self.y = func(self.x)	名詞*
+ｓｌｐｒｍ	self.params['W']	名詞*
+ｓｍｌｓ	SceneManager.LoadScene("Scene");	名詞*
+ｓｍｔｐ	import smtplib	名詞*
+ｓｍｔｐ	smtp = smtplib.SMTP('localhost')	名詞*
+ｓｍぉぎｎ	smtp.login('username', 'passwd')	名詞*
+ｓｍぉぎん	smtp.login('username', 'passwd')	名詞*
+ｓｐ：：	\ServiceProvider::class,	名詞*
+ｓｐｈ１	print(soup.h1)	名詞*
+ｓｐｈｄ	header = soup.find('head')	名詞*
+ｓｐｒｔ	String.prototype	名詞*
+ｓｐぢｖ	print(soup.div)	名詞*
+ｓｐりんｔｆ	sprintf(__(""), '<code>ファイル.php</code>');	名詞*
+ｓｐりんｔｆ	$var = sprintf(__(""), '<code>ファイル.php</code>');	名詞*
+ｓｐりんｔｆ	'<>'.sprintf().'</>'	名詞*
+ｓｐりんｔｆ	'<>'.sprintf(__(""), '<code>ファイル.php</code>').'</>';	名詞*
+ｓｐりんｔｆ	'<>'.sprintf().'</>';	名詞*
+ｓｐりんｔｆ	sprintf(str, "%d", num);	名詞*
+ｓｑｌ３	sqlite3 .db	名詞*
+ｓｑｌ３	import sqlite3	名詞*
+ｓｑぃて	:adapter => "sqlite3" , :database => ""	名詞*
+ｓｑぃて	import sqlite3	名詞*
+ｓｑぃて３	import sqlite3	名詞*
+ｓｒｃｆ	<script>(function(){  })();</script>	名詞*
+ｓｒｃｈ	<input type="text" value="" name="s" id="s" class="">	名詞*
+ｓｒｃｈ	<input type="submit" id="searchSubmit" value="" class="">	名詞*
+ｓｒｖそｃｋ	server = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)	名詞*
+ｓｓ	%s	名詞*
+ｓｓｃｋ	server = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)	名詞*
+ｓｓｃｋ	socket.socket(socket.AF_INET, socket.SOCK_DGRAM)	名詞*
+ｓｓｃｋ	client = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)	名詞*
+ｓｓｃｋ	server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)	名詞*
+ｓｔ：んｗ	string *strp = NULL; strp = new string();	名詞*
+ｓｔｄ：：	std::cout << "" << std::endl;	名詞*
+ｓｔｄｌ	#include <stdlib.h>	名詞*
+ｓｔｄぃｂ	#include <stdlib.h>	名詞*
+ｓｔｆｃ	static function func(){}	名詞*
+ｓｔｈｔｔｐｄ	systemctl start httpd.service	名詞*
+ｓｔｌｃ	self.transport.loseConnection()	名詞*
+ｓｔｍｙｓｑｌｄ	systemctl start mysqld.service	名詞*
+ｓｔｐｓ	Vector2 stPos = new Vector2(.0f, .0f);	名詞*
+ｓｔｐｓ	this.stPos = Input.mousePosition;	名詞*
+ｓｔｐｓ	Vector2 stPos;	名詞*
+ｓｔｒ	#include <string>	名詞*
+ｓｔｒｃｐｙ	strcpy(cp, "\n");	名詞*
+ｓｔｒｃｐｙ	strcpy(str, "");	名詞*
+ｓｔｒｓ	$strs[] = "";	名詞*
+ｓｔｒｓ	string[] strs = { "", "", ""};	名詞*
+ｓｔｒぇｎ	strlen($)	名詞*
+ｓｔｒぇん	strlen('')	名詞*
+ｓｔｒぇん	echo strlen('');	名詞*
+ｓｔｒぇん	strlen($)	名詞*
+ｓｔｒぽｓ	strpos($_FOO[''], '')	名詞*
+ｓｔｓｔ	string , string 	名詞*
+ｓｔｙｌ	app/assets/stylesheets/	名詞*
+ｓｔｙｌ	app/assets/stylesheets/.scss	名詞*
+ｓｔｙｌ	style=""	名詞*
+ｓｔｙｌ	<link rel="stylesheet" href="style.css">	名詞*
+ｓｔｙｌ	<style></style>	名詞*
+ｓｔｙｌ	<style>@section('') footer{ prop: value; } @show</style>	名詞*
+ｓｔｙぇ	stylesheet_link_tag "", media: "", "" => true	名詞*
+ｓｔっれｐ	str_replace(,,)	名詞*
+ｓｔっれｐ	$query = str_replace('?', '%s', $sql);	名詞*
+ｓｔだｆｘ	#include <stdafx.h>	名詞*
+ｓｔりい	str[i] =  '' + i;	名詞*
+ｓｔりお	from io import StringIO	名詞*
+ｓｔりお	strio = StringIO(data)	名詞*
+ｓｔりお	strio = StringIO()	名詞*
+ｓｔりんｇ	p count と string 1 + count,  s string countバイト	名詞*
+ｓｔりんｇ	<>ps	名詞*
+ｓｔりんｇ	<>ps 1+count,  count	名詞*
+ｓｔるｃｔ	import struct	名詞*
+ｓｔれｐ	str_replace(,,)	名詞*
+ｓｔれｐ	$query = str_replace('?', '%s', $sql);	名詞*
+ｓｔれｐ	$ = str_replace("\n", '', $);	名詞*
+ｓｔれｐ	$ = str_replace('/', '', $);	名詞*
+ｓｔれｐ	$ = str_replace('.', '', $);	名詞*
+ｓｔれｐ	$ = str_replace('_', '', $);	名詞*
+ｓｔろんｇ	def obj_params p.require(:obj).permit(:name, :name2)end	名詞*
+ｓｔろんｇ	params.require(:obj).permit(:name, :name2)	名詞*
+ｓｖｆ；	static void func(char *);	名詞*
+ｓｖｆ；	static void func(void);	名詞*
+ｓｖｆ；	static void func();	名詞*
+ｓｘｍｌｒｐｃ	server = SimpleXMLRPCServer( ('localhost', 6789) )	名詞*
+ｓｙｓｃ	systemctl	名詞*
+ｓｙｓｃｓｔ	systemctl start d.service	名詞*
+ｓｙｓｃｓｔｐ	systemctl stop .service	名詞*
+ｓｙｓｃｓたｔ	systemctl status .service	名詞*
+ｓｙｓｃｔｌ	systemctl	名詞*
+ｓｙｓｃぅ	systemctl list-units	名詞*
+ｓｙｓｃぅ	systemctl list-units |grep	名詞*
+ｓｙｓｃぅ	systemctl list-unit-files |grep	名詞*
+ｓｙｓｃぅｆ	systemctl list-unit-files |grep	名詞*
+ｓｙｓｃぅｇｒ	systemctl list-units |grep	名詞*
+ｓｙｓｃでｆｓ	#include <sys/cdefs.h>	名詞*
+ｓｙｓｃれｓｔ	systemctl restart .service	名詞*
+ｓｙｓｓ	[System.Serializable()]	名詞*
+ｓｙｓｓｔ	systemctl start .service	名詞*
+ｓｙｓぱｔｈ	import sys for place in sys.path : print(place)	名詞*
+ｓｙさｒｇ	sys.argv	名詞*
+ｓｙさｖ	sys.argv	名詞*
+ｓｙせｘ	raise SystemExit()	名詞*
+ｓｙせん	systemctl enable d.service	名詞*
+ｓぃｓん	if self is None :	名詞*
+ｓぃｓん：	if self is not None :	名詞*
+ｓっこうんｔ	setcookie("counter", ++$counter, time() );	名詞*
+ｓこｍｍ	session.commit()	名詞*
+ｓたｃｋ	#include <stack>	名詞*
+ｓたｃｋ	Stack<> obj = new Stack<>();	名詞*
+ｓたｒｔ	$startBirthYear = $now->year - $age;	名詞*
+ｓたｒｔ	$startBirthCarbon = $now->year($starBirthYear);	名詞*
+ｓたｔｈ	[STAThread]	名詞*
+ｓたｔｈｔｔｐｄ	systemctl status httpd.service	名詞*
+ｓたてぃｃ	wp-content/themes//.php	名詞*
+ｓちぇま	Schema::func();	名詞*
+ｓちぇま	Schema::drop('');	名詞*
+ｓちぇま	Schema::create('foos', function($table){ $table->f('k'); });	名詞*
+ｓちぇま	Schema::func('', function(){  });	名詞*
+ｓちぇま	Schema::enableForeignKeyConstraints();	名詞*
+ｓちぇま	Schema::disableForeignKeyConstraints();	名詞*
+ｓちぇまぢえ	Schema::dropIfExists('foos');	名詞*
+ｓてんｆ	setenforce 0	名詞*
+ｓとｐｈｔｔｐｄ	systemctl stop httpd.service	名詞*
+ｓぱん５	<span><%= %></span>	名詞*
+ｓぱんｐ	<span><?php ?></span>	名詞*
+ｓぱんｐ	<span><?php ?></span><br>	名詞*
+ｓぱんぺｃ	<span class=""><?php echo ; ?></span>	名詞*
+ｓぱんぺｃ	<span class=""><?php echo ; ?></span><br>	名詞*
+ｓびんｄ	server.bind(server_address)	名詞*
+ｓぴでｒ	from scrapy import Spider	名詞*
+ｓふぉｄんｌ	|  SplFileObject::DROP_NEW_LINE	名詞*
+ｓふぉｆ	SplFileObjectSplFileObject::READ_CSV	名詞*
+ｓふぉｆ	|  SplFileObject::DROP_NEW_LINE	名詞*
+ｓふぉｆ	|  SplFileObject::SKIP_EMPTY	名詞*
+ｓふぉｆ	|  SplFileObject::READ_AHEAD	名詞*
+ｓふぉｒｃ	SplFileObject::READ_CSV	名詞*
+ｓふぉせ	|  SplFileObject::SKIP_EMPTY	名詞*
+ｓふぉら	|  SplFileObject::READ_AHEAD	名詞*
+ｓぺｘｔ	_ServiceProvider extends ServiceProvider{}	名詞*
+ｓらんｄ	srand( (unsigned) time(NULL) );	名詞*
+ｓんｗ	<string> obj = new <string>();	名詞*
+ｔｂんｍ	__tablename__ = ''	名詞*
+ｔｄぃんｋ	<td><%= link_to 'VIEW', obj %></td>	名詞*
+ｔｄぃんｋ	<td><%= link_to '', obj %></td>	名詞*
+ｔｆｔｔ	T func(T x, T y){ return x + y; }	名詞*
+ｔｇ	<>	名詞*
+ｔｇ	<></>	名詞*
+ｔｇｃｔ	this.foo.GetComponent<Text>().text	名詞*
+ｔｇｃｔ	this.foo.GetComponent<Text>().text;	名詞*
+ｔｇｃｔ	this.foo.GetComponent<Text>().text = "";	名詞*
+ｔｈｃｒ	threading.current_thread()	名詞*
+ｔｈｆｃ	this.meth = function(){ return ; };	名詞*
+ｔｈｆｃ	this.meth = function(){ console.log(); };	名詞*
+ｔｈｍｆ	this.meth = function(){ return this.prop; };	名詞*
+ｔｈｓｔ	th.start()	名詞*
+ｔｈれあｄ	import threading	名詞*
+ｔｈれあｄ	 = threading.Thread(target=)	名詞*
+ｔｈれあｄ	 = threading.Thread(name='', target=)	名詞*
+ｔｈれあｄ	from threading import Thread	名詞*
+ｔｈれあｄｓ	threads = [ th = threading.Thread(target=meth()  ) ]	名詞*
+ｔｈろｗ	throw new FOO("メッセージ")	名詞*
+ｔｈろｗ	throw new Exception("");	名詞*
+ｔｈろｗ	if($ == ){ throw new Exception(""); }	名詞*
+ｔｈろｗ	if(! () ){ throw new Exception(''); } return $next($);	名詞*
+ｔｈんｍ	this.num = num;	名詞*
+ｔｌんｖ３	transform.localScale = new Vector3(1, 1, 1);	名詞*
+ｔｍｐ１２	tmp.x = arg1.x + arg2.x;	名詞*
+ｔｍｐ１２	tmp.m_ = arg1.m_ + arg2.m_;	名詞*
+ｔｍｐ：	型 tmp = *addr;	名詞*
+ｔｍｐ：	double tmp = *addr;	名詞*
+ｔｍｐ：	double tmp = *p;	名詞*
+ｔｍｐ：	型 tmp = *p;	名詞*
+ｔｍｐ：	int tmp = *ip;	名詞*
+ｔｍｐ：	double tmp = *dp;	名詞*
+ｔｍｐ：	char tmp = *cp;	名詞*
+ｔｍｐｆ	template <typename T> T func(T x, T y){ return ; }	名詞*
+ｔｍｔｈ	var tmp = this;	名詞*
+ｔｐんｖ	ins.transform.position = new Vector3(randPx, 9, 0)	名詞*
+ｔｐんｖ３	ins.transform.position = new Vector3(randPx, 9, 0)	名詞*
+ｔｐんｖ３	transform.position = new Vector3();	名詞*
+ｔｒｂｒ	trackback_responce(1, '');	名詞*
+ｔｒｂｒ	trackback_responce(0);	名詞*
+ｔｒｍｈ	trim($hash['key']);	名詞*
+ｔｒｔｓ	(x_train, t_train), (x_test, t_test) = load()	名詞*
+ｔｒん：：	$target = Trn::where('col', '=', $col)->first()->target;	名詞*
+ｔｒん：：	$email= Trn::where('id', '=', $id)->first()->email;	名詞*
+ｔｒん：：ふぃんｄ	$updateTrnUser = UpdateTrnUsr::find($id);	名詞*
+ｔｓｔｍｐ	TIMESTAMP DEFAULT CURRENT_TIMESTAMP	名詞*
+ｔｔｍｐ	T tmp = arg;	名詞*
+ｔｗｈｃ	T <T>() where T; Component	名詞*
+ｔこんｔ	test/controllers/	名詞*
+ｔこんｔ	test/controllers/_controller_test.rb	名詞*
+ｔらｃｋ	wp-trackback.php	名詞*
+ｔらいｔ	trait TFoo{  }	名詞*
+ｔらいｔ	trait TFoo{ public function func(){  } }	名詞*
+ｔらいｔ	trait TFoo{ public function func($){ $; } }	名詞*
+ｔらいｔ	trait TFoo{ function func(){  } }	名詞*
+ｔらいｔ	trait TFoo{ protected $foo = ; public function func(){  } }	名詞*
+ｔらんさｃｔ	$pdo->beginTransaction();	名詞*
+ｔらんさｃｔ	$pdo->beginTransaction(); $pdo->commit();	名詞*
+ｔるえぢｖ	__truediv__()	名詞*
+ｔるえぢｖ	def __truediv__(self):	名詞*
+ｔるんかて	TRUNCATE TABLE テーブル名	名詞*
+ｔんｖｃ	<input type="text" name="" value="" class="">	短縮読み*
+ｔんｖｃ	input[type="" name="" value="" class=""]	短縮読み*
+ｖ２ｔｆｔｐ	Vector2 pos = this.fobj.transform.position;	名詞*
+ｖ２ｔｇ	var = "<>" + + "</>"	名詞*
+ｖ２ｔｇ	var = "<>" + + "</>" +	名詞*
+ｖ２ｔｐ	Vector2 pos = transform.position;	名詞*
+ｖ２ｔｐｔｐ	Vector2 pos = this.player.transform.position;	名詞*
+ｖ２ｔｔｐ	Vector2 pos = ths.fobj.transform.position;	名詞*
+ｖ３ｔｔｐ	Vector3 playerPos = this.player.transform.position;	名詞*
+ｖ４ｔｈ	var obj = $(this)	名詞*
+ｖ４ｔｈ	var obj = $(this).meth()	名詞*
+ｖ４ｔｈ	var obj = $(this).find('');	名詞*
+ｖ４ｔｈｄｔ	var obj = $(this).data('')	名詞*
+ｖ４う゛ぁｌ	var title = $('input[name="title"]', methBlock).val()	名詞*
+ｖ４う゛ぁｌ	var title = $('', methBlock).val()	名詞*
+ｖ４ふぃんｄ	var obj = $(this).find('');	名詞*
+ｖ８ｆｃ	var obj = (function(){  })();	名詞*
+ｖ８ｆｃ	var func = (function(){})();	名詞*
+ｖ８ｆｃ	var Cons = (function(){ function Cons(){} return Cons; })();	名詞*
+ｖ：：ｃ	void Foo::func(const type arg){}	名詞*
+ｖ：：ｃ	void Foo::func() const{}	名詞*
+ｖ：：ｃｓ	void Foo::func(const string arg){}	名詞*
+ｖ：：い	void Foo::func(const int arg){}	名詞*
+ｖｃ：：	void func(char**);	名詞*
+ｖｃ：：	void func(char**){}	名詞*
+ｖｃｆｃ	var Foo = function Foo(x){ this.x = x; };	名詞*
+ｖｄ−−	<?php var_dump( == ); ?>	名詞*
+ｖｄ−−	var_dump( == );	名詞*
+ｖｄ−−−	var_dump( === );	名詞*
+ｖｄ−−−	<?php var_dump( === ); ?>	名詞*
+ｖｄｂｌ	var_dump( (bool)$);	名詞*
+ｖｄｄｄ	var_dump($); dd($);	名詞*
+ｖｄｄｄ	$  = ; var_dump($); dd($);	名詞*
+ｖｄｇｔ	var_dump(gettype()  );	名詞*
+ｖｄｇｔ	<?php var_dump(gettype()  ); ?>	名詞*
+ｖｄｇｔ	<?php var_dump("\n type: ".gettype()."\n"); ?>	名詞*
+ｖｄｇｔ	var_dump("\n type: ".gettype()."\n");	名詞*
+ｖｄｍｂｓ	var_dump(mb_strlen() );	名詞*
+ｖｄｍｂｓ	<?php var_dump(mb_strlen()  ); ?>	名詞*
+ｖｄｍｂｓ	var_dump(mb_strlen($) );	名詞*
+ｖｄｍｂｓ	var_dump($."\n"); var_dump('len: '.mb_strlen() );	名詞*
+ｖｄｍｂｓ	<?php var_dump($."\n"); var_dump('len: '.mb_strlen() ); ?>	名詞*
+ｖｄｓｔ	var_dump( (string)$);	名詞*
+ｖｄｓｔ	<?php var_dump( (string)$ ); ?>	名詞*
+ｖｄｓｔｌ	var_dump(strlen()  );	名詞*
+ｖｄｓｔｌ	var_dump('len: '.strlen()  );	名詞*
+ｖｄｓｔｌ	var_dump($); var_dump('len: '.strlen()  );	名詞*
+ｖｄｓｔｌ	<?php var_dump('len: '.strlen()  ); ?>	名詞*
+ｖｄｓｔｌ	<?php var_dump($); var_dump('len: '.strlen()  ); ?>	名詞*
+ｖｄｓｔｌ	<?php var_dump("\n len: ".strlen()."\n"); ?>	名詞*
+ｖｄｓｔｌ	var_dump("\n len: ".strlen()."\n");	名詞*
+ｖｄせあ	var_dump($->search('val')  );	名詞*
+ｖｄせあ	<?php var_dump($->search('val')  ); ?>	名詞*
+ｖｆ：：	void func(* , *);	名詞*
+ｖｆ：：	void func(* , *){}	名詞*
+ｖｆｃ６	void func(const Foo& Foo);	名詞*
+ｖｆｃ６	void func(const Foo& Foo){}	名詞*
+ｖｆｃ８	var func = function(){}();	名詞*
+ｖｆｃ８	var func = function(){ console.log();  }();	名詞*
+ｖｆｃ８	var func = function(){ return ; }();	名詞*
+ｖｆｃ：	void func(char* addr);	名詞*
+ｖｆｃ：	void func(char* addr){}	名詞*
+ｖｆｃ：	void func(const Foo* Foop){}	名詞*
+ｖｆｃ：	void func(const Foo* Foop);	名詞*
+ｖｆｃ：	var func = { meth: function(){}  };	名詞*
+ｖｆｃ：	var func: (prop: foo, prop2: foo) => foo;	名詞*
+ｖｆｃｌ	var func = function(){ console.log(); };	名詞*
+ｖｆｃｓ	void func(const string arg);	名詞*
+ｖｆｃｓ	void func(const string arg){}	名詞*
+ｖｆｃｓ	void Foo::func(const string arg){}	名詞*
+ｖｆｃｔ６	void func(const T& arg){}	名詞*
+ｖｆｄ：	void func(double*);	名詞*
+ｖｆｄ：	void func(double*)	名詞*
+ｖｆｄ：	void func(double* addr){}	名詞*
+ｖｆｔ６	void func(T & , T &){}	名詞*
+ｖｆしｆ	var func = function(){ if(){} };	名詞*
+ｖｆんｃ	var func = function(){ return ; };	名詞*
+ｖｆんｃ	var func = function(name){ this.name = name; };	名詞*
+ｖｆんｃ	var foo = function(func){ return func; };	名詞*
+ｖｆんｃ	var Foo = function(name){ this.name = name || 'default'; };	名詞*
+ｖｆんｃ	var Foo = function(){  };	名詞*
+ｖｆんｃ	var Cons = function(name){ this.name = name || 'default'; };	名詞*
+ｖｇｂｌ	vagrant box list	名詞*
+ｖｇｂｘ	http://www.vagrantbox.es/	名詞*
+ｖｇｂｘ	vagrant box add BOX名 /url	名詞*
+ｖｇｂｘ	vagrant box add BOX名 https://	名詞*
+ｖｇｂｘ	vagrant box add BOX名 http://	名詞*
+ｖｇｂｘ	vagrant box add BOX名 https://github.com/.box	名詞*
+ｖｇｓｈ	vagrant share	名詞*
+ｖｇｖｘ	vagrant box add BOX名 /url	名詞*
+ｖｇでｓｔ	vagrant destroy	名詞*
+ｖｇれｌ	vagrant reload	名詞*
+ｖｓｐｆ	$query = vsprintf($query, $bindings);	名詞*
+ｖｓｔｒｃｔ	var struct = { id: 0, name: '', };	名詞*
+ｖｖｆ０	virtual void func()=0;	名詞*
+ｖｗ：：	View::share('key', 'value');	名詞*
+ｖｗ：：	View::composer('', 'App\Http\ViewComposers\_Composer');	名詞*
+ｖｗ：：	View::('', function(){  });	名詞*
+ｖｗ：：	View::('', function($view){  });	名詞*
+ｖｗｈい	/var/www/html/index.php	名詞*
+ｖぁｐｐ	app/views/layouts/application.html.erb	名詞*
+ｖぁｐｐ	application.html.erb	名詞*
+ｖぁｐｐ	app/views/layouts/	名詞*
+ｖだｋｍ	var_dump(array_keys(max($arr), $arr)  );	名詞*
+ｖだｒｓ	<?php var_dump(array_search('', $)  ); ?>	名詞*
+ｖだｒｓ	var_dump(array_search('', $) );	名詞*
+ｖだｒｓ	var_dump(array_search(func($arr), $arr) );	名詞*
+ｖだｒｓ	<?php var_dump(array_search(func($arr), $arr)  ); ?>	名詞*
+ｖだｓｆ	var_dump(array_search(func($arr), $arr) );	名詞*
+ｖだｓｆ	<?php var_dump(array_search(func($arr), $arr) ); ?>	名詞*
+ｖぢんｔ	var_dump( (int)$);	名詞*
+ｖぢんｔ	<?php var_dump( (int)$ ); ?>	名詞*
+ｖふぃ６	void func(int&);	名詞*
+ｖふぃ：	void func(int*);	名詞*
+ｖふぃ：	void func(int* addr){}	名詞*
+ｖふぃ：ｐ	void func(IInfA* p){ p->methA(); }	名詞*
+ｖふぃｒｆ	[ value for value in range(0, 9) if value == ]	名詞*
+ｖふぃい	void func(int x, int y);	名詞*
+ｖふぃい	void func(int x, int y){}	名詞*
+ｖふぃい：	void func(int*, int*);	名詞*
+ｖふぃい：	void func(int* addr, int* addr){}	名詞*
+ｖふぃい：	void func(int* ip, int* ip2){}	名詞*
+ｖふぃんｆ：	void func(IInf*);	名詞*
+ｖふぃんｆ：	void func(IInfA* p){ p->methA(); }	名詞*
+ｖふんｃ	var Foo = function(x, y){ this.x = x; this.y = y; };	名詞*
+ｖふんｃ	var func = new Function("x", "y", "return ");	名詞*
+ｖふんｃ	var func = function(){};	名詞*
+ｖふんｃ	var func = function(){ return; };	名詞*
+ｖふんｃ	var func = function(){ return this; };	名詞*
+ｖふんｃ	var func = function(){ return this.meth(); };	名詞*
+ｖぺせｓ	value="<?php echo es($name); ?>"	名詞*
+ｖほｓｔ	<Virtualhost *:80></Virtualhost>	名詞*
+ｖほｓｔ	<VirtualHost *:80></VirtualHost>	名詞*
+ｖほｓｔｓ	\xampp\apache\conf\extra\httpd-vhosts.conf	名詞*
+ｖんｓｔ	var str = new String('');	名詞*
+ｖんｗｄ	var date = new Date();	名詞*
+ｖんｗｆ	var func = new Function("x", "y", "return ");	名詞*
+ｖんｗｓｔ	var str = new String();	名詞*
+ｖんわｒｒ	var arr = new Array();	名詞*
+ｗ１２３	(W1, W2, W3) = (network['W1'], network['W2'], )	名詞*
+ｗ１２３	( W1, W2, W3 ) = (nw['W1'], nw['W2'], nw['W3'])	名詞*
+ｗｃｓｓ	wp-content/themes/テーマ/style.css	名詞*
+ｗｃｓｓ	wp-content/themes//style.css	名詞*
+ｗｃｓｓ	wp-content/themes//css/	名詞*
+ｗｆげｔｃ	while( (c = fgetc(fp)  ) != EOF){ printf("%c\n", (char)c); }	名詞*
+ｗｆげｔｓ	while(fgets(line, SIZE, fp) != NULL){ printf("%s", line); }	名詞*
+ｗｈｃｇ	while((c = get() ) != ){  }	名詞*
+ｗｈｃｇ	while((c = getopt(argc -= ; argv += "t:") ) != -1){  }	名詞*
+ｗｈｃｇ	while((c = getchar() ) != EOF){  }	名詞*
+ｗｈｃｌ	while(cnt < arrLength){ console.log(arr[cnt]); cnt++; }	名詞*
+ｗｈｃんｔ	WHERE COUNT <= 9	名詞*
+ｗｈｇｐ	while( (c = getc(pf_src) ) != EOF){ putc(c, pf_dist); }	名詞*
+ｗｈｌ：	while len() = 0 :	名詞*
+ｗｈｌ：	while len() > 0 :	名詞*
+ｗｈｌ：	while len() < 0 :	名詞*
+ｗｈｐｃ	while(column > ){ putchar(' '); colmn++; } continue;	名詞*
+ｗｈｐｘ	width: px; height: px;	名詞*
+ｗｈｓ：	while self.param > 0 :	名詞*
+ｗｈｙｌｄ	while n < last : yield n n += step	名詞*
+ｗｈぇｎ	while len() > 1 : 	名詞*
+ｗｈぇん：	while position < len(array  ) :	名詞*
+ｗｈぇん：	while position < len(array  ) : position += 1	名詞*
+ｗｈぇん：	while len() > 0:	名詞*
+ｗｈくぇ	while( !que.empty()  ){}	名詞*
+ｗｈくえｍｐ	while( !que.empty()  ){}	名詞*
+ｗｈせｍｐ	while( !stk.empty()  ){}	名詞*
+ｗｈちｔぇ	->where('title', 'like', $params['title'])	名詞*
+ｗｈにｔｒ	while not itr.finished :	名詞*
+ｗｈぼｄｙ	->where('body', 'like', $params['body'])	名詞*
+ｗｈん：	while != None:	名詞*
+ｗｈん：	while == None:	名詞*
+ｗｐぅｇ	wp-content/plugins/	名詞*
+ｗｒこｌｄ	$wrkfileObj->fwrite($olddata);	名詞*
+ｗｗ	\w	名詞*
+ｗｗ	\W	名詞*
+ｗぁんｇ	wp-content/languages/	名詞*
+ｗこんｔ	wp-content/	名詞*
+ｗしｇｎ	wp-signup.php	名詞*
+ｗてぇめ	wp-content/themes/	名詞*
+ｗなう゛ぃ	window.navigator	名詞*
+ｗふんｃ	wp-content/themes//functions.php	名詞*
+ｘ−１ｘ	[[x-1]][[x]]	名詞*
+ｘｇｂｌ	X-Geo-Block-List	名詞*
+ｘｈｒｒ	XMLHttpRequest.responseText	名詞*
+ｘｈｒｓ	XMLHttpRequest.status	名詞*
+ｘｈｒて	XMLHttpRequest, textStatus, errorThrown	名詞*
+ｘｈれｓ	xhr.response	名詞*
+ｘｍｌｒｐｃ	import xmlrpc.client	名詞*
+ｘｍｌｒｐｃ	from xmlrpc.server import SimpleXMLRPCServer	名詞*
+ｘｘｘｘ	html = <<XXXX XXXX	名詞*
+ｙｌｄ４	for($i = $min; $i <= $max; $i += $step){ yield $i; }	名詞*
+ｙｌｇｓ	resp = yield get('https://')	名詞*
+ｙｍｄｈｍｓ	%Y-%m-%d %H:%M:%S	名詞*
+ｙｍでぃｓ	('Y-m-d h:i:s')	名詞*
+ｙｍでぃｓ	'Y-m-d h:i:s'	名詞*
+ｙｍでぃｓ	Y-m-d h:i:s	名詞*
+ｙんｊぎｓ	date("Y/n/j G:i:s", time()  );	名詞*
+・	?	名詞*
+・１２；	(?!"+var+")	名詞*
+・２５５	dataset[key] /= 255.0	名詞*
+・ｈｔｔｐ	__('http://')	名詞*
+・ｈｔｔｐｓ	__('https://')	名詞*
+・ｈｔｔｐｓ	__('https:// /Editing wp-config.php')	名詞*
+・ｓｂｓｃ	sub.subscribe(topics)	名詞*
+・ｓｃｒ	/s/create	名詞*
+・ｓｔｒ	</string>	名詞*
+・・	\/	名詞*
+・・ｄｆ	->dispatchFrom(_Command::class, $req);	名詞*
+・・ｗｈ	->where('', )->update(['' =>   ])	名詞*
+・・・・	<!-- --><!-- ファイル名: /.php -->	名詞*
+・・おｂ	->orderBy('', 'desc')	名詞*
+・・たｒ	::where([ '' => '', ])->get()->toArray();	名詞*
+・いおｓ	</iostream>	名詞*
+・めｓｓ	http://.localhost:8000/?message=foo	名詞*
+・めｓｓ	?message=	名詞*
+をｒけｒ	target=worker	名詞*
+ぁｍ：いえ	lambda x:  if  else 	名詞*
+ぁｍｃｌｂ	lambda : callback()	名詞*
+ぁいぇｒ	_layer = dlf.Layer()	名詞*
+ぃ５ｃｒ	<li><%= link_to "", current_user %></li>	名詞*
+ぃ５ぃんｋ	<li><%= link_to "", _path, method: :delete %></li>	名詞*
+ぃ５でｌ	<li><%= link_to "", _path, method: :delete %></li>	名詞*
+ぃ５ぽｓｔ	<li><%= link_to '', _path() , method: :post,class="" %></li>	名詞*
+ぃｓｔ	#include <list>	名詞*
+ぃｓｔｓ	lists[][]	名詞*
+ぃｓｔｓ	lists[]	名詞*
+ぃｓｔｓ	lists = ['', '', '', '' ]	名詞*
+ぃｓてｎ	Listen 0.0.0.0:80	名詞*
+ぃｓてｎ	Listen 80	名詞*
+ぃｓてｎ	Listen [::]:80	名詞*
+ぃいんｐ	<li><input type="submit" value="投稿する"></li>	名詞*
+ぃねｓれあｄ	print(len(lines), 'lines read')	名詞*
+ぃんＫ	<link rel="stylesheet" href="..//.css">	短縮読み*
+ぃんｋ	<link rel="stylesheet" href="..//.css">	短縮読み*
+ぃんふぉ	Log::info('');	名詞*
+ぃんぷｔ	<label><input name="" type="" value=""></label>	名詞*
+ぃんぷｔ	<label><input name="" type="" value=""></label><br>	名詞*
+ぇってｒ	\N{LETTER}	名詞*
+ぇってｒ	'\N{LETTER}'	名詞*
+ぇんｇｔｈ	length: { maximum: }	名詞*
+ぉｃｇぶ	header("Location:{$gobackURL}");	名詞*
+ぉっげｒ	logger.warn("")	名詞*
+っそｃｋ	sub = ctx.socket(zmq.SUB)	名詞*
+っそｃｋ	socket.socket()	名詞*
+っぢｃｔ	from collections import defaultdict	名詞*
+っぢｃｔ	辞書名 = defaultdict(関数名)	名詞*
+っぢｃｔ	defaultdict(int)	名詞*
+っぢｃｔ	defaultdict(list)	名詞*
+っぢｃｔ	defaultdict(dict)	名詞*
+っぢｃｔ	defaultdict(lambda : )	名詞*
+っぢｃｔ	defaultdict(lambda : 'デフォルト値' )	名詞*
+っぢんｔ	dd( (int)$);	名詞*
+ってｓｓ	tesseract 元画像.tiff 出力ファイル名 | cat 出力ファイル名.txt	名詞*
+っでんｖ	dd($_ENV);	名詞*
+っふぃ	func(x) for x in リスト	顔文字*
+っふぃ	[ func(x) for x in リスト ]	顔文字*
+っふぃ	print([ func(x) for x in リスト ])	顔文字*
+あｃｐｒ	<a href="{{ $metadata->url }}">{{ $metadata->author }}.</a>	名詞*
+あｃｓｃ	require 'active-support/core_ext/'	名詞*
+あｃｔ；	act += new Action(obj.Meth);	名詞*
+あｃｔ；	act += new Action(staticMeth);	名詞*
+あｃｔｒ	$('.active')removeCrass('active');	名詞*
+あｃｔｓたｔ	http://code.activestate.com/recipes/langs/python/	名詞*
+あｄｄｆ	add_filter($tag, $function_to_add, $priority,$accepted_args)	名詞*
+あｄｄｔ	AddType application/x-compress .Z	名詞*
+あｄｄｔ	AddType application/x-gzip .gz .tgz	名詞*
+あｄｄｔ	AddType text/html .shtml	名詞*
+あｄｄさう゛ぇ	public function addSave(UserAddRequest $r, UserService $s){}	名詞*
+あｄｄと	_add__to_s	名詞*
+あｄｄと	add__to_s	名詞*
+あｇ−；	argc -= ; argv += ;	名詞*
+あｇ−；	argc --, argv ++;	名詞*
+あｇｃｖ	argc, argv	名詞*
+あｇｃｖ	argc -= ; argv += ;	名詞*
+あｇｃｖ	argc --, argv ++;	名詞*
+あｇｖ：	for item in sys.argv[1:] :	名詞*
+あｇｖ：	if len(sys.argv) != 2 :	名詞*
+あｈｃｃ	use App\Http\Controllers\Controller;	名詞*
+あｈｃｄ	use App\Http\Controllers\DB;	名詞*
+あｈｃｓ	use App\Http\Controllers\Schema;	名詞*
+あｌｔｈ	alert(this.meth()  );	名詞*
+あｌｔｈ	alert(this.prop );	名詞*
+あｐｐ８	app('')->all()	名詞*
+あｐｐｄ	C:\Users\Alice\AppData\	名詞*
+あｐｐｄ	C:\Users\Alice\AppData\Local\	名詞*
+あｐｐｐ	application.php	名詞*
+あｐｐｔｍｐ	C:\Users\Alice\AppData\Local\Temp\	名詞*
+あｐｐぃ	#include <appli.h>	名詞*
+あｐｐこんｔ	app/controllers/application_controller.rb	名詞*
+あｐｘｈ	application/xhtml	名詞*
+あｐっぱｔｈ	$app_path = app_path();	名詞*
+あｒｇｃ	arguments.callee();	名詞*
+あｒｇｃ	arguments.callee	名詞*
+あｒｇｌ	arguments.length	名詞*
+あｒｇｍ	p = np.argmax( , axis=1)	名詞*
+あｒｇｓ	$args[''] = '';	名詞*
+あｒｇｖ	if ARGV.first 'オプション文字列'	名詞*
+あｒｇｖ	case ARGV.first when "オプション文字列"	名詞*
+あｒｐｒ	Array.prototype	名詞*
+あｒｒ：	arr: [{}],	名詞*
+あｒｒ：	arr: [],	名詞*
+あｒｒｄ	$diffValue = array_diff($array, ["", ""])	名詞*
+あｒｒｄ	array_diff($array1, $array2)	名詞*
+あｒｒｆ	array_filter($arr, "strlen")	名詞*
+あｒｒｋ	array_keys()	名詞*
+あｒｒｐ	array_push($arr, );	名詞*
+あｒｒｐ	array_push($dist, $source[$map[] ]);	名詞*
+あｒｒｐ	array_push($dist, array_keys(max($src), $src)  );	名詞*
+あｒｒｐ	array_push($dist, array_keys(func($src), $src)  );	名詞*
+あｒｒｐ	array_push($dist, array_search(func($src), $src)  );	名詞*
+あｒｒｐ	array_push($dist, $src);	名詞*
+あｒｒｐ	array_push($dist, $source[$map[] -1 ]);	名詞*
+あｒｒｐ	array_push($dist, array_search(max($src), $src)  );	名詞*
+あｒｒｐ	array_push($dist, array_keys(min($src), $src)  );	名詞*
+あｒｒｗｈ	$filted = array_whare($arr, function($v, $k){return f($v);})	名詞*
+あｒｒしｆｔ	array_shift($argv);	名詞*
+あｒｔｍｐ	arg2 = tmp;	名詞*
+あｒがｒｇ	arg = arg2;	名詞*
+あｒぐｃ	arguments.callee	名詞*
+あｒしｆｔ	$foo = array_shift($foos);	名詞*
+あｒせあ	array_search()	名詞*
+あｒせあ	array_search(func($arr), $arr)	名詞*
+あｒちｄ	php artisan db:seed	名詞*
+あｒちｄ	php artisan db:seed --class=FooTableSeeder	名詞*
+あｒちｌ	php artisan list make	名詞*
+あｒちｍ	php artisan migrate	名詞*
+あｒちｍ	php artisan make:command Command --handler	名詞*
+あｒちｍ	php artisan make:command MailCommand --handler	名詞*
+あｒちｍ	php artisan make:command Command	名詞*
+あｒちｍ	php artisan make:middleware ミドルウェアクラス名	名詞*
+あｒちｍ	php artisan make:middleware FooMiddleWare	名詞*
+あｒちｍ	php artisan make:FooServiceProvider	名詞*
+あｒちｍ	php artisan make:controller _Controller --resource	名詞*
+あｒちｒ	php artisan route:list	名詞*
+あｒちｒ	php artisan route:cache	名詞*
+あｒちｒ	php artisan route:clear	名詞*
+あｒちｓ	php /path/to/project artisan schedule:run	名詞*
+あｒちｓ	php artisan session:table	名詞*
+あｒちｖ	php artisan vendor:	名詞*
+あｒちｖ	php artisan vendor:publish --tag=laravel-pagination	名詞*
+あｒちさん	php artisan serve	名詞*
+あｒちみｇ	php artisan migrate:mike --table=users tb	名詞*
+あｓｓｊｑ	assets/jquery/jquery.min.js	名詞*
+あｓｓぼおｔ	assets/bootstrap/css/bootstrap.min.css	名詞*
+あｓｓぼおｔ	assets/bootstrap/js/bootstrap.min.js	名詞*
+あｔｃｔ	ALTER TABLE tb CONVERT TO	名詞*
+あｔｄｃ	auto func(T&& t) -> decltype(foo<T>(T)()  ){ return ; }	名詞*
+あｔｍｐ	arg2 = tmp;	名詞*
+あｔｔｒ	attr_reader :, :, :, :,	名詞*
+あｔｔｒ	attr_reader :arg1, :arg2	名詞*
+あｔｔｒ	attr_writer :arg1, :arg2	名詞*
+あｔｔｒ	attr_accessor :arg1, :arg2	名詞*
+あｔｔｒ	attr_reader : attr_writer attr_accessor	名詞*
+あｔｔｒ	attr_reader :	名詞*
+あｔｔｒ	attr_writer :	名詞*
+あｔｔｒ	attr_reader : attr_writer :	名詞*
+あｔｔｒ	attr_accessor :	名詞*
+あｔｔｒ	attr_accessor : attr_reader :	名詞*
+あｔｔｒ	attr_accessor : attr_writer :	名詞*
+あｔｔｒ	class  class << self attr_accessor : end end	名詞*
+あｔｔｒ	class  class << self attr_reader : end end	名詞*
+あｔｔｒ	class  class << self attr_writer : end end	名詞*
+あｔｔｒ	attr_checked	名詞*
+あｔｔｒ	@note.title = "こんにちは"	名詞*
+あｔｔｒ	<%= @note.title %>	名詞*
+あｙｍｄ	%A, %Y/%m/%d	名詞*
+あｙｍｄ	%a, %Y/%m/%d	名詞*
+あ・	a/	名詞*
+あぃあｓ	Alias /url1 /url2	名詞*
+あぃあｓ	Alias /url	名詞*
+あぃあｓ	Alias /phpmyadmin /var/www/phpmyadmin	名詞*
+あぃあｓｍ	AliasMatch ^/user(.*) /home/haru/public_html/$1	名詞*
+あぇｒｔ	, alert: ''	名詞*
+あぇｒｔ	class="alert"	名詞*
+あぇｒｔ	id="alert"	名詞*
+あぇｒｔ	<%= alert %>	名詞*
+あぇｒｔ	<p class =""><%= alert %></p>	名詞*
+あぇｒｔ	alert: ''	名詞*
+あっくｒ	accur = np.sum(y == t) / float(x.shape[0])	名詞*
+あっせｔ	asset('resources/assets/bootstrap/css/bootstrap.min.css');	名詞*
+あっせｔｓ	app/assets/	名詞*
+あっぺんｄ	def self.append_features(base) end	名詞*
+ああああ	aeare	名詞*
+あいてむ	<item></item>	名詞*
+あいんｃ	autoincrement=True,	名詞*
+あうｔｈ	author-.php	名詞*
+あうｔｈ	%author%	名詞*
+あうｔｈ	Author URI:	名詞*
+あうｔｈ	from requests.auth	名詞*
+あうｔｈ	from requests.auth import AuthBase	名詞*
+あうｔｈ	from requests.auth import HTTPBasicAuth	名詞*
+あうｔｈ	auth = HTTPBasicAuth('', '')	名詞*
+あうｔｈ	auth = HTTPBasicAuth('username', 'passwd')	名詞*
+あうｔｈ	auth=('', '')	名詞*
+あうｔｈ	public function auth(Request $r, AuthService $s){}	名詞*
+あう゛ぁてｒ	'avater_size' => '32',	名詞*
+あえｒｒ	ATTR_ERRMODE	名詞*
+あしえｐ	assert_in_epsilon(第1, 第2, 許容誤差範囲)	名詞*
+あしえｐ	assert_in_epsilon(, ,)	名詞*
+あせｔｔｓ	app/assets/	名詞*
+あだｐｔ	:adapter => "", :database => ""	名詞*
+あぱちぇ	C:\xampp\apache\conf	名詞*
+あぴｇｈ	https://api.github.com/	名詞*
+あぴｇｈ	'https://api.github.com/'	名詞*
+あぴｇｈ	('https://api.github.com/')	名詞*
+あふぁいあ	[ arg for arg in args ]	名詞*
+あんｄｒ	/Users/Haru/AppData/Local/Android/sdk	名詞*
+い０６９	if(   (c >= '0') && (c >= '9')   ){}	名詞*
+い：おｎ	Imprement* obj = new Imprement();	名詞*
+い：おん	Imprement* obj = new Imprement();	名詞*
+い：おんｗ	Imprement* obj = new Imprement();	名詞*
+いＤ	id=""	短縮読み*
+いｂｃｂ	if(callback){ callback(); }	名詞*
+いｃ：：	int, char**	名詞*
+いｃ：：	int num, char** p	名詞*
+いｃ：：	int x, char** p	名詞*
+いｃ：：	(int x, char** p)	名詞*
+いｃ：：	(int argc, char** argv)	名詞*
+いｃ：：	int argc, char** argv	名詞*
+いｃｆｃ	use Illuminate\Contracts\Filesystem\Cloud asCloudFilesystem;	名詞*
+いｃｔｈいｄ	echo "<th>", "ID", "</th>";	名詞*
+いｃてぃｄ	echo "<th>", "ID", "</th>";	名詞*
+いｄ	id=""	短縮読み*
+いｄｃｌｓ	id="<?php the_ID(); ?>" <?php post_class(); ?>	名詞*
+いｄｍｍ	use Illuminate\Database\Migrations\Migration;	名詞*
+いｄｓｂ	use Illuminate\Database\Schema\Blueprint;	名詞*
+いｆ０：	if == 0 :	名詞*
+いｆ０：	if = 0 :	名詞*
+いｆ０：	if > 0 :	名詞*
+いｆ０：	if < 0 :	名詞*
+いｆ０：	if != 0 :	名詞*
+いｆ１ｎ	if ! .nil? end	名詞*
+いｆ１ん	if ! .nil? end	名詞*
+いｆ１ん	if ! .nil? else end	名詞*
+いｆ２５６	if(i <= 0 || i > 256){ exit(1); }	名詞*
+いｆ２５６	if(i <= || i > 256){  }	名詞*
+いｆ２：	if == "" :	名詞*
+いｆ４−	if($==){}else if($==){}else{}	名詞*
+いｆ４ｐ	if($_POST["name"]===""){}	名詞*
+いｆ４ｐ	if(!$_POST["name"]===""){}	名詞*
+いｆ４ｔｈ	if($this){}	名詞*
+いｆ４ｔｈ	if($this->){}	名詞*
+いｆ４ｔｈ	if($this->->){}	名詞*
+いｆ４ｔｈ	if($this->->()  ){}	名詞*
+いｆ４ｔｈ	if($this->()  ){}	名詞*
+いｆ４ｔｈ	if($(this) == ){ }	名詞*
+いｆ４ｔｈ	if($(this).is(':checked')  ){ }	名詞*
+いｆ４ｔｈ	if($(this).hasClass(foo) == true){ $(this).meth(); }	名詞*
+いｆ４あｃつｓｒ	if($activeUser > 0){ $resp['status'] = false; }else{   }	名詞*
+いｆ４い	if($[$i] == ){  }	名詞*
+いｆ４いｓ	if($->is('') ){ }	名詞*
+いｆ４いｓ	if($request->is('/*') ){ }	名詞*
+いｆ４いｓｖ	if($->isValid() ){ return ; } return redirect();	名詞*
+いｆ４いｓｖ	if($->()->isValid() ){ return ; } return redirect();	名詞*
+いｆ４いんｐ	if($input['status'] != null){}	名詞*
+いｆ４う゛ぁぃ	if($validator->fails()  ){  return Redirect::route();  }	名詞*
+いｆ４はｓ	if($->has('') ){ return ; } return redirect();	名詞*
+いｆ４はｓ	if($request->has('name') ){ return ; } return redirect();	名詞*
+いｆ４はｓ	if($->hasFile('') ){ return ; } return redirect();	名詞*
+いｆ４はｓ	if($request->hasFile('photo') ){ return ; } return ;	名詞*
+いｆ４れｑ	if($request->()->isValid() ){ return ; } return redirect();	名詞*
+いｆ４れｑ	if($request->has('name') ){ return ; } return redirect();	名詞*
+いｆ４れｑ	if($request->hasFile('photo') ){ return ; } return ;	名詞*
+いｆ４れｑ	if($request->()->has('') ){ return ; } return ;	名詞*
+いｆ４れｑ	if($request->session()->has('') ){ return ; } return ;	名詞*
+いｆ４れｑ	if($request->exists('') ){ return ; } return ;	名詞*
+いｆ４れｑ	if($request->()->exists('') ){ return ; } return ;	名詞*
+いｆ４れｑ	if($request->session()->exists('') ){ return ; } return ;	名詞*
+いｆ４れｑ	if($request->session()->() ){ return ; } return ;	名詞*
+いｆ７：	if == '' :	名詞*
+いｆ７い	if '' in	名詞*
+いｆ７い：	if '' in :	名詞*
+いｆ８９	if( ( = ) == ){ }	名詞*
+いｆ８９	if(dd = func() ) == NULL){ return ; }	名詞*
+いｆ：：	if(! Foo::exists($id)  ){}else{}	名詞*
+いｆ：：	if(! Foo::exists($id)  ){  App::abort(404); }else{}	名詞*
+いｆ：：えｘ	if(View::exists('dir.file')  ){  }	名詞*
+いｆ￥￥	if(_($)  || $ == ){  }	名詞*
+いｆｂｒ	if(== 0){ break; }	名詞*
+いｆｂｒ	if() break;	名詞*
+いｆｃ６：	if contents & { '', ''  } :	名詞*
+いｆｃ：	int *func(int* arg, int* arg2){ return &; }	名詞*
+いｆｃｂ	if(callback){ callback(); }	名詞*
+いｆｃｒ	if current_user.id == @user.id link_to '', _path(cu.id) end	名詞*
+いｆｃｒ	if current_user.id == @user.id	名詞*
+いｆｃｒ	<% if current_user.id == @user.id %>	名詞*
+いｆｃｒ	<% if current_user.id == @user.id %><% end %>	名詞*
+いｆｃｒ	<% if current_obj.id == @obj.id %><% end %>	名詞*
+いｆｃｒ	if current_user.id != user.id redirect_to root_path end	名詞*
+いｆｃｒ	<% if current_user.id == @note.user.id %>	名詞*
+いｆｃｒ	<% if current_user.id == @note.user.id %><% end %>	名詞*
+いｆｃｒ	if current_user.id != note.user.id redirect_to root_path end	名詞*
+いｆｃｔ：	if count > 9:	名詞*
+いｆｄｃ	if: :devise_controller?	名詞*
+いｆｆｔ	if( == ){ return false; } return true;	名詞*
+いｆｆｔ	if($ == $){ return false; } return true;	名詞*
+いｆｆｔ	if( == ){ $['status'] = false; }else{$['status'] = true; }	名詞*
+いｆｇｔ	if(obj.GetType() == typeof()  ){}	名詞*
+いｆｇｔ	if(obj.GetType() != typeof()  ){}	名詞*
+いｆｈｐ	if(){ ?> <?php }	名詞*
+いｆｈｐｔ	<?php if(has_post_thumbnail() ): ?><?php endif; ?>	名詞*
+いｆｊｓ	if(){}else{}	名詞*
+いｆｊｓ	if(clicked == 0){}else if(cliked == 1){}else{}	名詞*
+いｆｌ：	if len() == 0 :	名詞*
+いｆｌ：	if len() != 0 :	名詞*
+いｆｌ：	if len() < 0 :	名詞*
+いｆｌ：	if len() > 0 :	名詞*
+いｆｌ：	if len() = 0 :	名詞*
+いｆｌ：	if len() > 1 :	名詞*
+いｆｍ：	if matched :	名詞*
+いｆｍ：	if matched : print(matched.group()  )	名詞*
+いｆｍ：	if mode = '':	名詞*
+いｆｍｓｇ	if msg['type'] == 'message' :	名詞*
+いｆｐ６	if( p == &){}	名詞*
+いｆｐ６	if( (p = p->next) == &){}	名詞*
+いｆｐｔ	if p == t[i] : accuracy_cut += 1	名詞*
+いｆｑ：	if input == 'q' :	名詞*
+いｆｑ：	if input == 'q' : break	名詞*
+いｆｒｆ	if return false else return false if super end	名詞*
+いｆｒｒ	if @obj.save redirect_to @obj else render :テンプレ end	名詞*
+いｆｒｔ	if(){ return ; }	名詞*
+いｆｒｔれ	if($result){ return redirect('/'); }	名詞*
+いｆｒぃね	if( (line = input.readLine() ) == null){ return errors; }	名詞*
+いｆｓｔ	if(str_contains($text, '\n')  ){ }	名詞*
+いｆｓｔ	if(str_is($str1, $str2)  ){ }	名詞*
+いｆｓｔ	if(str_is($str1, 'foo*')  ){ }	名詞*
+いｆｓｗ	if obj.startswith('') :	名詞*
+いｆｓｗ	if(starts_with($text, 'This')  ){ }	名詞*
+いｆｓｗ：	if .startswith(''):	名詞*
+いｆｔｆ	if( == ){ return true; } return false;	名詞*
+いｆｔｆ	if($ == $){ return true; } return false;	名詞*
+いｆｔｈ	if(this > ){}else{}	名詞*
+いｆｔｈ	if(this = ){}else{}	名詞*
+いｆｔｈ	if(this< ){}else{}	名詞*
+いｆｔｈ	if(this = this){}else{}	名詞*
+いｆｔｈ	if(this == ){}else{}	名詞*
+いｆｔｈ	if(this != ){}else{}	名詞*
+いｆｔｈ	if(this == this){}else{}	名詞*
+いｆｔｈ	if(this != this){}else{}	名詞*
+いｆｔｈ	if( > this){}else{}	名詞*
+いｆｔｈ	if( == this){}else{}	名詞*
+いｆｔｈ	if( != this){}else{}	名詞*
+いｆｔｈ	if( < this){}else{}	名詞*
+いｆｔｈ	if(this.meth()  ){}	名詞*
+いｆｔｈ	if(this.prop = 0){}	名詞*
+いｆｔｈ	if(this.prop = ''){}	名詞*
+いｆｔｈ	if(this.prop = 0){}else{}	名詞*
+いｆｔｈ	if(this.prop = ''){}else{}	名詞*
+いｆｔｍｐ	if tmp <= 0 : return 0 else : return 1	名詞*
+いｆｔｐ	if(transform.position.x < ){}	名詞*
+いｆｔｙ	if(typeof === ''){}	名詞*
+いｆｔりｍ	if(foo.trim() == ''){}	名詞*
+いｆｖ６：	if value & { '値1', '値2' } :	名詞*
+いｆｗｔｐ	if( have_posts() ): while ( have_posts() ) : the_post();	名詞*
+いｆｗｔｐ	<?php if( have_posts() ): while ( have_posts() :the_post; ?>	名詞*
+いｆｘｈｒ	if(XMLHttpRequest.status == 400){}else{}	名詞*
+いｆぇｎ	if len() < 0 :	名詞*
+いｆぇん	if len() < 0 :	名詞*
+いｆぇん	if len() <= 0 :	名詞*
+いｆぇん	if len() >= 0 :	名詞*
+いｆぇん	if len() > 0 :	名詞*
+いｆぇん	if len() == 0 :	名詞*
+いｆぇん	if len() != 0 :	名詞*
+いｆぇん：	if len() > 0 :	名詞*
+いｆうｐだて	if @obj.update(ストロングパラメータメソッド名) else end	名詞*
+いｆくｒｒ	if curr_foo == foo :	名詞*
+いｆくｒｒ	if curr_foo == foo : print('%s' % (curr_foo)  )	名詞*
+いｆくいｔ	if var == 'quit' : break	名詞*
+いｆこんたいん	if($->contains('key')  ){ }	名詞*
+いｆでｖ	if: devise_controller?	名詞*
+いｆどｗｈ	if( == ){ do{ putchar(' '); column++; }while(column == ); }	名詞*
+いｆどｗｈ	if(==){ do{  }while(); }	名詞*
+いｆにｌ	if ! .nil? end	名詞*
+いｆのｔ：	if not key in dict : dict[key] = ''	名詞*
+いｆはｓ	if($->has('col')  ){  }	名詞*
+いｆばｓ	if base.nil? else super end	名詞*
+いｆぱｓｓｖ	if(!password_verify( , )  ){ return false; }	名詞*
+いｆぴんｇｈ：	if data[:8] == png_header :	名詞*
+いｆぷｓｈ	$arr = []; if($key == ){ array_push($arr, ); }else{ }	名詞*
+いｆめｔｈ	if(meth() ){}	名詞*
+いｆらんげ：	if obj in range(0, 100) :	名詞*
+いｆん：	if not *** :	名詞*
+いｆん：	if not flag :	名詞*
+いｆん：	if == None :	名詞*
+いｆんｄ	#ifndef _FOO_H_	名詞*
+いｆんｄ	#ifndef _FOO_H_ #endif // _FOO_H_	名詞*
+いｆんｄ	#ifndef _FOO_H_ #define _FOO_H_ #endif // _FOO_H_	名詞*
+いｆんｄ	#ifndef __H_ #define __H_ #endif // __H_	名詞*
+いｆんｄ	#ifndef __H_ #define __H_  class Foo{}; #endif // __H_	名詞*
+いｆんｄ	if y.ndim == 1 :	名詞*
+いｆんｄｃ	#ifndef __H_ #define __H_  class Foo{}; #endif // __H_	名詞*
+いｆんｆ：	if not fragment : break data += fragment	名詞*
+いｆんｌ	if(==NULL){}	名詞*
+いｆんｌ	if(== 0){}	名詞*
+いｆんｌ	if( == NULL){}	名詞*
+いｆんｌ	if(!= 0){}	名詞*
+いｆんｌ	if( != NULL){}	名詞*
+いｆんｌ	if(==""){}	名詞*
+いｆんｌ	if(!=""){}	名詞*
+いｆんｌ	if(!=''){}	名詞*
+いｆんｌ	if(==''){}	名詞*
+いｆんｌ	if(fp==NULL){ printf("\n");  exit(1); }	名詞*
+いｆんｌ	if( != null){}	名詞*
+いｆんｌ：	if not line : break data += line	名詞*
+いｆんｍ	if(num == ){}	名詞*
+いｆんｍ	if(num != ){}	名詞*
+いｆんｍ：	if __name__ == '' :	名詞*
+いｆんｍ：	if __name__ == 'main' :	名詞*
+いｆんぢｍ	if x.ndim == 1 : return	名詞*
+いｆんぢｍ	if x.ndim == 1 : t = np.argmax(t , axis=1)	名詞*
+いｆんでｆ	#ifndef _FOO_H_	名詞*
+いｇｋ６	if(Input.GetKeyDown(KeyCode.Space) && this.fo.ba.x == 0 ){}	名詞*
+いｇｍｂｄ	if(Input.GetMouseButtonDown(0)  ){ this. = ; }	名詞*
+いｈｄｒ	\rIHDR	名詞*
+いｈｄｒ	b'IHDR'	名詞*
+いｊそん	import json	名詞*
+いｌｌｍｗ	use Illuminate\\Middleware\;	名詞*
+いｌｌすｐ	use Illuminate\Support\;	名詞*
+いｌｌぶｓ	use Illuminate\Bus\;	名詞*
+いｍｂ６	if(Input.MouseButton(0) && this.foo.x == 0  ){}	名詞*
+いｍｇｐ	image.php	名詞*
+いｍｊｓ	import json	名詞*
+いｍｐｌ	$str = implode($arr);	名詞*
+いｍｐｌ	$ = implode($);	名詞*
+いｍｐｌ	$str = implode(' ', $arr);	名詞*
+いｍｐｌ	$str = implode('/', $arr);	名詞*
+いｍｐｌ	$str = implode('.', $arr);	名詞*
+いｍｐｌ	$ = implode('/', $);	名詞*
+いｍｐｌ	$ = implode('.', $);	名詞*
+いｍｐｌ	$ = implode('_', $);	名詞*
+いｍｐｌ	$ = implode(', ', $);	名詞*
+いｍｐぉで	implode('', $obj->foo)	名詞*
+いｍｐぉで	content="{{ implode(', ', $metadata->keywords) }}"	名詞*
+いｍｐれ	import re	名詞*
+いｍｐんｗ	Imprement* obj = new Imprement();	名詞*
+いｍごｐ	img = Image.open('./.jpg')	名詞*
+いｍごｐ	img = Image.open(self.dir + '/' + fileName)	名詞*
+いｍごｐ	img = Image.open()	名詞*
+いｍぱｓ	import as	名詞*
+いｍれあｄ	import matplotlib.image import imread	名詞*
+いｍれあｄ	img = imread('foo.png')	名詞*
+いｍれあｄ	import matplotlib.image import imread img =imread('./.png')	名詞*
+いｐｃｒ	int num = int.Parse(Console.ReadLine()  );	名詞*
+いｐｒｓ	int.Parse();	名詞*
+いｐｒｓ	int num = int.Parse();	名詞*
+いｓｃｍｐ	if(strcmp( , ) == 0){}else{}	名詞*
+いｓｃｍｐ	if(strcmp( , ) != 0){}else{}	名詞*
+いｓｃｍｐ	if(strcmp( , "") == 0){}else{}	名詞*
+いｓｃｍｐ	if(strcmp( , "") != 0){}else{}	名詞*
+いｓｆｄ	use Illuminate\Support\Facades\DB;	名詞*
+いｓｆｒ	use Illuminate\Support\Facades\Response;	名詞*
+いｓｆｓ	use Illuminate\Support\Facades\Session;	名詞*
+いｓｆｖ	use Illuminate\Support\Facades\View;	名詞*
+いｓｓ４ｐ	!isset($_POST["name"]) || ($_POST["name"] === "")	名詞*
+いｓｓぽｓｔ	!isset($_POST["name"]) || ($_POST["name"] === "")	名詞*
+いｓづｐ	public function isDuplicate(string$s){return Response::m();}	名詞*
+いｓんｌ	 OR col IS NULL	名詞*
+いｓんｓ	ids[i], names[i]	名詞*
+いｔｆｃ	inline T func()const{}	名詞*
+いｔｆｃ	inline T func()const{ return ; }	名詞*
+いｔｐんｖ	ins.transform.position = new Vector3(randPx, 9, 0)	名詞*
+いｔｒｌｂ	itr = lis.begin();	名詞*
+いｔんｗ	if{ throw new Exception(); }	名詞*
+いｖ６：	if value & { '値1', '値2' } :	名詞*
+いｖｃｔ	inline void func(const T arg, const T arg2){}	名詞*
+いｖｆｃｔ	inline void func(const T arg, const T arg2){}	名詞*
+いぇあｒ	%year%	名詞*
+いぇあらげ	$startBirthYear = $now->year - $age;	名詞*
+いっせｔ	isset($_POST[''])	名詞*
+いっせｔ	isset($_POST[''])  ?  $_POST[''] : '';	名詞*
+いっせｔ	{{ isset($name) ? name : 'Default' }}	名詞*
+いっせｔ	var_dump(isset($)  );	名詞*
+いっせｔ	if(isset($) ){}	名詞*
+いっふぁいｌ	if($validator->fails()  ){}	名詞*
+いっふぁいｌ	if($validator->fails()  ){ return Redirect::route('.'); }	名詞*
+いっふぁいｌ	if($validator->fails()  ){ return Response::json([], 400); }	名詞*
+いっふぃｓ	if(isset($_GET[''])){header('Content-Type: text/xml),false);	名詞*
+いっふぃぇ	if !ファイル実体.nil? ファイル名 = 実体.of File.open(){||} end	名詞*
+いっふぇｘ	if(!function_exists()  ){}	名詞*
+いっふぇｘ	if(!function_exists('関数名')  ){}	名詞*
+いーおｍ	if( == obj.meth()  ){}	名詞*
+いあｃ：：あ	int argc, char** args	名詞*
+いあｃ：：あ	(int argc, char** args)	名詞*
+いあｃｃ	if(Input.acceleration.x < -this.threshold){ key = -1; }	名詞*
+いあｃｃ	if(Input.acceleration.x > this.threshold){ key = 1; }	名詞*
+いあｒｐ	int *iarp = NULL;	名詞*
+いあｒｐ	int* iarp;	名詞*
+いあｒｐ	int* iarp = &nums[0];	名詞*
+いあｒｒ	(in_array() )	名詞*
+いあｒｒ	(!in_array() )	名詞*
+いあｒｒ	(in_array($array, ["", "", ""]) )	名詞*
+いあｒｒ	(!in_array($array, ["", "", ""]) )	名詞*
+いあｒｒ	(in_array($_POST[""],  ["", "", ""]) )	名詞*
+いあｒｒ	(!in_array($_POST[""],  $check_list) )	名詞*
+いあｒｒ	(in_array($_POST[""],  $check_list) )	名詞*
+いあｒｒ	in_array($value, $array);	名詞*
+いいｆ	print(func(x) for x in リスト)	顔文字*
+いいｆ：	if '' in files :	名詞*
+いいｆ：	if '____' in files :	名詞*
+いいｔｒ	<int>::iterator itr;	名詞*
+いいｔｒ	lib<int>::iterator itr;	名詞*
+いいぃんｋｓ	INSERT INTO links (from, to) VALUES(A, B)	名詞*
+いいいあ：	if 'href' in item.atrs :	名詞*
+いいいん	if item is None :	名詞*
+いいいん	if item is None : break	名詞*
+いいふぉ	int i; if(  ){ return ; } for(i = 0; i < 9; i++){}	名詞*
+いいんｐ	if(Input.()  ){ this. = ; }	名詞*
+いいんｐ	int iinp;	名詞*
+いいんｔ	int , int 	名詞*
+いえｘ：	if .exists():	名詞*
+いえｘ：	if not .exists():	名詞*
+いえんｍ	interface IEnumerator<out T>	名詞*
+いおｂｊ	Foo<int> iobj;	名詞*
+いおえｘｐ	ImageOps.expand(img, border=20, fill='white')	名詞*
+いおおｐ	from io import open	名詞*
+いかうｒｌ	詳細は以下のURLをご確認ください。	名詞*
+いさｒｇ	$isArg = ($args === 0);	名詞*
+いさｒｇ	$isArg = empty($args);	名詞*
+いさｒｇ	$isArg = in_array($args, $array);	名詞*
+いさｒｇ	$isArg = isset($_POST['']);	名詞*
+いさｒｇ	$isArg = true;	名詞*
+いさｒｇ	$isArg = false;	名詞*
+いしん：	if searched is None:	名詞*
+いしんｓ	isinstance(obj, 型)	名詞*
+いしんｓ	isinstance(obj, int)	名詞*
+いしんｓ	isinstance(obj, str)	名詞*
+いしんｓ	isinstance(obj, list)	名詞*
+いしんｓ	isinstance(obj, dict)	名詞*
+いしんｓ	isinstance(obj, tuple)	名詞*
+いしんｓ	isinstance(obj, bytes)	名詞*
+いしんｓ	isinstance(obj, bytearray)	名詞*
+いしんｓ：	if isinstance(obj, 型): return int()	名詞*
+いたりっく	> i{ font-size: 2rem; position: absolute; top: .5rem; 	名詞*
+いたりっく	left: 1rem; }	名詞*
+いてぇた	if tmp <= theta : print(0) elif tmp> theta : print(1)	名詞*
+いなｒｒ	in_array()	名詞*
+いなｒｒ	!in_array()	名詞*
+いなｒｒ	!in_array($_POST["item"], ["", "", ""])	名詞*
+いなｒｒ	if(!empty($['']) && in_array($[''])  ){  }	名詞*
+いにｐｙ	__init__.py	名詞*
+いにｓ：	def __init__(self): threading.Thread.__init__(self)	名詞*
+いにｓｃ	initial-scale=1.0	名詞*
+いにしゃ	def initialize(引数1, 引数2) 処理 end	名詞*
+いにせｔ	ini_set('display_errors', 'On');	名詞*
+いにせｔ	ini_set('', '');	名詞*
+いにせｔ	ini_set('名前', '値');	名詞*
+いにせｔ	ini_set('mbstring.internal_encoding', 'UTF-8');	名詞*
+いにせｔ	ini_set('momory_limit', -1);	名詞*
+いにせｔ	ini_set('max_execution_time', 0);	名詞*
+いふぁｃ	if(arguments.callee){}	名詞*
+いふぁｇｃ	if(argc > 0){  }	名詞*
+いふぁｇｓ	if(arguments[] == arguments[]){}	名詞*
+いふぁｇｓ	if(arguments[] != arguments[]){}	名詞*
+いふぁｇｓ	if(arguments[] == ){}	名詞*
+いふぁｇｓ	if(arguments[] != ){}	名詞*
+いふぁｇｖ	if(*++argv){ }	名詞*
+いふぁｒｒ	$arr = []; if($key == ){ $arr = $f[]; }else{ $arr = $b[]; }	名詞*
+いふぁりんｔ	if(! array_intersect($this->, $)  ){ throw new Exeption(); }	名詞*
+いふぃ：	if '値' in value :	名詞*
+いふぃｃ：	if '値' in contents :	名詞*
+いふぃｄ	if($id){}else{}	名詞*
+いふぃｆ	if(in_format){}	名詞*
+いふぃｌ	if '' in line.lower() : return	名詞*
+いふぃｍ	 if instance_methods.include?()	名詞*
+いふぃｍ	<% if obj.image%><% else %><% end %>	名詞*
+いふぃｒｆ	[ item for item in range(0, 9) if item == ]	名詞*
+いふぃｓ	if(obj is Class){}	名詞*
+いふぃｓ	if(is_()  ){}	名詞*
+いふぃｓ	if(is_()  ){} array bool callable int null numeric object	名詞*
+いふぃｓ	if(is_()  ){} resource scalar string	名詞*
+いふぃｓ	if(is_array()  ){}	名詞*
+いふぃｓ	if(is_int()  ){}	名詞*
+いふぃｓ	if(is_null()  ){}	名詞*
+いふぃｓ	if(is_scalar()  ){}	名詞*
+いふぃｓ	if(is_string()  ){}	名詞*
+いふぃｓ	if(isset()  ){}	名詞*
+いふぃｓ	if(isset() && $ == ){  }	名詞*
+いふぃｓ	if(isset() || $ == ){  }	名詞*
+いふぃｓ６	if(isset() && $ == ){  }	名詞*
+いふぃｓ￥	if(isset() || $ == ){  }	名詞*
+いふぃｓｓ	if(isset($_GET[''])){header('Content-Type: text/xml ),true);	名詞*
+いふぃｓｓ	if(isset($_GET[''])){header('Content-Type: text/xml ) );	名詞*
+いふぃｓｓ	if(!isset($_POST["name"]) || ($_POST[""]) ){}	名詞*
+いふぃｓｓ	if(isset($_POST["name"]) ){}	名詞*
+いふぃｓｓ	if(isset($_POST['name']) ){}	名詞*
+いふぃｓｓ	if(isset($) ){}	名詞*
+いふぃｓのね	if var is None :	名詞*
+いふぃｓん	if(is_null($) ){}	名詞*
+いふぃｖ：	if '値' in value :	名詞*
+いふぃっせｔ	if(isset($) ){}	名詞*
+いふぃあｒｒ	if(in_array($var, $array) ){}	名詞*
+いふぃあｒｒ	if(!in_array($var, $array) ){}	名詞*
+いふぃい	[ item for item in items ]	名詞*
+いふぃぺ	if i % inter_per_epoch == 0 :	名詞*
+いふぃん	if '' in	名詞*
+いふぃんｓ	if(obj instanceof Foo){}else{}	名詞*
+いふぃんｓ	if(obj.prop instanceof Foo){}else{}	名詞*
+いふぃんｓ	if($obj instanceof Foo === false){ }	名詞*
+いふぃんｓ	if($obj instanceof Foo === true){ }	名詞*
+いふぇｍｐ	if(empty($obj) ){}	名詞*
+いふぇｍｐ	if(empty($obj) ){}else{}	名詞*
+いふぇｍｐ	if(!empty($obj) ){}	名詞*
+いふぇｍｐ	if(empty($_SESSION['']) ){}else{}	名詞*
+いふぇｍｐ	if(empty($_SESSION['']) ){ $error[] = ""; }else{ $v = trim }	名詞*
+いふぇｍｐ	if(empty($foo) ){ $str = ""; $int = 0; $array = []; }	名詞*
+いふぇｍｐ	if(empty($foo) ){ $hash = array('' => ''); }	名詞*
+いふぇｍｐ	if(empty($) ){}	名詞*
+いふぇｍｐ	if(!empty($) ){}	名詞*
+いふぇｍｐ	if(empty() ){}	名詞*
+いふぇｍｐ	if(!empty() ){}	名詞*
+いふぇｍｐ	if(!empty($_GET['']) ){}else{}	名詞*
+いふぇｍｐ	if(!empty($['']) ){  if(!empty($['']) ){  }else{  }  }	名詞*
+いふぇｍｐ	if(!empty($['']) ){}	名詞*
+いふぇｍｐ	if(!empty($['']) ){  }else{  }	名詞*
+いふぇｍｐ	if(!empty($['_from']) ){  if(!empty($['_to']) ){}else{}  }	名詞*
+いふぇｍｐ	if($arr->isEmpty()  ){  }	名詞*
+いふぇｍｐ	if(!empty($['']) && $[''] == ){  }	名詞*
+いふぇｍｐ	if(!empty($['']) && in_array($[''])  ){  }	名詞*
+いふぇｍｐ	if(empty($)  || $ == ){  }	名詞*
+いふぇｍｐ	if(empty() || func() == ){  }	名詞*
+いふぇｍｐ	if(!empty() && is_numeric() ){  }	名詞*
+いふぇｍｐ	if(!empty() && is_() ){  }	名詞*
+いふぇｍｐ４ｐ	if(empty($POST)){header("Location:.html);exit();}else if(){}	名詞*
+いふぇｍｐ４ｐ	if(empty($POST)){header("Location:.php);exit();}else if(){}	名詞*
+いふぇｍｐ６	if(!empty($['']) && $[''] == ){  }	名詞*
+いふぇｍｐ６	if(!empty($['']) && in_array($[''])  ){  }	名詞*
+いふぇｍｐ６	if(empty($)  && $ == ){  }	名詞*
+いふぇｍｐ６	if(!empty() && is_numeric() ){  }	名詞*
+いふぇｍｐ６	if(!empty() && is_() ){  }	名詞*
+いふぇｍｐｃんｔ	if(empty($usr) || count($usr) !== 1){ return false;  }	名詞*
+いふぇｍｐｆｃ	if(empty() || func() == ){  }	名詞*
+いふぇｍｐｆｔ	if(!empty($['_from']) ){  if(!empty($['_to']) ){}else{}  }	名詞*
+いふぇｍｐえ	if(empty() ){  }else{  }	名詞*
+いふぇｍっぽｓｔ	if(empty($POST)){header("Location:.html);exit();}else if(){}	名詞*
+いふぇｍぴｓｓ	if(empty($POST) ){}else if(!isset($_POST[""]) || (４ｐ－) ){}	名詞*
+いふぇｍぺ	if(!empty() ){  }else{  }	名詞*
+いふぇｍぽｒ	if(empty($)  || $ == ){  }	名詞*
+いふぇｑ	if(.Equals()  ){}	名詞*
+いふぇｒｒ	if @obj.errors.any?	名詞*
+いふぇｗ	if(ends_with($text, '\n')  ){ }	名詞*
+いふぇｘ	if(_exists()){}else{}	名詞*
+いふぇｘ	if(_exists()){}	名詞*
+いふぇｘ	if(!_exists()  ){}	名詞*
+いふぇｘ	if(_exists()  ){ return $this->(); }	名詞*
+いふぇｘ	if(_exists()  ){ return $this->(); } return '';	名詞*
+いふぇお	if(== EOF)break;	名詞*
+いふぇおｆ	if(== EOF){}	名詞*
+いふぇんｄｂｒ	if($ !== end($)  ){ echo '<br>'; }	名詞*
+いふぉｍ	if(obj.meth()  ){}	名詞*
+いふぉｍ	if(obj.meth()  ){}else{}	名詞*
+いふぉｍ	if(obj.meth() ==  ){}	名詞*
+いふぉｒ	int i; for(i=0; i <= 9; i++){  }	名詞*
+いふぉｒｍ	id="form"	名詞*
+いふぉｓ：	if offset > size : break	名詞*
+いふぉあ	if(_($) || $ == ){  }	名詞*
+いふんｄ	if(arg == undefined){}else{}	名詞*
+いふんｄ	if(prop !== undefined){ this.prop = prop; }	名詞*
+いまｌｌ	ip = (int*)malloc(sizeof(int)*SIZE);	名詞*
+いまっぉｃ	ip = (int*)malloc(sizeof(int)*SIZE);	名詞*
+いみｃ：：	int main(int, char**){}	名詞*
+いれかえ	%s//\={"単語1":"単語2", "単語2":"単語1"}[submatch(0)]/g	名詞*
+いれかえ	\v(単語1|単語2)	名詞*
+いんｃｐ	include_private = 	名詞*
+いんｃぃｓｔ	#include <list>	名詞*
+いんｃせｔ	#include <set>	名詞*
+いんｃまｐ	#include <map>	名詞*
+いんｄ１	[index+1]	名詞*
+いんｄ１	[index+1:]	名詞*
+いんｄ１	[:index+1]	名詞*
+いんｄ：	[index:]	名詞*
+いんｄ：	[.index(''):]	名詞*
+いんｄ；	[index+1]	名詞*
+いんｆ：	func( (IInf*)obj );	名詞*
+いんｍ：	if __name__ == '' :	名詞*
+いんｍ：	if __name__ == '__main__' :	名詞*
+いんｍ：	if not msg: break	名詞*
+いんｍｄｔ	if __name__ == '__main__' : import doctest doctest.testmod()	名詞*
+いんｐてｘｔ	<div class=""></div><input type="text" name="" class="">	名詞*
+いんｐぬｍ	<input type="number" name="" placeholder="">	名詞*
+いんｐん	input[x:x+n]	名詞*
+いんｓｔ	Instantiate(obj, new Foo( , ), Bar.field);	名詞*
+いんｔｖ	intval()	名詞*
+いんｔｖ	$ = intval($);	名詞*
+いんｔｖ	intval(	名詞*
+いんｔｖ	foreach($ as $item){ $item = intval($item); }	名詞*
+いんｔう゛ぁｌ	intval($obj_id[count($obj_id)-1] );	名詞*
+いんｖｋ	/* @param $ @return */ public function __invoke($id){}	名詞*
+いんｗ	<int> obj = new <int>();	名詞*
+いんえｒ	def inner(*args, **keywords) : return result	名詞*
+いんえｒ	result = func(*args, **keywords)	名詞*
+いんこｍｐ	const STATUS_INCOMPLETE = 1;	名詞*
+いんこｍｐ	STATUS_INCOMPLETE	名詞*
+いんこｐｔ	IncludeOptional conf.d/*.conf	名詞*
+いんそｆ	instanceof Array	名詞*
+いんそｆ	instanceof String	名詞*
+いんそｆ	instanceof Object	名詞*
+いんそｆ	instanceof Function	名詞*
+いんそｆ	instanceof Number	名詞*
+いんそｆ	instanceof Boolean	名詞*
+いんそｆ	instanceof Date	名詞*
+いんそｆ	instanceof RexExp	名詞*
+いんそｆ	instanceof Error	名詞*
+いんそｆ	if($ instanceof Foo){  }	名詞*
+いんちんｔ	( int(), int() )	名詞*
+いんてじゃ	Integer.induced_from(num)	名詞*
+いんでゅ	Float.induced_from(num)	名詞*
+いんでゅ	Integer.induced_from(num)	名詞*
+いんでんｔ	インデント	名サ形動$
+いんふぇｘｔ	interface インタフェース extends 他のインタフェース{}	名詞*
+いんふぇｘてんｄ	interface インタフェース extends 他のインタフェース{}	名詞*
+いんふぉ	interface Foo<out T>	名詞*
+いんふぉ	info@seekcloud.co.jp	名詞*
+いんぷｔ	<input class="">	名詞*
+いんぷｔ	<input class="" placeholder="">	名詞*
+いんぷｔ	<input class="" type="" placeholder="">	名詞*
+いんぷｔ	<input class="" type="">	名詞*
+いんぷｔ	<input id="">	名詞*
+いんぷｔ	<input id="" type="">	名詞*
+いんぷｔ	<input type="">	名詞*
+いんぷｔ	<input type="" value="">	名詞*
+いんぷｔ	<input type="" class="">	名詞*
+いんぷｔ	<input type="" name="" value="">	名詞*
+いんぷｔ	<input type="text" name="" value="">	名詞*
+いんぷｔ	<input type="text" name="" class="">	名詞*
+いんぷｔ	<input type="" name="" class="">	名詞*
+いんぷｔ	<input type="text" name="obj[]" class="">	名詞*
+いんぷｔ	<input type="" name="obj[]" class="">	名詞*
+いんぷｔ	<input type="" name="obj[]" value="">	名詞*
+いんぷｔ	<input type="text" name="obj[]" value="">	名詞*
+いんぷｔ	<input type="" name="" type="" value="">	名詞*
+いんぷｔ	<input type="" name="obj[属性名]" type="" value="">	名詞*
+いんぷｔ	<input type="" name=""  value="">	名詞*
+いんぷｔ	<input name="" type="" value="">	名詞*
+いんぷｔ	<input name="obj[属性名]" type="" value="">	名詞*
+いんぷｔ	<input type="text" placeholder="" class="">	名詞*
+いんぷｔ	<input type="text" name="" class="form-control">	名詞*
+いんぷｔ	<input class="" type="" name="" placeholder="">	名詞*
+いんぷｔ	<input type="text" name="">	名詞*
+いんぷｔ	<div class=""></div><input type="text" name="" class="">	名詞*
+いんぷｔ	<input type="" name="" placeholder="">	名詞*
+いんぷｔ	<input type="text" name="s" id="" class="" value="">	名詞*
+いんぷｔ	<input type="text" name="" value="" placeholder="" class="">	名詞*
+いんぷｔｐｌｃ	<input type="" name="" placeholder="">	名詞*
+いんぷｔらｄ	<input type="radio" name="" value="" checked>	名詞*
+いんぷっと	<input id="" type="" name="" value=""  data-bind="">	名詞*
+いんぷっと	font-size: 1.5rem; padding: 0.5rem 0.5rem 0.5rem 3.5rem;	名詞*
+いんぷっと	width: 100%; outline: none; }	名詞*
+いんぷっと	> input { background: transparent; border:0;	名詞*
+いんまｇｖ	if __name__ == '__main__' : import sys func(sys.argv[1])	名詞*
+いんむｔ	if __name__ == '__main__' : unittest.main()	名詞*
+うｌ５え	<ul class=""><% @s.each do || %> <% end %></ul>	名詞*
+うｐｄｃ	user='root', passwd='', db='mysql', charset='utf8')	名詞*
+うｐｄぱｓｓ	public function updatePass($id, PassReq $r, UsrService $s){}	名詞*
+うｐｄぱｓｓ	public function updateUsrPassword($id, $params){  }	名詞*
+うｐだｔ	updated_at	名詞*
+うｐだて	def update @o = M.find(params[:id]) @o.save  end	名詞*
+うｐだて	def update @o = M.find(params[:id]) @o.save red end	名詞*
+うｐだて	patch '//:id' => '#update', as: ''	名詞*
+うｐだて	respond_to do |format| if @o.update(o_params) else end end 	名詞*
+うｐだて	@obj.update(ストロングパラメータメソッド名)	名詞*
+うｐだて	if @obj.update(ストロングパラメータメソッド名) else end	名詞*
+うｐだて	def update if @obj.update(ストロングメソ) else end end	名詞*
+うｒｌ：	url: '/.html',	名詞*
+うｒｌｓ	url = 'https://'	名詞*
+うｒｌｗ	url = 'http://www.'	名詞*
+うｒぇｒｒ	from urllib.error import URLError	名詞*
+うｒぉｐ	from urllib.request import urlopen	名詞*
+うｒぉｐ	html = urlopen('http://')	名詞*
+うｒぉｐ	html = urlopen(url)	名詞*
+うｒぉｐ	html = urlopen('http://' + )	名詞*
+うｒぉｐ	urlopen('http://').read().decode('utf-8')	名詞*
+うｒぉｐ	html = urlopen()	名詞*
+うｒぉｐ	urlopen('http://')	名詞*
+うｒぉｐ；	html = urlopen('http://' + )	名詞*
+うｓｒぢｒ	/etc/httpd/conf.d/userdir.conf	名詞*
+うｔｆ８	@charset "UTF-8";	名詞*
+うｔｆ８ｍｂ４	CHARACTER SET = utf8mb4	名詞*
+うぁｇｖ	while(*argv){ }	名詞*
+うぁｒｌ	while(arrLength--){  console.log(arr[arrLength]);  }	名詞*
+うぃｄｔｈ	width=device-width	名詞*
+うぃｆｙｌ	while(true){if($clo($i, $list)){yield $i; $list[]=$i;}$i++;}	名詞*
+うぃｔｈ	_with_	名詞*
+うぃてょ	_without_	名詞*
+うぃんｃ	wp-include/	名詞*
+うぃんｄ	wp-content/index.php	名詞*
+うぃんｄ	wp-content/themes/index.php	名詞*
+うぃんｄ	wp-content/themes//index.php	名詞*
+うぇｂｂ	import webbrowser	名詞*
+うぇｂｄｒ	driver = webdriver.PhantomJS(executablepath='~/phantomjs/')	名詞*
+うぇｂｄｒ	from selenium import webdriver	名詞*
+うぇｂｄｒ	driver = webdriver.PhantomJS(executable_path='~/')	名詞*
+うぇｂｄｒ	from selenium.webdriver	名詞*
+うぇｂｄｒ	from selenium.webdriver.common	名詞*
+うぇｂｄｒ	from selenium.webdriver.support	名詞*
+うぇｂｄｒ	from selenium.webdriver.common.by import By	名詞*
+うぇｂｄｒｂｙ	from selenium.webdriver.common.by import By	名詞*
+うぇｂｄｒｃ	from selenium.webdriver.common	名詞*
+うぇｂｄｒｒ	from selenium.webdriver.remote	名詞*
+うぇｂｄｒｓ	from selenium.webdriver.support	名詞*
+うぇｂｄｒｓ	from selenium.webdriver.support.ui	名詞*
+うぇｂｄｒす	from selenium.webdriver.support.ui	名詞*
+うぇｂｄる	from selenium.webdriver.support.ui	名詞*
+うぇｍｐ	while( !stk.empty()  ){}	名詞*
+うぇｍｐ	while( !que.empty()  ){}	名詞*
+うぇｓｊｑ	wp_enqueue_script('jquery');	名詞*
+うぇいん	WHERE c IN (v1, v2)	名詞*
+うぇおｆ	while( != EOF){}	名詞*
+うぇおｆ	while((c = getchar() ) != EOF){  }	名詞*
+うっれｑ	import urlib.request	名詞*
+うっれｔ	from urllib.request import urlretrieve	名詞*
+うっれｔ	urllib.request.urlretrieve	名詞*
+うっれｔ	urlretrieve( , '')	名詞*
+うえｓｃ	'unicode-escape'	名詞*
+うおｒｄ	urlopen('http://').read().decode('utf-8')	名詞*
+うおｒｄ	resp = urlopen('http://').read().decode('utf-8')	名詞*
+うしんｇ	using System;	名詞*
+うしんｇ	USING()	名詞*
+うせｃｍｄ	use ($command)	名詞*
+うせｄｊ	use DispatchesJobs;	名詞*
+うせあｃ	use App\Controllers\	名詞*
+うせあｈ	use App\Http\	名詞*
+うせあｐｐ	use App\Foo;	名詞*
+うせあｓ	use \\\ as ;	名詞*
+うせいｄｂ	use Illuminate\Database\	名詞*
+うせいｌｌ	use Illuminate\Support\	名詞*
+うせいｌｌ	use Illuminate\Database\	名詞*
+うせいｌｌ	use Illuminate\	名詞*
+うせいｓ	use Illuminate\Support\	名詞*
+うせこんｆ	use Illuminate\Support\Facades\Config;	名詞*
+うぢｓｔ	SELECT name FROM t UNION DISTINCT SELECT name FROM t	名詞*
+うぢｓｔ	UNION DISTINCT	名詞*
+うにｓｔｄ	#include <unistd.h>	名詞*
+うにｔｙ	https://www.assetstore.unity3d.com.jp/#!/home	名詞*
+うにくぃｄ	$uuid = uniqid($prefixId, $salt);	名詞*
+うねｓｃ	unescape("")	名詞*
+うぶんつ	C:\Users\Alice\AppData\Local\lxss\	名詞*
+うろｐｓ	urllib.urlopen('https://')	名詞*
+うんぃんｋ	unlink($filename);	名詞*
+うんぃんｋ	$fileObj = NULL; unlink($filename);	名詞*
+うんぇｓｓ	raise '' unless value	名詞*
+うんぇｓｓ	unless name[0] == ''	名詞*
+うんぇｓｓ	unless end	名詞*
+うんせｔ	unset($プラグイン);	名詞*
+うんせｔ	unset($arr['']);	名詞*
+うんでｆ	if( == undefined){}	名詞*
+うんでｆ	if( != undefined){}	名詞*
+うんでｆ	 == undefined	名詞*
+うんでｆ	 != undefined	名詞*
+うんでｆ６	if( == undefined &&	名詞*
+うんでｆ６	if( != undefined &&	名詞*
+うんでｆ６	 == undefined &&	名詞*
+うんでｆ６	 != undefined &&	名詞*
+うんでｒ	print('under_')	名詞*
+うんぱｃｋ	gem unpack GEM名 -v=バージョン	名詞*
+う゛ぁｇｓ	var arg = arguments[];	名詞*
+う゛ぁｇこんｆ	Vagrant.configure("") do |config| end	名詞*
+う゛ぁｇこんｆ	Vagrant.configure("") do |config| config.vm.box = "url" end	名詞*
+う゛ぁｌｓ	VALUES(, "")	名詞*
+う゛ぁｌろｗ	value="  ' , $row["id"]  ,' "	名詞*
+う゛ぁｌろｗ	value="  ' , $row["name"]  ,'  "	名詞*
+う゛ぁｒ４	var foo = $('');	名詞*
+う゛ぁｒ４	var foo = $('.');	名詞*
+う゛ぁｒ４	var foo = $('#');	名詞*
+う゛ぁｒ；	var = + ;	名詞*
+う゛ぁｒ；７	var + '';	名詞*
+う゛ぁｒｆ	var Foo = function(x, y){ this.x = x; this.y = y; };	名詞*
+う゛ぁｒｆ	var func = function(){};	名詞*
+う゛ぁｒｆ	var func = function(){ return ; };	名詞*
+う゛ぁｒｆ	var func = function(){ return this.meth(); };	名詞*
+う゛ぁｒｆ	var func = function(){ return this.; };	名詞*
+う゛ぁｒｌ	var arrLength = arr.length	名詞*
+う゛ぁｒｐｒｍ	 var param = {};	名詞*
+う゛ぁｒう゛ぁｌ	var obj = $('#').val();	名詞*
+う゛ぁぁｔ	value="{{ old($ed_at_form) }}"	名詞*
+う゛ぁぁｔ	value="{{ $ed_at_form }}"	名詞*
+う゛ぁぁｔ	value="{{ $ed_at_to }}"	名詞*
+う゛ぁぁｔ	value="{{ old($ed_at_to) }}"	名詞*
+う゛ぁぃｄ	module include ActiveRecord::Vlidations end	名詞*
+う゛ぁぃｄ	function valid_(field, rules, i, options){ returnl\; }	名詞*
+う゛ぁぃｄ	"foo" : { "regex":/^$/, "alertText": "*にしてください" }	名詞*
+う゛ぁぃｄ	"foo" : { "regex":/^[]+$/, "alertText": "*にしてください" }	名詞*
+う゛ぁぃｄ	/^[]+$/	名詞*
+う゛ぁぃｆ	validate_file($obj)	名詞*
+う゛ぁりんｄ	var インデックス変数 = $('').index('.active');	名詞*
+う゛ぁりんｄ	var インデックス変数 = $('').index(this);	名詞*
+う゛ぃ６６	void ref(int &arg, int &arg2){}	名詞*
+う゛ぃ：：	void func(int *p, int *p2){}	名詞*
+う゛ぃｃ：：	void func(int x, char** p)	名詞*
+う゛ぃｃ：：	void func(int x, char** p){}	名詞*
+う゛ぃｃ：：	void func(int x, char** p);	名詞*
+う゛ぃｃ：：	void func(int x, char** p){ int i; }	名詞*
+う゛ぃｃ：：	void func(int argc, char** argv){ int i; }	名詞*
+う゛ぃｒ＾	virtual ~Sub();	名詞*
+う゛ぃい：	void func(int*, int*);	名詞*
+う゛ぃい：	void func(int* ip, int* ip2){}	名詞*
+う゛ぃえｗ	/app/views//html.erb	名詞*
+う゛ぃえｗ	app/views//html.erb	名詞*
+う゛ぃえｗ	app/views/	名詞*
+う゛ぃえｗ	app/views//.html.erb	名詞*
+う゛ぃえｗ	app/views//show.html.erb	名詞*
+う゛ぃえｗ	app/views/layouts/application.html.erb	名詞*
+う゛ぃにｔ	vagrent init	名詞*
+う゛ぃにｔ	vagrent init bento/ceontos-7.1	名詞*
+う゛ぃんｄｖ	$stm->bindValue(':placehoder', 値, PDO::PARAM_型);	名詞*
+う゛ぃんｆ	void func(IInf* infp){ infp->meth_()  }	名詞*
+う゛ぃんｆ：	void func(IInf*);	名詞*
+う゛ぃんｆ：	void func(IInf* p){ p->meth(); }	名詞*
+う゛ぇｃとｒ	#include <vector>	名詞*
+う゛ぇｒｒ	var err = new Error();	名詞*
+う゛ぇりぉっげｎ	import veriloggen	名詞*
+う゛ぇりぉっげん	from veriloggen import	名詞*
+う゛ぇりぉっげん	import veriloggen	名詞*
+う゛ぇんｄ	vec.end()	名詞*
+う゛ぇんｇ	var result = $('#').validationEngine('validate');	名詞*
+う゛ぉｂｊ	var obj = Foo.Meth();	名詞*
+う゛ぉｂｊ	var obj = {};	名詞*
+う゛ぉｂｊ	var obj = { prop: '', prop: '' };	名詞*
+う゛ぉｂｊ	var obj = { prop: '' };	名詞*
+う゛ぉｂｊ	var obj = {}; obj.__proto__ = obj2;	名詞*
+う゛ぉｂｊ	var obj = { run: function(){ return ; } };	名詞*
+う゛ぉｂｊ	var obj = { run: function(){ console.log(); } };	名詞*
+う゛ぉｂｊ	var obj = { run: function(){ alert(); } };	名詞*
+う゛ぉｂｊ	var obj = { run: function(){ return this.prop; } };	名詞*
+う゛ぉｂｊ	var obj = { prop: '', run: function(){ return this.prop;} };	名詞*
+う゛ぉｒｖｓ	for(i=0; i < vec.size(); i++){}	名詞*
+う゛ぉいｄ	void Meth(){}	名詞*
+う゛ぉいｄ	void Foo(){}	名詞*
+う゛ぉいｄ	void func();	名詞*
+う゛ぉいｓ	void meth(string name){}	名詞*
+う゛ぉいぢ	void meth(int num){}	名詞*
+う゛いにｔ	vagrant init 	名詞*
+えｃ−−	echo '\n------------------------------------\n'.PHP_EOL;	名詞*
+えｃ２２２	echo "", "", "";	名詞*
+えｃ２ｍ２	echo "", メソ(), "";	名詞*
+えｃ４７	echo $.'';	名詞*
+えｃ４え	echo $e->getMessage();	名詞*
+えｃ７４	echo ''.$;	名詞*
+えｃｂｒ	echo "","<br>";	名詞*
+えｃｄｂ	echo "データベース{$dbName}に接続しました";	名詞*
+えｃｆｃ	echo '', func($) , PHP_EOL;	名詞*
+えｃｇｃ	echo get_class($obj).PHP_EOL;	名詞*
+えｃｈｒ	echo "", "<hr>";	名詞*
+えｃｈｒ	echo $, "<hr>";	名詞*
+えｃｋｖ	echo "{$key}{$value}";	名詞*
+えｃｋｖ	echo "{$key}={$value}";	名詞*
+えｃｓぱｎ	echo '<span class="error">エラーがありました</span><br>';	名詞*
+えｃｓぱん	echo '<span></span><br>';	名詞*
+えｃｓぱん	echo '<span class=""></span><br>';	名詞*
+えｃｓぱん	echo '<span class="error"></span><br>';	名詞*
+えｃｓぱん	echo '<span class="error"></span>';	名詞*
+えｃｓぱん	echo '<span class="error">エラーがありました</span><br>';	名詞*
+えｃｔｂ	echo "<table>";	名詞*
+えｃｔｂ	echo "<table>"; echo "</table>";	名詞*
+えｃｔｂ	echo "<tbody>"; echo "</tbody>";	名詞*
+えｃｔｂ	echo "<tbody>"; foreach($result as $row){} echo "</tbody>";	名詞*
+えｃｔｂ	echo "<tbody>"; foreach($fileObj as $row){} echo "</tbody>";	名詞*
+えｃｔｄ	echo "<td>"; echo "</td>";	名詞*
+えｃｔｄ	echo "<td>", メソ(),"</td>";	名詞*
+えｃｔｄ	echo "<td>", es($row['id']), "</td>";	名詞*
+えｃｔｄ	echo "<td>", es($row['name']), "</td>";	名詞*
+えｃｔｄ	echo "<td>", es($row['テーブルs_id']), "</td>";	名詞*
+えｃｔｄ	echo "<td>", es($row['テーブルs_カラム']), "</td>";	名詞*
+えｃｔｄ	echo "<td>", es($row['テーブルs_name']), "</td>";	名詞*
+えｃｔｄ	echo "<td>", es($id), "</td>";	名詞*
+えｃｔｄ	echo "<td>", es($name), "</td>";	名詞*
+えｃｔｄ	echo "<td>", es($カラム), "</td>";	名詞*
+えｃｔｄ	echo "<td>", es(number_format($カラム)  ), "</td>";	名詞*
+えｃｔｇ	echo "<></>\n";	名詞*
+えｃｔｇ	echo "<></>";	名詞*
+えｃｔｇ	echo "<>$var</>\n";	名詞*
+えｃｔｇ	echo "<>\n";	名詞*
+えｃｔｇ	echo "</>";	名詞*
+えｃｔｇ	echo '<></>';	名詞*
+えｃｔｇ	echo '<></><br>';	名詞*
+えｃｔｇ	echo "<></><br>";	名詞*
+えｃｔｇ	echo "<>"; echo "</>";	名詞*
+えｃｔｇ	echo '<>'; echo '</>';	名詞*
+えｃｔｇ	echo '< class="">'; echo '</>';	名詞*
+えｃｔｇ	echo "<>", $var , "</>";	名詞*
+えｃｔｇ	echo '<>', $var, '</>';	名詞*
+えｃｔｇ	echo '< class=""></><br>';	名詞*
+えｃｔｇ	echo '< class=""></>';	名詞*
+えｃｔｇ４	echo "<li>", $var, "</>";	名詞*
+えｃｔｈ	echo "<th>", "", "</th>";	名詞*
+えｃｔｈ	echo "<th>", "ID", "</th>";	名詞*
+えｃｔｈ	echo "<th>", "カラムのタイトル表示", "</th>";	名詞*
+えｃｔｍｔ	echo "<>", メソ(),"</>";	名詞*
+えｃｔｒ	echo "<><tr>";	名詞*
+えｃｔｒ	echo "<tr>"; echo "</tr>";	名詞*
+えｃｔｒ	echo "<tr>"; echo "<td>",es($row['id']),"</td>";echo"</tr>";	名詞*
+えｃｔぼｄｙ	echo "<tbody>"; echo "</tbody>";	名詞*
+えｃｔん	echo "{$this.name}";	名詞*
+えｃｔん	echo "{$this->name}";	名詞*
+えｃてぃｄ	echo "<th>", "ID", "</th>";	名詞*
+えｃてぇあｄ	echo "<thead><tr>";	名詞*
+えｃてぇあｄ	echo "<thead><tr>"; echo "</tr></thead>";	名詞*
+えｃぺおｌ	echo "".PHP_EOL;	名詞*
+えｃろｗ	echo ' , '.$row["name"].' , ';	名詞*
+えｃろｗ	echo ' , '.$row["id"].' , ';	名詞*
+えｃろｗ	echo ' , '.$row["name"].' , '; echo '</option>';	名詞*
+えｃろｗ	echo $fileObj->key(), ";", $fileObj->current(), , "<br>";	名詞*
+えｌ４ｓ	$name = ""; }else{ $name = $_SESSION['name'];	名詞*
+えｌ４ｓ	}else{ $name = $_SESSION['name'];	名詞*
+えｌｓ４	else{ $obj.addClass(''); }	名詞*
+えｌｔｈ	}else{ throw err;	名詞*
+えｌしｆ	elsif i == 10 else end	名詞*
+えｌしｆ	}else if( == ){	名詞*
+えｌしｆ	}else if{	名詞*
+えｌせいｆ	else if(){}	名詞*
+えｍｐｇ	 || empty($_GET)	名詞*
+えｍｐｇ	empty($_GET)	名詞*
+えｍｐげｔ	empty($_GET)	名詞*
+えｍｓｐ	&emsp;	名詞*
+えｒｒ：	error: function(XMLHttpRequest, textStatus, errorThrown){  }	名詞*
+えｒｒ：ｆｃ	error: function(XMLHttpRequest, textStatus, errorThrown){ },	名詞*
+えｒｒｌ	error_log();	名詞*
+えｒｒｌ	error_log()	名詞*
+えｒｒｌ	error_log($io.' - ' . $msg);	名詞*
+えｒｒｌ	ErrorLog "logs/error_log"	名詞*
+えｒっれｐ	error_reporting(E_ALL | E_STRICT);	名詞*
+えｓｃぱｎ	echo '<span class="error"></span>';	名詞*
+えｓろｗ	es($row['id'])	名詞*
+えｖｃｌｓ	eval "class #{クラス} end"	名詞*
+えｖｃｌｓ	class #{klass} end	名詞*
+えｖｃｌｓ	class #{klass} def #{attribute}=(value) end end	名詞*
+えｖでｆ	def #{attribute}=(value) @#{attribute} = value end	名詞*
+えｖでｆ	eval "def #{メソ} end"	名詞*
+えｖでｆ	eval "def #{メソ}() end"	名詞*
+えｖでｆ	eval "def #{メソ}(value) valueを処理内で使用 end"	名詞*
+えｖでｆ	def #{attribute}=(value) end	名詞*
+えｖでｆ	def #{attribute}() end	名詞*
+えｘｃ：	class 例外クラス(Exception) :	名詞*
+えｘｃｒ	except Error : raise Error	名詞*
+えｘｃｒ	except Error : raise Error('')	名詞*
+えｘｐｌ	$ = explode('' ,$ );	名詞*
+えｘｐｌ	$ = explode(' ' ,$ );	名詞*
+えｘｐｌ	$ = explode('/' ,$ );	名詞*
+えｘｐｌ	$ = explode(', ' ,$ );	名詞*
+えｘｐｓ	exports.embedJQuery =	名詞*
+えｘｐｓ	exports.jQueryRequest =	名詞*
+えｘｐｓ	exports.embedJQuery = function(callback){}	名詞*
+えｘｐｓ	exports.jQueryRequest = function(callback){}	名詞*
+えｘｐｓ	exports.jQueryRequest(callback);	名詞*
+えｘかんげ	public function exchange(string $zip){  }	名詞*
+えｘてんｄ	module モ def メ end end obj = Object.new obj.extnd モ obj.メ	名詞*
+えｘてんｄ	module モ def メ end end class ク extend モ end ク.メ	名詞*
+えｘてんｄ	def self.extended(othermod) end	名詞*
+えｘてんｄ	extend ActiveModel::	名詞*
+えｘてんｄ	extend ActiveSupport::	名詞*
+えｘてんｄ	module モ def self.included(base) base.extend ク end end end	名詞*
+えｘてんｄ	extended do end	名詞*
+えｘてんｄ	extend ActiveSupport::Concern	名詞*
+えｘてんｄ	module M1 def self.included(base) base.extend ClsMethMod	名詞*
+えｘてんｄ	module extend ActiveSupport:: end	名詞*
+えｘてんｄ	module extend ActiveSupport:: included do end end	名詞*
+えｘてんｄ	def self.extended(base) end	名詞*
+えｘてんｄ	module extend ActiveSupport:: include included do end end	名詞*
+えｘてんｄ	class クラス名 extends 他のクラス名{}	名詞*
+えｘぽｒｔ	export PATH=///bin:$PATH	名詞*
+えｘぽｒｔ	export PATH=~/パス:$PATH	名詞*
+えぃｓｔｓ８	EXISTS( SELECT * FROM t WHERE c = '' ) 	名詞*
+えぃｓｔｓ８	NOT EXISTS( SELECT * FROM t WHERE c = '' ) 	名詞*
+えっれｐ	error_reporting = E_ALL | E_STRICT	名詞*
+えあｃｈ	配列名.each do |メソ| 呼び出し可能オブジェクト.call メソ	名詞*
+えあｃｈ	メソ do |ブロック名| 呼び出し可能オブジェクト.call end	名詞*
+えあｃｈ	Kernel.send :difine_method, :each_setup do |&blk| end	名詞*
+えあｃｈ	blk.call setup	名詞*
+えあｒｒ	E = np.array([ [ 1, 0 ], [ 0, 1 ] ])	名詞*
+えいえｍ	[ExecuteInEditMode()]	名詞*
+えう゛ぇんｔ	event(new UserRegistred($user) );	名詞*
+ええんぢｆ	<?php endif; endif; ?>	名詞*
+えくいぶ	http-equiv=""	名詞*
+えくすて	{% extends '/.html' %}	名詞*
+えこｐｔ	echo '  <option value=" ' , $row["id"]  ,'  ">  ';	名詞*
+えこｐｔ	echo ' , '.$row["name"].' , '; echo '</option>';	名詞*
+えしｍｐ	echo implode('<br>', $array);	名詞*
+えしｍｐｌ	echo '', implode(', ', $argv) , PHP_EOL;	名詞*
+えぢつぁう゛ぇ	public function editSave($id, UAddRequest $r, UService $s){}	名詞*
+えぬめ：	for index, line in enumerate(fileobj):	名詞*
+えぱｓｓ	edit_user_password	名詞*
+えふぇｍｐ	if(!empty($obj) ){}else{}	名詞*
+えぽｃｈ	now_epoch = time.time()	名詞*
+えまいｌ	'email' => '@',	名詞*
+えんｄふぉｒ	<?php endfor ?>	名詞*
+えんｈｔｔｐｄ	systemctl enable httpd.service	名詞*
+えんｍｙｓｑｌｄ	systemctl enable mysqld.service	名詞*
+えんｐｓ	Vector2 endPos = new Vector2(.0f, .0f);	名詞*
+えんｐｓ	Vector2 endPos = Input.mousePosition;	名詞*
+えんｓｐ	&ensp;	名詞*
+えんｓんｄ	EnableSendfile on	名詞*
+えんくり	encodeURI('http://')	名詞*
+えんくり	var uri_byte = encodeURI('http://')	名詞*
+えんくり	encodeURI('https://')	名詞*
+えんくり	encodeURI('http://www.')	名詞*
+えんくり	var uri_byte = encodeURI('https://')	名詞*
+えんくり	var uri_byte = encodeURI('http://www.')	名詞*
+えんちｔｙ	実体 = params[:obj][:objsテーブルのカラム名]	名詞*
+えんぢｆ	<?php endif ?>	名詞*
+えんぢｆ	<?php endif; ?>	名詞*
+えんぢｆ	#endif // _FOO_H_	名詞*
+おｂｊ	Foo<> obj;	名詞*
+おｂｊ	Foo<int> iobj;	名詞*
+おｂｊ	Foo<string> sobj;	名詞*
+おｂｊ；	object obj = ;	名詞*
+おｂｊｐｒｍ	@obj = Obj.new(obj_params)	名詞*
+おｂｊｓ	@objs = @fobj.objs	名詞*
+おｂｊｓ	object obj = objs[0];	名詞*
+おｆぺｒ	options.features.ProcessExternalResources	名詞*
+おｐｒ−	Foo operator-(const double dbl,const Foo& v1){Foo v;return;}	名詞*
+おｐｔ＾	options = options = || {};	名詞*
+おｐｔん	Options None	名詞*
+おｒｐｂ	openssl_random_pseudo_bytes(16)	名詞*
+おｒｐｂ	$bytes = openssl_random_pseudo_bytes(16); $t = bin2x($bytes)	名詞*
+おｖｒ：	class Foo(Sup): def bar(self, gar):returne Sup.bar(self,arg)	名詞*
+おっふぇｒ	options.features.FetchExternalResources	名詞*
+おあｐｐ	output.append()	名詞*
+おあｐｐ	output.append(input[x:x+n])	名詞*
+おう゛ぇｒ	print('over_')	名詞*
+おおｐｊ	fileobj = open(os.path.join(curr_dir, '') , 'rb')	名詞*
+おぶじぇ	var オブジェクト名 = new Object();	名詞*
+おぶじぇ	実体名 = クラス名.()	名詞*
+おぺｒ−	Foo& operator=(const Foo& v);	名詞*
+おぺｒ−	Foo operator-(const Foo&, const Foo&);	名詞*
+おぺｒ−	Foo& Foo::operator=(const Foo& v){ return *this; }	名詞*
+おぺｒ−	Foo operator-(const Foo& v1,const Foo& v2){ Foo v; return; }	名詞*
+おぺｒ−	Foo& Foo::operator=(const Foo& v){ returne *this; }	名詞*
+おぺｒ−−	Foo& operator-=(const Foo& v);	名詞*
+おぺｒ−−	Foo& Foo::operator-=(const Foo& v){ return *this; }	名詞*
+おぺｒ：	Foo operator*(const double, const Foo&);	名詞*
+おぺｒ：	Foo operator*(const double, const Foo&){ Foo tmp; return ; }	名詞*
+おぺｒ；	Foo operator+(const Foo&, const Foo&);	名詞*
+おぺｒ；	Foo operator+(const Foo& v1,const Foo& v2){ Foo t; return; }	名詞*
+おぺｒ；−	Foo& operator+=(const Foo& v);	名詞*
+おぺｒ；−	Foo& Foo::operator+=(const Foo& v){ return *this; }	名詞*
+おぺｘ：	if not os.path.exists(dir):	名詞*
+おぺｘ：	if os.path.exists(dir):	名詞*
+おぺｘ：	if not os.path.exists(dir):  os.makedirs(dir)	名詞*
+おんｃｌｋ	onclick=""	名詞*
+おんｌｙ	only: [:アクション, :アクション2]	名詞*
+おんｌｙ	:show, :edit, :update, :create, :destroy	名詞*
+おんｌｙ	:show, :edit, :update	名詞*
+おんｌｙ	:show, :edit, :update, :index	名詞*
+おんｌｙｔｒ	$trashedFoos = Foos::onlyTrashed()->get();	名詞*
+かｒぼん	use Carbon\Carbon;	名詞*
+かｒぼん	$startBirthCarbon = $now->year($starBirthYear);	名詞*
+かｒぼん：：	Carbon::now()->addSeconds(9)	名詞*
+かｒぼん：：	$now = Carbon::now();	名詞*
+かｒぼん：：	$nowYmd = Carbon::now()->format('Y-m-d');	名詞*
+かｒぼん：：	$nowTimestamp = Carbon::now()->timestamp;	名詞*
+かｒぼん：：	$nowYmdhis = Carbon::now()->format('Y-m-d h:i:s');	名詞*
+かｒぼん：：	$dateTime= Carbon::parse('2000/01/01 01:01');	名詞*
+かｔｃｈ	catch(Exception $e){ echo $e->getMessage(); exit(); }	名詞*
+かｔｃｈ	catch(DBException $e){Log::error();DB::rollBack(); throw $e}	名詞*
+かうんと	%s///gn	名詞*
+かせいｆ	case : if( == ){ continue; }	名詞*
+かせいｆ	case '\': if( == ){ continue; }	名詞*
+かちぇ：：	Cache::get('key');	名詞*
+かちぇｓ	caches = (path for path, dirs, files in walk)	名詞*
+かんせｌ	/users/cancel	名詞*
+ぎてゅｂ	git clone git://github.com/.git	名詞*
+くｒｒ−	curr_foo = foo	名詞*
+くｒぃに	curl_init()	名詞*
+くｔｃ：	class Test(unittest.TestCase) : 	名詞*
+くぃいｖ	qry = 'INSERT INTO tb (col) VALUES(%s)'	名詞*
+くぃんｓ	qry = 'INSERT INTO tb (col, col)'	名詞*
+くえうえ	import queue	名詞*
+くえうえ	#include <queue>	名詞*
+くえうえ	import Queue	名詞*
+くせｒｓ	C:\Users\Alice\	名詞*
+けｒねｌ	app/Console/Kernel.php	名詞*
+げｔｃｌｓ	get_class()	名詞*
+げｔｃｌｓ	dd(get_class()  );	名詞*
+げｔｃｌｓ	var_dump(get_class()  );	名詞*
+げｔｃｌｓ	return get_class();	名詞*
+げｖｓｐ	gevent.spawn(incomming, uname, socketio)	名詞*
+げう゛ぇんｔ	import gevent	名詞*
+げう゛ぇんｔ	from gevent import socket	名詞*
+げう゛ぇんｔ	from gevent import monkey	名詞*
+げんでｒ	$person->gender = Person::GENDER_MALE;	名詞*
+こｌｓｔｒ	 = Column(String(30)  )	名詞*
+こｌｓぱん	colspan=""	名詞*
+こｍぱｃ	func( , compact()  )	名詞*
+こｍぽしｔ	集約obj = 集約クラス(partsobj1, partsobj2)	名詞*
+こｍぽしｔ：	self.parts1 = partsobj1, self.parts2 = partsobj2	名詞*
+こっぁｐせ	border-collapse: collapse;	名詞*
+こっぇｃｔ	from collections import	名詞*
+こっぇｃｔ	from collections import defaultdict()	名詞*
+こっぇｃｔ	from collections import OrderdDict	名詞*
+こっぇｃｔ	from collections import Counter	名詞*
+こっぇｃｔ	from collections import deque	名詞*
+こっぇｃｔ	import collections	名詞*
+こっみｔ	$pdo->commit();	名詞*
+こっもん	#include <common.h>	名詞*
+こっれｃｔ	if current_user.id != user.id redirect_to root_path end	名詞*
+こっれｃｔ	private def correct_user user = User.find(params[:id]) end	名詞*
+こうとｍ	cout << "" << obj.meth() << endl;	名詞*
+こうんｔ	count($array)	名詞*
+こうんｔ	count($配列変数)-1	名詞*
+こうんｔ	count($array) < 0	名詞*
+こうんｔ	(count() > )	名詞*
+こうんｔ：	for item in set : obj.count(item)	名詞*
+こうんｔ：	for item in set : conn.count(item)	名詞*
+こうんてｒ	from collections import Counter	名詞*
+こうんてｒ	カウンタ変数名 = Counter(リスト)	名詞*
+こおきえ	cookie = conn.cookies.get_dict()	名詞*
+こおきえ	conn.cookies	名詞*
+こんｆ：：	Config::get('...');	名詞*
+こんｆｄ	/etc/httpd/conf.d/	名詞*
+こんｆぱｔｈ	$config_path = config_path();	名詞*
+こんｓｔ	public function __construct() {}	名詞*
+こんｓｔ	public function __construct() { $this->メソッド(""); }	名詞*
+こんｓｔ	public function __construct($) {}	名詞*
+こんｓｔ	public function __construct($var) { $this->name = $var; }	名詞*
+こんｓｔ	from construct import Struct, Magic, UBInt32, Const, String	名詞*
+こんｓｔ	const VALUE = '';	名詞*
+こんｓｔ	const VALUE = ;	名詞*
+こんｓｔ	const FOO = '';	名詞*
+こんｔｔ	_controller_test.rb	名詞*
+こんｔら	use Illuminate\Contracts\;	名詞*
+こん・ｐど	connect/PDO_testdb.php	名詞*
+こんえｃｔ	ActiveRecord::Base.establish_connection	名詞*
+こんせｒｎ	extend ActiveSupport::Concern	名詞*
+こんせｒｎ	module Con extend ActiveSupport::Concern end	名詞*
+こんせｒん	extend ActiveSupport::Concern	名詞*
+こんせｒん	module extend ActiveSupport::Concern included do end end	名詞*
+こんせｒん	module Con extend ActiveSupport::Concern end	名詞*
+こんせｒん	module Con extend ActiveSupport::Concern def end end	名詞*
+こんせｒん	class ク include MyConcern end	名詞*
+こんたいｎ	<div class="container"></div>	名詞*
+こんたいねｒ	<div class="container"></div>	名詞*
+こんてんｔ	content=""	名詞*
+こんてんｔ	wp-content/	名詞*
+こんてんｔ	wp-content/themes//content.php	名詞*
+こんてんｔ	content="width=device-width, initial-scale=1.0"	名詞*
+こんてんｔ	content="{{  }}"	名詞*
+こんてんｔ	content="{{ $metadata->foo }}"	名詞*
+こんてんｔ	content="{{ func() }}"	名詞*
+こんてんｔ	content="{{ implode(', ', $metadata->keywords) }}"	名詞*
+こんてんｔｓ	class="Contents"	名詞*
+こんてんｔｓ	<div class="Contents"></div>	名詞*
+こんてんと	content=""	名詞*
+ごｆｗｔ	GameObject.FindWithTag("");	名詞*
+ごｆｗｔ	Gameobject foo = GameObject.FindWithTag("foo");	名詞*
+ごいんｓ	GameObject ins = Instantiate(fooPrefab) as GameObject;	名詞*
+ごふぉｓ	GameObject.FindObjectsOfType("");	名詞*
+ごふぉｓ	Gameobject foo = GameObject.FindObjectsOfType("foo");	名詞*
+ごふぉおｔ	GameObject.FindObjectOfType("");	名詞*
+ごふぉおｔ	Gameobject foo = GameObject.FindObjectOfType("foo");	名詞*
+さｍｐぇ４	http://sample4.localhost/public/	名詞*
+さぶくらす	public Hamster(String name, String color){  }	名詞*
+さぶくらす	public Hamster(){ super(name, color);  }	名詞*
+さぶくらす	class サブクラス < 親クラス 処理 end	名詞*
+しｇぬｐ	/sign_up	名詞*
+しｇぬｐ	/users/sign_up	名詞*
+しｇのうｔ	/sign_out	名詞*
+しｇのうｔ	/users/sign_out	名詞*
+しｇもいｄ	def sigmoid(x) : return 1 / (1 + np.exp(-x)  )	名詞*
+しｇもいｄ	Z = sigmoid(A)	名詞*
+しｇもいｄ	z1 = sigmoid(a1)	名詞*
+しぇｌｌ	shell=True	名詞*
+しゅちｌ	import shutil	名詞*
+しょｗ	ショー	名サ形動$
+しょｗ６	show(&stary[i]);	名詞*
+しょｗ：	void show(構造体別名*);	名詞*
+しょｗ：	void show(構造体別名*){ printf("\n"); }	名詞*
+しょｗｓｔ	void show(stv*);	名詞*
+しおｓｒ	System.IO.StreamReader	名詞*
+しぜおｆ	sizeof(int)	名詞*
+しぜおｆ	sizeof(double)	名詞*
+しぜおｆ	sizeof(float)	名詞*
+しぜおｆ	sizeof(char)	名詞*
+しぜおｆ	sizeof(rdata)	名詞*
+しでばｒ	class="sidebar"	名詞*
+しんｇぇ	def 変数.メソ self.変数のクラスのメソ == self end	名詞*
+しんｇぇ	single-.php	名詞*
+しんｇぇ	single.php	名詞*
+しんｇぇ	wp-content/themes//single.php	名詞*
+じぇいくえ	<script  src=“lib/js/jquery-1.9.1.js”></script>	名詞*
+じぇんｃ	json.JSONEncoder	名詞*
+じぇんｃ	$json = json_encode($arr);	名詞*
+じゃう゛ぁｃ	javac クラス.java	名詞*
+じゃう゛ぁｃ	javac .java	名詞*
+じゅりょう	\\192.168.1.201\seekcloud\02_projects\029_株式会社ジック\004_受領	名詞*
+すｂみｔ	<div class="actions"><%= f.submit %></div>	名詞*
+すｂみｔ	type="submit"	名詞*
+すｂみｔ	<input type="submit" value="投稿する">	名詞*
+すｂみｔ	<input type="submit" value="投稿する" class="">	名詞*
+すｂみｔ	<%= submit_tag '保存' %>	名詞*
+すｂみｔ	<%= f.submit %>	名詞*
+すｂみｔ	<div class="" id="submit-btn"></div>	名詞*
+すぃｔｃｈ	switch(条件){default: 処理; break;}	名詞*
+すぃｔｃｈ	switch($){default: 処理; break;}	名詞*
+すぃｔｃｈこあｒｇ	switch (count($args) ){ case 0: return; default: return; }	名詞*
+すぺｒ：	Super* sup = new Sub();	名詞*
+せｃちおｎ	<section></section>	名詞*
+せｃちおｎ	<section><span class=""><h></h></span></section>	名詞*
+せｃちおん	<section><span class=""></span></section>	名詞*
+せｃちおん	  class="section"	名詞*
+せｌｃんｔ	SELECT COUNT(*) FROM t WHERE c = ''	名詞*
+せｌｃんｔ	SELECT COUNT(*) FROM t GROUP BY c	名詞*
+せｌｆ：	def (self) :	名詞*
+せｌｆ：	def (self) : return	名詞*
+せｌｆ：	def (self) : return ''	名詞*
+せｌｆ：	def (self) : return ""	名詞*
+せｌｆ：	def (self): return self	名詞*
+せｌｆ：	def (self, *args):	名詞*
+せｌｆ：	def (self, *args): return	名詞*
+せｌｆ：	def (self, *args): return ''	名詞*
+せｌｆ：	def (self, *args): return ""	名詞*
+せｌｆ：	def _(self): return self.attr	名詞*
+せｌｆ：	def (self) : self	名詞*
+せｌｆ：	def _(self, attr) : self.attr = 	名詞*
+せｌｆ：	def _(self, attr) : self.attr = ''	名詞*
+せｌｆｃ	self.foo = func(self.x, self.y)	名詞*
+せｌｆｃ	SELECT FUNC() FROM t WHERE c = ''	名詞*
+せｌｆｃ	SELECT c, FUNC() FROM t GROUP BY c	名詞*
+せｌｆｃ	SELECT FUNC(c) FROM( )	名詞*
+せｌｌｓ	cells = [  (row, col) for row in rows for col in cols  ]	名詞*
+せｌｌｓ	for cell in cells :	名詞*
+せｌぢｓｔ	SELECT DISTINCT c1 FROM t WHERE c2 = 'val'	名詞*
+せｌぢｓｔ	SELECT DISTINCT c1 , c2 FROM t1	名詞*
+せｌぢｓｔ	SELECT DISTINCT c FROM t	名詞*
+せｒう゛ぃせ	service サービス名 status	名詞*
+せｓｆｗ	curs.execute('''SELECT * FROM テーブル WHERE	名詞*
+せｓｆｗ	curs.execute('''  SELECT * FROM テーブル WHERE	名詞*
+せｓｓ：：	Session::flash('', '表示内容');	名詞*
+せｓｓｇ	conn = session.get('http://')	名詞*
+せｓｓｇ	conn = session.get(url, headers=headers)	名詞*
+せｓｓｇｓ	conn = session.get('https://')	名詞*
+せｓｓｇｗ	conn = session.get('http://'www.)	名詞*
+せｓｓｍｋ	from sqlalchemy.orm import sessionmaker	名詞*
+せｓｓｍｋ	Session = sessionmaker(bind=conn)	名詞*
+せｓｓｐ	conn = session.post('http://', data=params)	名詞*
+せｓｓｓｔ	session_start();	名詞*
+せｓふぉｂ	curs.execute('SELECT * FROM tbl ORDER BY カラム')	名詞*
+せｓふぉｂ	curs.execute('SELECT * FROM tbl ORDER BY id')	名詞*
+せｓふぉｂ	curs.execute('SELECT * FROM tbl ORDER BY id DESC')	名詞*
+せｓふぉｂ	curs.execute('SELECT * FROM tbl ORDER BY カラム DESC')	名詞*
+せｔｓｔ	void set(stv*, int, char*);	名詞*
+せｘｔｓｐ	class _ServiceProvider extends ServiceProvider{  }	名詞*
+せぃぬｘ	/etc/sysconfig/selinux	名詞*
+せぇｃｔ	SELECT * FROM <table>s;	名詞*
+せぇｃｔ	def select @obj = Obj.new(フィ: '選択肢') end	名詞*
+せぇｃｔ	<%= f.select :フィ,  %>	名詞*
+せぇｃｔ	<%= f.select :フィ, [ '' , '' , '' ], class: '' %>   	名詞*
+せぇｃｔ	{ '' => 1, '' => 2, '' => 3, '' => 4, '' => 5, '' => 6, }	名詞*
+せぇｃｔ	<%= f.select :フィ, [ '' , '' , '' ], multiple: true %>   	名詞*
+せぇｃｔ	<select id="" class=""></select>	名詞*
+せぇｃｔ	<select></select>	名詞*
+せぇｃｔ	<select id=""></select>	名詞*
+せぇｃｔ	<select id="" name=""></select>	名詞*
+せぇｃｔ	<select name=""></select>	名詞*
+せぇｃｔ	<select name=""><option value=""></option></select>	名詞*
+せぇｃｔ	<div class=""></div><select name="" class=""></select>	名詞*
+せぇｃｔ	SELECT FROM WHERE LIMIT	名詞*
+せぇｃｔ	SELECT カラムのリスト FROM テーブル WHERE 検索条件	名詞*
+せぇｃｔ	SELECT 射影 FROM 直積 WHERE 制限	名詞*
+せぇｃｔ	SELECT project FROM product WHERE restrict	名詞*
+せぇｃｔ	SELECT t1.c1, t1.c2, t2.c1 FROM t1 INNER JOIN t2 WHERE	名詞*
+せぇｃｔｆ	SELECT objs.id as objs_id, fobjs.name as fobjes_name,	名詞*
+せぇｃてｄ	var selected = $.('.cls:selected').text();	名詞*
+せぇｃてｄ	var selected = $.('.cls:selected').attr('data-');	名詞*
+せぇｃとｒ	scrapy.selector	名詞*
+せぇｃとｒ	from scrapy.selector import Selector	名詞*
+せあｒｃｈ	<input type="text" name="s"name="s" class="" value="" >	名詞*
+せあｒｃｈ	<input type="submit" id="searchSubmit" value="" class="">	名詞*
+せいいｖ	curs.execute('INSERT INTO VALUES()  ')	名詞*
+せいんｓ	conn.execute(tb_obj.insert( (val1, val2) )    )	名詞*
+せえｒｒ	loss = cross_entropy_error(y, t)	名詞*
+せえｒｒ	self.loss = cross_entropy_error(self.y, self.t)	名詞*
+せちｍｇ	def set_image(file) if ! .nil?  file_name = file.of  end end	名詞*
+せてんｆ	setenforce 0	名詞*
+そｃｋｃｒ	socket_create()	名詞*
+そｃｋｓ	import socks	名詞*
+そｃけｔ	import socket	名詞*
+そｆｔまｘ	Z = softmax(A)	名詞*
+そｆｔまｘ	def softmax(x) : c = np.max(x) exp_x = np.exp(x-c)	名詞*
+そｆｔまｘ	sum_exp_x = np.sum(exp_x) y = exp_x / sum_exp_x return y	名詞*
+そｆｔまｘ	y = softmax(a2)	名詞*
+そｒｔｖ	sort(vec.begin(), vec.end() );	名詞*
+そｒてｄ	sorted_list = sorted(org_list)	名詞*
+そｒてｄ	sorted(dict.items(), key=lambda x: x[1], reverse=True)	名詞*
+そｒてｄ	sortedlist = sorted(.items(), key=key, reverse=True)	名詞*
+たｒｇｓ	target=meth, args( ,)	名詞*
+たいとる	<title></title>	名詞*
+たぐ	タグ	名詞*
+だふぁいあ	def meth(*args, **kwargs) : lists = [ arg for arg in args ]	名詞*
+だんｄ：	def AND(x1, x2) : w1, w2, theta = 0.5, 0.5, 0.7	名詞*
+ちｔぇぃ	'title_li' => '',	名詞*
+ちぇｃｋ	<%= f.check_box :真偽値 %>	名詞*
+ちぇｃｋ	function check(mode = null){}	名詞*
+ちぇｃｋ	if(mode==1){ print(); }else if(mode==2){ print(); return; }	名詞*
+ちょｗｎ	chown -R root.apache /var/www/phpmyadmin/	名詞*
+ちょｗん	chown -R root.apache /var/www/phpmyadmin/	名詞*
+ちょｗん	chown -R ユーザ名 :グループ名 ディレクトリ名	名詞*
+ちめいｔ	from timeit import timeit	名詞*
+ちめいｔ	from timeit import timeit print(timeit('コード', number=カウント)  	名詞*
+ちめいｔ	from timeit import repeatprint(repeat('',number=1,repeat=3))	名詞*
+ちめぞね	date.timezone = Asia/Tokyo	名詞*
+ぢＶ	<div></div>	名詞*
+ぢＶ	<div class=""></div>	名詞*
+ぢＶ	<div class=""><div class=""></div></div>	名詞*
+ぢｃｔｒ	csvin = csv.DictReader(fileobj, fieldnames=['col1', 'c2',])	名詞*
+ぢｓぱｔ	Dispatcher $dispatcher	名詞*
+ぢｓぱｔ	dispatch(new App\Jobs\SendEmails);	名詞*
+ぢｖ	<div></div>	名詞*
+ぢｖ	<div class=""></div>	名詞*
+ぢｖ	<div class=""><div class=""></div></div>	名詞*
+ぢｖｃ４	div[class=""]{ {{ \$-> }} }	名詞*
+ぢｖｈ１	div[class=""]>h1[class=""]	名詞*
+ぢｖｈ２	div[class=""]>h2[class=""]	名詞*
+ぢｖｈ３	div[class=""]>h3[class=""]	名詞*
+ぢｖｐｃ	<div <?php post_class($post_id); ?>  ></div>	名詞*
+ぢｖふぉｒｍ	<div class="">{!! Form::label('body', 'Body:') !!}</div>	名詞*
+ぢう゛ぃんｐ	div[class=""]>input[type="" name="" value"" class=""]	名詞*
+ぢう゛ぃんｐ	div[class=""]>input[type="text" name="" value"" class=""]	名詞*
+ぢう゛ぃんｐ	div[class=""]>input[type="" name="" value"{{ \$-> }}"]	名詞*
+ぢりんｄ	DirectoryIndex index.html index.php	名詞*
+てｌねｔ	telnet www.google.com 80	名詞*
+てｓｔ：	def test_(self):	名詞*
+てぃんｓｐ	&thinsp;	名詞*
+てぇｒｒ	throw err;	名詞*
+てぇあｄ	<thead></thead>	名詞*
+てぇあｄ	echo "<thead><tr>"; echo "</tr></thead>";	名詞*
+てぇめｃｓｓ	Theme Name: Theme URI: Description: Version: Author: 	名詞*
+てゅｍｂ	add_theme_support('post-thumbnails', '');	名詞*
+てゅｍｂ	add_theme_support('post-thumbnails');	名詞*
+てゅｍｂ	<?php add_theme_support('post-thumbnails'); ?>	名詞*
+てゅｍｂ	<?php the_post_thumbnail('thumbnail'); ?>	名詞*
+てゅｍｂ	['thumbnail']	名詞*
+でｃぁらちう゛ぇ	from sqlalchemy.ext.declarative inport declarative_base	名詞*
+でーたばいんど	data-bind =""	名詞*
+でくりｃ	var uri = decodeURIComponent();	名詞*
+でふぃね	define('KEYWORD', 'VALUE');	名詞*
+でふぃねｄ	_defined?() # =>	名詞*
+でふぃねｄ	defined('')	名詞*
+でふぃねｄ	defined()	名詞*
+でふぇｒ	defer="defer"	名詞*
+でりーと	DELETE https:///{}//{}	名詞*
+とぃｓてｄ	from twisted.internet import protocol, reactor	名詞*
+とらんく	.truncate	名詞*
+どｃｐｙ	http://docs.python.org/3/library	名詞*
+どｃｐｙ	http://bit.ly/library-tour	名詞*
+どｃｐｙ	http://bit.ly/py-itertools	名詞*
+どｃｒｔ	C:/yamazaki/zampp/htdocs/test/html	名詞*
+どｍとｈｔｍｌ	domToHtml = require('jsdom/browser/domtohtml'),	名詞*
+どｗｈこｌ	if( == ){ do{ putchar(' '); column++; }while(column == ); }	名詞*
+どｗｈこｌ	do{ putchar(' '); column++; }while(column == );	名詞*
+どあｃｔ	do_action('');	名詞*
+なめあｓ	s.name as s_name,	名詞*
+なめふぃｒｆ	[ name for name in range(0, 9) if name == ]	名詞*
+ぬｍｐｙ	import numpy	名詞*
+ぬｍしい	nums[i] = i;	名詞*
+ぬｍふぃｒｆ	[ num for num in range(0, 9) if num == ]	名詞*
+ぬｍべｒ	type="number" min="0" max="99999999" step="1"	名詞*
+のわｌｌ	Time.now.all_ # =>	名詞*
+はｂｔｍ	has_and_belongs_to_meny :s	名詞*
+はｂｔｍ	class < ActiveRecord::Base has_and_belongs_to_meny :s end	名詞*
+はｓｈ−	hash[""] = "";	名詞*
+はｓｈｍ	'password' => Hash::make(''),	名詞*
+はｓｈｍ	$this->attributes['password'] = \Hash::make($arg);	名詞*
+はｓｔｈ	has_one : , :through => :	名詞*
+はｓｔｈ	class < ActiveRecord::Base has_one : , :through => : end	名詞*
+はう゛ぃんｇ	HAVING COUNT(*) <= 9	名詞*
+はう゛ぃんｇ８	SELECT c FROM t GROUP BY c HAVING COUNT(*) > (  )	名詞*
+ばｔｃｈ	x_batch = x[i:i+batch_size]	名詞*
+ばｔｃｈ	y_batch = func( , x_batch)	名詞*
+ばｔｃｈ	[i:i+batch_size]	名詞*
+ばｔｃｈ	x_batch = x[i:i+batch_size] y_batch = func( , x_batch)	名詞*
+ばｔｃｈ	batch_size = y.shape[0]	名詞*
+ばｔｃｈ	batch_mask = np.random.choice(train_size, batch_size)	名詞*
+ばｔｃｈ	x_batch = x_train[batch_mask]	名詞*
+ばｔｃｈ	batch_size = self.t.shape[0]	名詞*
+ばｔｃｈ	batch_size = foo.shape[0]	名詞*
+ばｔｃｈ	x_batch = x_train[:9]	名詞*
+ばせぱｔｈ	$path = base_path('vendor/bin');	名詞*
+ぱｄｓｇ	public abstract double Abs_dbl{ set; get; }	名詞*
+ぱｒｔｓ	self.parts.parts_attr	名詞*
+ぱｒｔｓ	obj.parts.parts_attr	名詞*
+ぱｒｔｓ	named_tuple_obj = Name(**parts_dict)	名詞*
+ぱｒｔｓ	Name(**parts_dict)	名詞*
+ぱｒちあｌ	def partial_tmp(x0) : x1 = return x0 + x1	名詞*
+ぱｓｓｂｃ	PASSWORD_BCRYPT	名詞*
+ぱｓｓｇ	public abstract string Abs_name{ set; get; }	名詞*
+ぱｓｓｖ	password_verify()	名詞*
+ぱｓｓん	/password/new	名詞*
+ぱｓｓん	/users/password/new	名詞*
+ぱｔｃｈ	, method: 'patch'	名詞*
+ぱｔｃｈ	, method: :patch	名詞*
+ぱｔｃｈ	<%=form_tag _path(@obj.id),method:'patch'do%><% end %>	名詞*
+ぱｔｃｈ	patch '//:id' => '#update', as: ''	名詞*
+ぱっしゃｓｈ	password_hash($ , PASSWORD_BCRYPT);	名詞*
+ぱっしゃｓｈ	$updateTrnUsr->password = password_hash($ ,PASSWORD_BCRYPT);	名詞*
+ぱってｒｎ	pattern = re.compile('パターン')	名詞*
+ぱいｓｇ	public abstract int Abs_num{ set; get; }	名詞*
+ぱぎなて	<?php $args = array('' => '', paginate_s_links($args); ?>	名詞*
+ぱれんｔ	, parent::()	名詞*
+ぱれんｔ	parent::();	名詞*
+ぱれんｔ	parent::boot($events);	名詞*
+ぱれんｔ	parent::($);	名詞*
+ぱれんｔ：：	parent::meth();	名詞*
+ぱれんｔ：：	parent::__construct($arg);	名詞*
+びｇらｍ	from nltk import bigrams	名詞*
+びゃｒｒ	byarr = bytearray(range(0, 256)  )	名詞*
+びゃｒｒ	byarr = bytearray(list)	名詞*
+びゃｒｒ	byarr = bytearray(bytes)	名詞*
+びゃｒｒ	byarr[] = 127	名詞*
+びゃｒｒ	byarr[] =	名詞*
+びなｓしい	import binascii	名詞*
+びんｄｖ	$stm->bindValue(':placehoder', 値, PDO::PARAM_型);	名詞*
+びんｄｖ	$stm->bindValue(':placehoder', 値, PDO::PARAM_INT);	名詞*
+びんｄｖ	$stm->bindValue(':placehoder', '値', PDO::PARAM_STR);	名詞*
+びんｄｖ	$stm->bindValue(':plhlder', "%{$name}%", PDO::PARAM_型);	名詞*
+ぴｃｋぇ	import pickle	名詞*
+ぴふぃｆ	<?php if(!is_home()  ) : if( $qry->heve_posts()  ) : ?> ?>	名詞*
+ぴんｃｄん	include(dirname(__FILE__).'/.php');	名詞*
+ふぁｂりｃ	from fabric.api import local	名詞*
+ふぁｂりｃ	from fabric.api import run	名詞*
+ふぁｂりｃ	from fabric.api import local def ls() : local('ls -aF')	名詞*
+ふぁｂりｃ	from fabric.api import run def ls() : run('ls -aF')	名詞*
+ふぁｂりｃ	from fabric.context_managers import env env.password = ''	名詞*
+ふぁｃとｒｙ	factory(App\Foo::class, 9)->create()->each(function($u){ });	名詞*
+ふぁｃとｒｙ	$u->posts()->save()(factory(App::Fobj::class)->make()  );	名詞*
+ふぁｃとｒｙ	$user = factory(App\User::class)->make();	名詞*
+ふぁｄｄ	firewall-cmd --add-service=http --zone=public --permanent	名詞*
+ふぁｄｄ	firewall-cmd --add-service=https --zone=public --permanent	名詞*
+ふぁｌせ	include_private = false	名詞*
+ふぁｌせ	(include_private = false)	名詞*
+ふぁｌせ	super : false	名詞*
+ふぁｌせ	? super : false	名詞*
+ふぁｖりｃ	from fabric.context_managers import env env.password = ''	名詞*
+ふぁかで	use Illuminate\Support\Facade;	名詞*
+ふぁけｒ	use Faker\Factry as Faker;	名詞*
+ふぁけｒ	$faker = Faker::create('en_US');	名詞*
+ふぁらだｙ	require 'faraday'	名詞*
+ふぁんく	= function(){ };	名詞*
+ふぁんく	function(req, res, next){}	名詞*
+ふぁんく	$(function( ){  });	名詞*
+ふぁんく	function 関数名(){ 処理 }	名詞*
+ふぃｆ１	[ for in if x == 1 ]	名詞*
+ふぃｆ：	for line in fileobj : data += line fileobj.close()	名詞*
+ふぃｆｃ	func( , func() );	名詞*
+ふぃｆｆ	[ x for x in if x == False ]	名詞*
+ふぃｆｓ	{ x for x in if x != }	名詞*
+ふぃｆｓ	{ x for x in range(0, 9) if x == 0  }	名詞*
+ふぃｆｓｗ	[ x for x in if x.startswith('') ]	名詞*
+ふぃｆｔ	[ x for x in if x == True ]	名詞*
+ふぃｆそうｐ	[ founds.get('href') for founds in soup.find_all('a') ]	名詞*
+ふぃｆんｌ	[ x for x in if x == 0 ]	名詞*
+ふぃｆんｌ	[ x for x in if x == [] ]	名詞*
+ふぃｆんｌ	[ x for x in if x == '' ]	名詞*
+ふぃｆんｌ	[ x for x in if x == "" ]	名詞*
+ふぃｆんｌ	[ x for x in if x != '' ]	名詞*
+ふぃｆんｌ	[ x for x in if x != 0 ]	名詞*
+ふぃｆんｌ	[ x for x in if x != "" ]	名詞*
+ふぃｆんｌ	[ x for x in if x != [] ]	名詞*
+ふぃｒ：	for x in range():	名詞*
+ふぃｒ：	for i in range():	名詞*
+ふぃｒ：	for x in range(0, length) :	名詞*
+ふぃｒｆ	[ x for x in range(0, 9) x if != ]	名詞*
+ふぃｒｆ	[ x for x in range(0, 9) if x == ]	名詞*
+ふぃｒｆ	[ x for x in range(0, 9) if x != ]	名詞*
+ふぃｒｆ	x for x in range(0, 9) if x == 	名詞*
+ふぃｒｆ	 x for x in range(0, 9) if x != 	名詞*
+ふぃｒｆ	 x for x in range(0, 9) if <= x <= 	名詞*
+ふぃｒｆ	 x for x in range(0, 9) if < x < 	名詞*
+ふぃｒｆ	[ x for x in range(1, 9) if x == ]	名詞*
+ふぃｒｆ	x for x in range(1, 9) if x == 	名詞*
+ふぃｒｆ	 x for x in range(1, 9) if < x < 	名詞*
+ふぃｒｆ	[ x for x in range(1, 9) if x != ]	名詞*
+ふぃｒｆ	 x for x in range(1, 9) if <= x <= 	名詞*
+ふぃｒｆ１	[ x for x in range(0, 10) if x == 1 ]	名詞*
+ふぃｒｆ１	 x for x in range(0, 10) if x == 1 	名詞*
+ふぃｒｆ１	(  x for x in range(0, 9) if x == 1  )	名詞*
+ふぃｒｆ１	[ x for x in range(0, 9) if x == 1 ]	名詞*
+ふぃｒｆ１	 x for x in range(0, 9) if x == 1 	名詞*
+ふぃｒｆ１	 x for x in range(1, 10) if x == 1 	名詞*
+ふぃｒｆ１	[ x for x in range(1, 10) if x == 1 ]	名詞*
+ふぃｒｆ１	 x for x in range(1, 9) if x == 1 	名詞*
+ふぃｒｆ１	[ x for x in range(1, 9) if x == 1 ]	名詞*
+ふぃｒｆｆ	[ x for x in range(0, 9) if x == False ]	名詞*
+ふぃｒｆｆ	 x for x in range(0, 9) if x == False 	名詞*
+ふぃｒｆｆ	(  x for x in range(0, 9) if x == False  )	名詞*
+ふぃｒｆｇ	(  x for x in range(0, 9) if x !=  )	名詞*
+ふぃｒｆｇ	( x for x in range(0, 9) if x ==  )	名詞*
+ふぃｒｆｇ	(  x for x in range(0, 9) if x == False  )	名詞*
+ふぃｒｆｇ	(  x for x in range(0, 9) if x == True  )	名詞*
+ふぃｒｆｇ	(  x for x in range(0, 9) if x == []  )	名詞*
+ふぃｒｆｇ	(  x for x in range(0, 9) if x == 0  )	名詞*
+ふぃｒｆｇ	(  x for x in range(0, 9) if x == ''  )	名詞*
+ふぃｒｆｇ	(  x for x in range(0, 9) if x == ""  )	名詞*
+ふぃｒｆｇ	(  x for x in range(0, 9) if x != ''  )	名詞*
+ふぃｒｆｇ	(  x for x in range(0, 9) if x != ""  )	名詞*
+ふぃｒｆｇ	(  x for x in range(0, 9) if x != 0  )	名詞*
+ふぃｒｆｇ	(  x for x in range(0, 9) if x != []  )	名詞*
+ふぃｒｆｇ	(  x for x in range(0, 9) if < x <  )	名詞*
+ふぃｒｆｇ	 (  x for x in range(0, 9) if <= x <=  )	名詞*
+ふぃｒｆｇ	(  x for x in range(0, 9) if x == 1  )	名詞*
+ふぃｒｆｔ	[ x for x in range(0, 9) if x == True ]	名詞*
+ふぃｒｆｔ	 x for x in range(0, 9) if x == True 	名詞*
+ふぃｒｆｔ	(  x for x in range(0, 9) if x == True  )	名詞*
+ふぃｒｆんｌ	[ x for x in range(0, 9) if x == 0 ]	名詞*
+ふぃｒｆんｌ	[ x for x in range(0, 9) if x == '' ]	名詞*
+ふぃｒｆんｌ	[ x for x in range(0, 9) if x == "" ]	名詞*
+ふぃｒｆんｌ	[ x for x in range(0, 9) if x == [] ]	名詞*
+ふぃｒｆんｌ	[ x for x in range(0, 9) if x != [] ]	名詞*
+ふぃｒｆんｌ	[ x for x in range(0, 9) if x != "" ]	名詞*
+ふぃｒｆんｌ	[ x for x in range(0, 9) if x != '' ]	名詞*
+ふぃｒｆんｌ	[ x for x in range(0, 9) if x != 0 ]	名詞*
+ふぃｒｆんｌ	 x for x in range(0, 9) if x == 0 	名詞*
+ふぃｒｆんｌ	 x for x in range(0, 9) if x == "" 	名詞*
+ふぃｒｆんｌ	 x for x in range(0, 9) if x == '' 	名詞*
+ふぃｒｆんｌ	 x for x in range(0, 9) if x == [] 	名詞*
+ふぃｒｆんｌ	 x for x in range(0, 9) if x != "" 	名詞*
+ふぃｒｆんｌ	 x for x in range(0, 9) if x != '' 	名詞*
+ふぃｒｆんｌ	 x for x in range(0, 9) if x != 0 	名詞*
+ふぃｒｆんｌ	 x for x in range(0, 9) if x != [] 	名詞*
+ふぃｒｆんｌ	[ x for x in range(1, 9) if x == 0 ]	名詞*
+ふぃｒｆんｌ	[ x for x in range(1, 9) if x != 0 ]	名詞*
+ふぃｒｌ	for _ in range(len()  ) :	名詞*
+ふぃｒｌ	for i in range(len()  ) :	名詞*
+ふぃｒｌ	for i in range(0, len(), batch_size  ) :	名詞*
+ふぃｒｌ：	for x in range(len(input) -n+1):	名詞*
+ふぃｒｌ：	for x in range(len()  ):	名詞*
+ふぃｒｓｔ	start = stop = for x in range(start, stop) :	名詞*
+ふぃぃｓ	for msg in sub.listen():	名詞*
+ふぃぇｓ	<Files ".ht*"></Files>	名詞*
+ふぃぇｓ	<Files ".ht*">Require all denied</Files>	名詞*
+ふぃい８	for item in ('', '', ) :	名詞*
+ふぃいｂ：	for item in base :	名詞*
+ふぃいｆ：	for item in founds :	名詞*
+ふぃいｊ	for item in jobs:	名詞*
+ふぃいｍ	for item in モジュール.関数 :	名詞*
+ふぃいｓ	for item in self.meth() :	名詞*
+ふぃいい	for item in items :	名詞*
+ふぃいい：	for item in input :	名詞*
+ふぃいおｍ	for item in obj.meth() :	名詞*
+ふぃいそｍ	for item in self.obj.meth() :	名詞*
+ふぃえｌｄ	<div class="field"></div>	名詞*
+ふぃげん	for x in generator :	名詞*
+ふぃげん	for x in generator :  print(x)	名詞*
+ふぃげん	for x in gen :  print(x)	名詞*
+ふぃげん	for x in gen :	名詞*
+ふぃなｌ	}finally{	名詞*
+ふぃふぇｗ	[ x for x in if x.endswith('') ]	名詞*
+ふぃろ：	for x in range_obj :	名詞*
+ふぃんｄ	find 開始ディレクトリ -name "正規表現"	名詞*
+ふぃんｄ	@<obj> = <Obj>.find(params[:id値]) 	名詞*
+ふぃんｄ	@obj = Model.find(ID値)	名詞*
+ふぃんｄ	def show @obj = Model.find(ID値) end	名詞*
+ふぃんｄ	@obj = Model.find(params[:id])	名詞*
+ふぃんｄ	find . -name ""	名詞*
+ふぃんｄ	find . -name "**"	名詞*
+ふぃんｆ：	func( (IInf*)obj );	名詞*
+ふぃんｆ：	void func(IInf*);	名詞*
+ふぃんｌ	for item in lists	名詞*
+ふぃんｐ	FILE *input;	名詞*
+ふぃんだ	find_all(*args)	名詞*
+ふぃんだ	find_all(*args).first	名詞*
+ふぇｒｒ	if(ferror(stdout){ err(1, "stdout");	名詞*
+ふぇおｆ	if(!= EOF){}	名詞*
+ふぇんｍ：	for foo, bar in enumerate(func(), start=1) :	名詞*
+ふぉｂｊ	@fobj = @user.fobjs.build	名詞*
+ふぉｂｊ	fileobj = open(ファイル.拡張子, オープンモード)	名詞*
+ふぉｂｊ	public function fobj(){ return $this->hasOne(Fobj::class); }	名詞*
+ふぉｄｐ	for(dp = func(dd); dp != NULL; dp = func(dd) ){  }	名詞*
+ふぉｒ４	for($i = 0; $i <= 9; $i++){}	名詞*
+ふぉｒ４	for($i = 0; $i <= 9; ++$i){}	名詞*
+ふぉｒ４４	for foo int data['$']['$'][:] :	名詞*
+ふぉｒ４４	for foo int data['$']['$'] :	名詞*
+ふぉｒ４７	for foo int data['']['$'] :	名詞*
+ふぉｒ４ｃ	for($i = 0; $i <= ceil($max / $num) -1; ++$i){}	名詞*
+ふぉｒ７４	for foo int data['']['$'][:] :	名詞*
+ふぉｒ７４	for foo int data['']['$'] :	名詞*
+ふぉｒ７７	for foo int data[''][''] :	名詞*
+ふぉｒ７７	for foo int data[''][''][:] :	名詞*
+ふぉｒ７７：	for foo int data[''][''][:] :	名詞*
+ふぉｒ：	for foo in data['feed']['entry'][0:10] :	名詞*
+ふぉｒ：	for i in data : +i	名詞*
+ふぉｒ：	for i in range():	名詞*
+ふぉｒ：	for item in lists : else :	名詞*
+ふぉｒ；；	for(;;){}	名詞*
+ふぉｒ；；	for(;;){  }	名詞*
+ふぉｒｃ	for(int i = 0; i < nums.Count; i++){}	名詞*
+ふぉｒｃ：	for cell in cells : print(cell)	名詞*
+ふぉｒｄｖ	for item in dict.values() :	名詞*
+ふぉｒｄｖ：	for item in dict.values() :	名詞*
+ふぉｒｋ：	for key in 辞書名 :	名詞*
+ふぉｒｌ	for(int i = 0; i < nums.Length; i++){}	名詞*
+ふぉｒｌ	for(int i = 0; i < strs.Length; i++){}	名詞*
+ふぉｒｍ	form_for(obj) do |f| フォーム本体 end	名詞*
+ふぉｒｍ	railbook/app/views//_form.html.erb	名詞*
+ふぉｒｍ	<%= form_for(@obj) do |f| %>処理<% end %>	名詞*
+ふぉｒｍ	<form></form>	名詞*
+ふぉｒｍ	<form acition=""></form>	名詞*
+ふぉｒｍ	<form acition=""><input class="" type=""></form>	名詞*
+ふぉｒｍ	<form id="" class=""></form>	名詞*
+ふぉｒｍ	app/views//_form.html.erb	名詞*
+ふぉｒｍ	class="form"	名詞*
+ふぉｒｍ	<div class="form"></div>	名詞*
+ふぉｒｍ	<form action="" method=""></form>	名詞*
+ふぉｒｍ	<form action=".php" method="get"></form>	名詞*
+ふぉｒｍ	<form action=".php" method="post"></form>	名詞*
+ふぉｒｍ	{!! Form::open() !!}	名詞*
+ふぉｒｍ	<form method="POST" action="/"></form>	名詞*
+ふぉｒｍ	<form method="POST" action="/">{{ csrf_field() }}</form>	名詞*
+ふぉｒｍｃｌ	{!! Form::close() !!}	名詞*
+ふぉｒｍｌ	{!! Form::label('body', 'Body:') !!}	名詞*
+ふぉｒｍｓ	{!! Form::submit('', ['class' => 'btn']) !!}	名詞*
+ふぉｒｍｓ	<div class="">{!! Form::submit('', ['' => '']) !!}</div>	名詞*
+ふぉｒｍｔｘ	{!! Form::text('tug', null, ['attr' => 'val']) !!}	名詞*
+ふぉｒｍｔｘ	{!! Form::text('tug', null, ['class' => 'val']) !!}	名詞*
+ふぉｒｍｔｘ	{!! Form::textarea('tug', null, ['class' => 'val']) !!}	名詞*
+ふぉｒｍふ	<form action="<?php echo home_url('/');?>"class=""></form>	名詞*
+ふぉｒｐ	for(i=0; i <= 9; i++){ printf("%d\n", foo[i]); }	名詞*
+ふぉｒｒ	for i in range(10) :	名詞*
+ふぉｒｓ	for(i=0; i < SIZE; i++){}	名詞*
+ふぉｒｓ	for(i=0; i < sizeof(); i++){}	名詞*
+ふぉｒｓ	for(i=0; i < size; i++){}	名詞*
+ふぉｒｓ	for(i=0; i < .size(); i++){}	名詞*
+ふぉｒｓｔｄ	for line in sys.stdin :	名詞*
+ふぉｒｓｔｄ	import sys for line in sys.stdin : 	名詞*
+ふぉｒｓｔｄ	for line in sys.stdin : wds = line.strip().split(' ')	名詞*
+ふぉｒｔｈ	for th in threads; th.start()	名詞*
+ふぉｒｔｈ	for th in threads; th.start() for th in threads; th.join()	名詞*
+ふぉｒｖ	for(var prop in obj){}	名詞*
+ふぉｒｖ	for(var prop in obj.prototype){}	名詞*
+ふぉｒｖ	for(var prop in obj){ this.name = ''; }	名詞*
+ふぉｒｖ	for(var pr in obj){ this.prototype[pr] = obj.prototype[pr];}	名詞*
+ふぉｒｖ	for(var prop in obj){  if(obj.hasOwnProperty(prop)  ){} }	名詞*
+ふぉｒｖ	for(var i=0; i < arguments.length; i++){}	名詞*
+ふぉｒｖ	for(var i=0; i < foo.length; i++){}	名詞*
+ふぉｒｖ	for(var i = 0, foo; foo = obj.prop[i]; i++){}	名詞*
+ふぉｒｖ	for(var pr in response.errors){ alert(response.errors[pr]);}	名詞*
+ふぉｒｖｓ	for(i=0; i < vec.size(); i++){}	名詞*
+ふぉｒｘ	= [for x in list]	名詞*
+ふぉｒｚ：	for a_item, b_item in zip(as, bs) :	名詞*
+ふぉｒｚ：	for in zip() :	名詞*
+ふぉｒう゛ぁｌ：	for value in 辞書名.values() :	名詞*
+ふぉｒう゛ぃ	for(var key in map){}	名詞*
+ふぉｒう゛ぃ	for(var key in map){ obj.prop[key] }	名詞*
+ふぉｒう゛ぃ	for(var key in map){ document.form[key].onclick  }	名詞*
+ふぉｒう゛ぃ	for(var k in response.errors){ alert(response.errors[k]); }	名詞*
+ふぉｒう゛ぃｆ	for(var i = 0, foo; foo = obj.prop[i]; i++){};	名詞*
+ふぉｒじｐ：	for a_item, b_item in zip(as, bs) :	名詞*
+ふぉｒせｌｌ：	for cell in cells : print(cell)	名詞*
+ふぉｒそ	for(i=0; i < sizeof(); i++){}	名詞*
+ふぉｒぢ：	for item in dict.items() :	名詞*
+ふぉｒまｔ	format.{} format.{} format.{}	名詞*
+ふぉｒまｔ	format("%s %d", "文字列", 数値)	名詞*
+ふぉｒまｔ	respond_to do |format| if @obj.save else end end 	名詞*
+ふぉｒまｔ	format.html{ } format.json{ render }	名詞*
+ふぉｒまｔ	respond_to do |format| end	名詞*
+ふぉｒまｔ	respond_to do |format| if @obj.update() else end end 	名詞*
+ふぉｒまｔ	respond_to do |format| if @obj.update(ストロング) else end end 	名詞*
+ふぉｒまｔ	respond_to do |format| if @obj.update(set_obj) else end end 	名詞*
+ふぉｒまｔｈ	format.html {}	名詞*
+ふぉｒまｔｊ	format.json {}	名詞*
+ふぉｒみ	{!! Form::input('', 'colm', date('Y-m-d'), ['' =>  '']) !!}	名詞*
+ふぉｒもｐ	{!! Form::open(['' => ]) !!}	名詞*
+ふぉｒもｐ	{!! Form::open(['' => ]) !!} {!! Form::close() !!}	名詞*
+ふぉーり	<?php foreach ($ as $): ?> <?php endforeach; ?>	名詞*
+ふぉいｊ	for(i = 0 j = 0; i <= 9; i++, j++){  }	名詞*
+ふぉいお	for obj in objs	名詞*
+ふぉうんｄ	found = pattern.findall(source)	名詞*
+ふぉうんｄ	found = re.findall('', '')	名詞*
+ふぉうんｄ	vendor/laravel/framework/src/Illuminate/Foundation/	名詞*
+ふぉうんｄ	use Illuminate\Foundation\;	名詞*
+ふぉおｔ	<footer></footer>	名詞*
+ふぉおｔ	<footer class=""></footer>	名詞*
+ふぉおｔ	<footer class="footer"></footer>	名詞*
+ふぉおｔ	<footer class=""><div class=""></div></footer>	名詞*
+ふぉおｔ	<div class=""><footer class=""></footer></div>	名詞*
+ふぉおｔ	<div class="footer"><div class=""></div></div>	名詞*
+ふぉおｔ	<div class="footer"></div>	名詞*
+ふぉぺん	fopen()	名詞*
+ふぉらｒｇ	for(i=0; i < arguments.length; i++){ result +=arguments[i];}	名詞*
+ふぉり：	for item in lists :	名詞*
+ふぉり：	for key, value in 辞書.items() :	名詞*
+ふぉり：	for item in str :	名詞*
+ふぉり：	for key, value in 辞書名.items() :	名詞*
+ふぉりｔ	for(itr = lis.begin(); itr != lis.end(); itr++){}	名詞*
+ふぉりｔ	for(itr = vec.begin(); itr != vec.end(); itr++){}	名詞*
+ふぉりｔｒ	for(itr = lis.begin(); itr != lis.end(); i++){}	名詞*
+ふぉれ４	foreach($ as $){}	名詞*
+ふぉれ４	foreach($args as $arg){ if(){ return false; } } return true;	名詞*
+ふぉれ４い	foreach($[i] as $item){  }	名詞*
+ふぉれｃｓｖ	foreach($csv_data as $value){ $fileObj->fputcsv($value); }	名詞*
+ふぉれｆｃ	foreach($ as $item){ $item = func($item); }	名詞*
+ふぉれｈ	foreach(string s in hash.Keys){}	名詞*
+ふぉれｒｒ	foreach($result as $row){}	名詞*
+ふぉれｒｒ	foreach($result as $row){ echo "<tr>"; echo "</tr>"; }	名詞*
+ふぉれｒｒ	echo "<tbody>"; foreach($result as $row){} echo "</tbody>";	名詞*
+ふぉれｓ	foreach(int i in set){}	名詞*
+ふぉれｖｄ	foreach($ as $item){ var_dump($item."\n"); }	名詞*
+ふぉれｖｄ	<?php foreach($ as $item){ var_dump($item."\n"); } ?>	名詞*
+ふぉれあｒｒｖ	foreach($array as $value){ echo "<>", $value , "</>"; }	名詞*
+ふぉれあｒｒｖ	foreach($array as $value){ echo "<li>", $value , "</li>"; }	名詞*
+ふぉれあｓ	foreach($ as $){}	名詞*
+ふぉれい	foreach(int i in nums){}	名詞*
+ふぉれいんｔｖ	foreach($ as $item){ $item = intval($item); }	名詞*
+ふぉれくｒ	foreach(User::where('foo', 'bar')->cursor() as $user){}	名詞*
+ふぉれげん	foreach(gen() as $v){ }	名詞*
+ふぉれげん	foreach($gen as $v){  }	名詞*
+ふぉれげん	foreach($gen as $v){ if($v > 9) break; }	名詞*
+ふぉれぬｍ	for x in enumerate() :	名詞*
+ふぉれぬｍ	for (x, y) in enumerate() :	名詞*
+ふぉれふぉｂｊ	foreach($objs as $obj){ $obj->fobj->col; $obj->save() }	名詞*
+ふぉんｌ	$fileObj = NULL;	名詞*
+ふぉんｔ	font-weight: bold;	名詞*
+ふぉんｔ	font-size: %;	名詞*
+ふぉんｔ	font-size: px;	名詞*
+ふぉんｔ	font-family: "", sans-serif;	名詞*
+ふぉんｔ	<font></font>	名詞*
+ふぉんｔ	<font><b></b></font>	名詞*
+ふぉんｔ	<font><b>$foo</b></font>	名詞*
+ふぉんｔ	<font size='5' color='FFFFFF'><b>$foo</b></font>	名詞*
+ふろーと	.to_f	名詞*
+ふんｃ４	function 関数名($){ return ; }	名詞*
+ふんｃ４	function 関数名($){ echo ; }	名詞*
+ふんｃｐ	wp-content/themes//functions.php	名詞*
+ふんｃｐ	func1p = func2;	名詞*
+ふんｃｔ	__FUNCTION__	名詞*
+ふんｃちおｎ	__FUNCTION__	名詞*
+ぶいｌｄ	@many = @one.manys.build	名詞*
+ぶいｌｄ	.objs.build	名詞*
+ぶいｌｄ	@fobj = obj.fobjs.build	名詞*
+ぶいｌｄ	@fobj = @user.fobjs.build	名詞*
+ぶいｌｄ	@many = current_user.manys.build(many_params)	名詞*
+ぶいｌｄ	@obj = current_user.objs.build(obj_params)	名詞*
+へｌぺｒ	/app/helpers/	名詞*
+へｌぺｒ	app/helpers/	名詞*
+へｌぺｒ	app/helpers/_helper.rb	名詞*
+へｌぺｒ	module Helper def end end	名詞*
+へｌぺｒ	<%= some_helper(obj) %>	名詞*
+へあＤ	<head></head>	名詞*
+へあＤ	<head><meta></meta><title></title></head>	名詞*
+へあＤ	<head><meta charset="UTF-8"></meta><title></title></head>	短縮読み*
+へあｄ	<head></head>	名詞*
+へあｄ	<head><meta></meta><title></title></head>	名詞*
+へあｄ	<head><meta charset="UTF-8"></meta><title></title></head>	短縮読み*
+へあでｒ	<header class=""></header>	名詞*
+へあでｒ	<header class="header"></header>	名詞*
+へあでｒ	<header class=""><div class=""></div></header>	名詞*
+へあでｒ	class="header"	名詞*
+へあでｒ	<div class="header"></div>	名詞*
+へあでｒ	header('ヘッダ: '.$obj);	名詞*
+へいｇｈｔ	height: 100%;	名詞*
+べぎんいんｇ	Time.now.beginning_of_TT # =>	名詞*
+べふぉれ	before_action : , only: [:, :,]	名詞*
+べふぉれ	before_action :先行共通メソ , only: [:適用対象メソ, :,]	名詞*
+べふぉれ	before_action :set_obj, only:[:アクション, :アクション2]	名詞*
+ぺｃ４４	<?php echo $->$; ?>	名詞*
+ぺｃｋｖ	<?php echo "{$key}{$value}"; ?>	名詞*
+ぺｃｔん	<?php echo $this->name ?>	名詞*
+ぺｃｔん	<?php echo "{$this->name}" ?>	名詞*
+ぺｃおん	<?php echo $obj->name ?>	名詞*
+ぺｃんｆｇｆ	<?php echo number_format( get_field('')  ); ?>	名詞*
+ぺｒちｔ	<a href="<?php the_permalink();?>"><?php the_title(); ?></a>	名詞*
+ほｓｔｓ	'Host':'https://'	名詞*
+ほｓｔｓ	C:\Windows\System32\drivers\etc	名詞*
+ほｓｔｗ	'Host':'http://www.'	名詞*
+ぼｒでｒ	border: 1px solid #ddd;	名詞*
+ぼｒでｒ	border: px solid #;	名詞*
+ぼｒでｒ	border-radius: 3px;	名詞*
+ぼｒでｒ	border: none;	名詞*
+ぼおｓｔ	<link rel="stylesheet" href="css/bootstrap.min.css">	名詞*
+ぼおｓｔ	css/bootstrap.min.css	名詞*
+ぼおｓｔ	resources/assets/bootstrap/css/bootstrap.min.css	名詞*
+ぼおｓｔ	asset('resources/assets/bootstrap/css/bootstrap.min.css');	名詞*
+ぼおｓｔ	/bootstrap/js/bootstrap.min.js	名詞*
+ぼおｓｔ	resources/assets//bootstrap/js/bootstrap.min.js	名詞*
+ぼおｔｓｔらｐ	bootstrap/js/bootstrap.min.js	名詞*
+ぽｂｊｓ	<?php $objs = array($, $, $, $); ?>	名詞*
+ぽｓｔ	, method: 'post'	名詞*
+ぽｓｔ	, method: :post	名詞*
+ぽｓｔん	%postname%	名詞*
+ぽｓちｄ	%post_id%	名詞*
+まｒぎん	margin: 0;	名詞*
+まｒぎん	{  margin: 0;  }	名詞*
+まｒぎん	margin-top: px; margin-bottom: px; margin-left: px;	名詞*
+まｔｈｆ	Mathf.Abs()	名詞*
+まｔｈｆ	Mathf.Sign()	名詞*
+まｔｒｖ	float spdx = Mathf.Abs(this.rigid2d.velocity.x);	名詞*
+みｇらて	rails g migration add_obj1_id_to_obj2s obj1_id:型	名詞*
+みｇらて	rails g migration add_tab1col_id_to_tab2s tab1_id:integer	名詞*
+みｇらて	rails g migration add__to_s _id:integer	名詞*
+みｇらて	rails g migration add_カラム_to_テーブルs カラム:型	名詞*
+めｍべｒ	member do get : end	名詞*
+めｔｈ	, method: ''	名詞*
+めｔｈ	, method: :	名詞*
+めｔｈ	, method: :patch	名詞*
+めｔｈ	, method: :delete	名詞*
+めｔｈ	, method: :post	名詞*
+めｔｈ	___	名詞*
+めｔｈｆ	{{ method_field('') }}	名詞*
+めｔｈｆ	{{ method_field('PUT') }}	名詞*
+めｔｈｆ	{{ method_field('PATCH') }}	名詞*
+めｔｈｆ	{{ method_field('DELETE') }}	名詞*
+めっさげ	<%= message %>	名詞*
+めっさげ	<li><%= message %></li>	名詞*
+めっさげ	<% @obj.errors.full_messages.each do |message| %><%end%>	名詞*
+めた	<meta></meta>	名詞*
+めた	<meta charset="UTF-8"></meta>	短縮読み*
+めた	<meta name="viewport" content="width=device-width">	短縮読み*
+もじゅーるふぁんく	module_function: メソッド名	名詞*
+もめんｔ	minDate: moment(new Date()  ).add(10, 'm');	名詞*
+もめんｔ	if(new Date(old) <moment(new Date() ).add(10, 'm')  ){  }	名詞*
+もめんｔ	moment(new Date()  ).add(10, 'm')	名詞*
+もんｔｈ	%monthnum%	名詞*
+もんけｙ	from gevent import monkey	名詞*
+もんけｙ	monkey.patch_all()	名詞*
+もんけｙ	monkey.patch_socket()	名詞*
+もんけｙ	from gevent import monkey ; monkey.patch_all()	名詞*
+もんけｙ	freom gevent import monkey	名詞*
+もんけｙ	import gevent.monkey	名詞*
+らｓｓｆ	return app.send_static_file('index.html')	名詞*
+らんｄｃ	random.choice()	名詞*
+らんどｍ	from random import	名詞*
+りｇｈｔ	class="right"	名詞*
+りぎｄ２	this.rigid2d = GetComponent<Rigid2D>();	名詞*
+りぎｄ２	Rigidbody2D rigid2d;	名詞*
+りぎｄ２	Rigid2D rigid2d = GetComponent<Rigid2D>();	名詞*
+りぎｄ２ｄ	this.rigid2d = GetComponent<Rigid2D>();	名詞*
+るん	run_()	顔文字*
+るん	run_some(func, args*): return func(*args)	顔文字*
+れｆぺｃ	href="<?php echo meth_(); ?>"	名詞*
+れｇｈｔｍｌ	([^\"]+)<([^<]+)	名詞*
+れｌｄｌｔ	from dateutil.relativedelta import relativedelta	名詞*
+れｌｄｌｔ	reldlt = relativedelta(months+=1)	名詞*
+れｌｈｔｔｐｄ	systemctl reload httpd	名詞*
+れｌしｐ	tb = relationship('Cls', backref=backref('tb2', lazy='dyna')	名詞*
+れｐｒ：	def __repr__(self):	名詞*
+れｐｒｃｖ	req_bytes = rep.recv()	名詞*
+れｐｒｄ	req_str = rep.recv().decode('utf-8')	名詞*
+れｐれｑ	rep_str = " %s " % req_str	名詞*
+れｑｓｇ	resp = requests.get(url)	名詞*
+れｑｓｇ	req = requests.get('http://')	名詞*
+れｑｓｇ	conn = requests.get('http://', cookies=conn.cookies)	名詞*
+れｑｓｇｓ	req = requests.get('https://')	名詞*
+れｑｓｇｗ	req = requests.get('http://www.')	名詞*
+れｑｓｇｗ	conn = requests.get('http://www.', cookies=conn.cookies)	名詞*
+れｓｈｔｔｐｄ	systemctl restart httpd.service	名詞*
+れｓｔｘ	resp.text	名詞*
+れｔｓｓ	return self.send(*args, &blk)	名詞*
+れぉあｄ	systemctl reload	名詞*
+れあｃとｒ	reactor.listenTCP(8000, Factory()  )	名詞*
+れあｃとｒ	reactor.run()	名詞*
+れあｃとｒ	reactor.stop()	名詞*
+れあｃとｒ	reactor.connectTCP('localhost', 8000, fact)	名詞*
+れあｃとｒ	reactor.connectTCP('localhost', 8000, fact) reactor.run()	名詞*
+れぎｓｔ	user_registration	名詞*
+れくｓｇｓ	conn = requests.get('https://', cookies=conn.cookie)	名詞*
+れくぁｌ	"require":{ "":"0.0.*", }, "autload":{ "":{ "":"lib/" } }	名詞*
+れくえｓｔ	import urllib.request as ur	名詞*
+れせんｃ	resp.encoding	名詞*
+れせんｃ	html = resp.text.encode(resp.encoding)	名詞*
+れそｌｖ	$api = resolve('\API');	名詞*
+れそうｒ	Rails.application.routes.draw do resources :objs end	名詞*
+れそうｒせ	resources :コントローラs, only: [:ルーティングするアクション, :アク2]	名詞*
+れそうｒせ	resources :コントローラs,only: [:, :] do end	名詞*
+れそうｒせｓ	resources :コントローラs, only: [:ルーティングするアクション, :アク2]	名詞*
+れふぃね	module モジュール refine 既存クラス do def end end end	名詞*
+れふぃね	module refine do def end end end	名詞*
+れふぃね	module refine do def end end end using	名詞*
+れふぃね	module refine do def super end end end using	名詞*
+れふぃね	module refine do def super '':'' end end end using	名詞*
+れふぃね	refine do end using	名詞*
+れふぃね	refine do end	名詞*
+れふぃね	refine do super end	名詞*
+れんｄｊ	render json:	名詞*
+れんｄｊ	render json: @obj.errors, status: :unprocessable_entity	名詞*
+れんｄｊ	json: @obj.errors, status: :unprocessable_entity	名詞*
+れんふぃｌ	Route::enableFilters();	名詞*
+ろあみんｇ	C:\Users\yamazaki\AppData\Roaming\	名詞*
+わｄみん	wp-admin/	名詞*
+ん４あｐｐ	$ = new ($app['']);	名詞*
+んｂｓｐ	&nbsp;	名詞*
+んｂｓｐ	<th class="">&nbsp;</th>	名詞*
+んｃｈせｘ	'unicharset_extractor'	名詞*
+んｃｐ＾	namespace{ class Foo(){ public Foo(){} ~Foo(){} } }	名詞*
+んｆｇｆ	<?php echo number_format( get_field('')  ); ?>	名詞*
+んｆぁｇ	int nflag;	名詞*
+んｇｒｍ	from nltk import ngrams	名詞*
+んｇｒｍ	grms = ngrams(text, 2)	名詞*
+んｌ２ｂｒ	<?php echo nl2br(); ?>	名詞*
+んｌ２ｂｒ	nl2br($str, false);	名詞*
+んｌ：ｒ	if == '' : return	名詞*
+んｌ：ｒ	if == "" : return	名詞*
+んｌ：ｒ	if == 0 : return	名詞*
+んｌｔｋ	from nltk import word_tokenize	名詞*
+んｌｔｋ	from nltk import Text	名詞*
+んｌｔｋ	from nltk import FreqDist	名詞*
+んｌｔｋ	from nltk import bigrams	名詞*
+んｌｔｋ	from nltk import	名詞*
+んｌｔｋ	from nltk import pos_tag	名詞*
+んｌｔｋ	from nltk import sent_tokenize	名詞*
+んｌｔｋｂ	from nltk.book import *	名詞*
+んｌｔｋｄｌ	nltk.download()	名詞*
+んｍちｔぇ	name="title" value="{{ old($title) }}"	名詞*
+んｍんｍｓ	int[ , ] nums_nums = new int[256, 256];	名詞*
+んｍんｍｓ	nums_nums [m, n] = ;	名詞*
+んｍんｍｓ	int[][] nums_nums = new int[][]{};	名詞*
+んｍんｍｓ	nums_nums [i, j] = ;	名詞*
+んｍんｍｓ	nums_nums[i][j]	名詞*
+んｓｔｄ	namespace Foo{ typedef foo ; }	名詞*
+んｔｐぇ	named_tuple_obj = Name(**parts_dict)	名詞*
+んｖｓｔ	var str = new String('');	名詞*
+んｗ４あｐｐ	$foo = new Foo($app['bar']);	名詞*
+んｗｃｍｄ	new Command($->()  )	名詞*
+んｗｐｒｍｓ	network.params[key] -= learning_rate * grad[key]	名詞*
+んｗｓｃ	/etc/sysconfig/network-scripts/	名詞*
+んｗｓｔｄ	$stdObj = new stdClass();	名詞*
+んｗｔｈ	m_他のメンバ = new 他のクラス(this);	名詞*
+んｗｔｈ	m_barp = new Bar(this);	名詞*
+んｗｔｒん	$updateTrnUsr = new UpdateTrnUsr();	名詞*
+んうぃ８	ip = new int();	名詞*
+んさｐｐ	namespace App;	名詞*
+んさｐｐ	namespace App\Providers;	名詞*
+んせｓｓ	new_user_session	名詞*
+んせｓｓ	new_user_session_path	名詞*
+んつｐぇ	from collections import namedtuple	名詞*
+んつｐぇ	Name = namedtuple('Name', 'part1 part2')	名詞*
+んつｐぇ	obj = Name('parts1_val', 'parts2_val')	名詞*
+んつｐぇ	namedtuple = Name(**parts_dict)	名詞*
+んぱｓｓ	new_user_password	名詞*
+んふぃｒｆ	[ num for num in range(0, 9) if num == ]	名詞*
+んまｔｆ	name="ed_at_from"	名詞*
+んまｔｔ	name="ed_at_to"	名詞*
+んみｌｌ	namespace Illumintate\;	名詞*

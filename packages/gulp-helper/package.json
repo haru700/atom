@@ -1,0 +1,71 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-34709-1o4w1gp.4wz6oxyldi/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-34709-1o4w1gp.4wz6oxyldi/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-34709-1o4w1gp.4wz6oxyldi/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11749-34709-1byb7gb.h5q257b9"
+    ]
+  ],
+  "_from": "../d-11749-34709-1o4w1gp.4wz6oxyldi/package.tgz",
+  "_id": "gulp-helper@4.1.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/gulp-helper",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-34709-1o4w1gp.4wz6oxyldi/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-34709-1o4w1gp.4wz6oxyldi/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-34709-1o4w1gp.4wz6oxyldi/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11749-34709-1o4w1gp.4wz6oxyldi/package.tgz",
+  "_shasum": "4138826832921d12ab5b9dc917a8a323bf061391",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-34709-1o4w1gp.4wz6oxyldi/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11749-34709-1byb7gb.h5q257b9",
+  "activationCommands": {
+    "atom-workspace": [
+      "gulp-helper:toggle"
+    ],
+    "atom-text-editor": [
+      "gulp-helper:toggle"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/kenwheeler/gulp-helper/issues"
+  },
+  "dependencies": {
+    "ansi-to-html": "~0.1.1"
+  },
+  "description": "Runs gulp watch on your project directory and displays the output!",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/kenwheeler/gulp-helper#readme",
+  "license": "MIT",
+  "main": "./lib/gulp-helper",
+  "name": "gulp-helper",
+  "optionalDependencies": {},
+  "private": true,
+  "readme": "# gulp-helper package\n\nThis package runs gulp watch on your current directory and shows an output panel.\n\n####Activate with `ctrl-opt-g`\n\n####Install with `apm install gulp-helper`\n\nPreview:\n\n![Preview](http://i.imgur.com/eny7WWM.gif)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenwheeler/gulp-helper.git"
+  },
+  "version": "4.1.0"
+}

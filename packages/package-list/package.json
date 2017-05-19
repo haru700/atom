@@ -1,0 +1,69 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-4181-1nk11jw.c4rlmu0udi/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-4181-1nk11jw.c4rlmu0udi/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-4181-1nk11jw.c4rlmu0udi/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11746-4181-71h90b.dxg4zbmx6r"
+    ]
+  ],
+  "_from": "../d-11746-4181-1nk11jw.c4rlmu0udi/package.tgz",
+  "_id": "package-list@0.1.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/package-list",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-4181-1nk11jw.c4rlmu0udi/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-4181-1nk11jw.c4rlmu0udi/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-4181-1nk11jw.c4rlmu0udi/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11746-4181-1nk11jw.c4rlmu0udi/package.tgz",
+  "_shasum": "7b32be027d4cf6a2facbb07967c0e982cd8eaa80",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-4181-1nk11jw.c4rlmu0udi/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11746-4181-71h90b.dxg4zbmx6r",
+  "activationCommands": {
+    "atom-workspace": [
+      "package-list:open"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/mark-hahn/package-list/issues"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.0.3",
+    "space-pen": "5.x.x",
+    "sub-atom": "*"
+  },
+  "description": "Show all installed packages in compact list and enable/disable, view docs, or uninstall in one click",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.170.0"
+  },
+  "homepage": "https://github.com/mark-hahn/package-list#readme",
+  "license": "MIT",
+  "main": "./lib/main",
+  "name": "package-list",
+  "optionalDependencies": {},
+  "readme": "# package-list package\n\nShow all installed packages in a compact list and enable/disable, view docs, or uninstall with one click.\n\n---\n\n![Image inserted by Atom editor package auto-host-markdown-image](http://i.imgur.com/106hTFC.gif)\n\n---\n\nA simple package to list all installed packages in one tab. It uses multiple columns for compactness.  Each package has a checkbox to enable/disable the package in one click.  The package is also activated/unactivated in real time.\n\n---\n\n## Usage\n  \n- Install with `apm install package-list`\n- Use command `package-list:open` to open the list. `ctrl-5` (digit five) is bound by default.\n- Click on package to enable/disable\n- Ctrl-click to open package web page docs\n  - Will show web page inside of Atom if `web-browser` package installed\n- Ctrl-Alt-Click to uninstall package\n  \n---\n\n## License\n\nCopyright Mark Hahn by MIT license\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mark-hahn/package-list.git"
+  },
+  "version": "0.1.2"
+}

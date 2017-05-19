@@ -1,0 +1,8 @@
+
+@function halfSize($v){
+  @return $v / 2;
+}
+
+.foo{
+  width: halfSize(100px);
+}

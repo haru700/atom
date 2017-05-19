@@ -1,0 +1,77 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11747-27164-xmgn2b.rquk1n61or/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11747-27164-xmgn2b.rquk1n61or/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11747-27164-xmgn2b.rquk1n61or/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11747-27164-1auoh1e.wt61qvvx6r"
+    ]
+  ],
+  "_from": "../d-11747-27164-xmgn2b.rquk1n61or/package.tgz",
+  "_id": "toggle@0.5.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/toggle",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11747-27164-xmgn2b.rquk1n61or/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11747-27164-xmgn2b.rquk1n61or/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11747-27164-xmgn2b.rquk1n61or/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11747-27164-xmgn2b.rquk1n61or/package.tgz",
+  "_shasum": "101d6d4bbf5bf915fbc5879112b652996ad43cb5",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11747-27164-xmgn2b.rquk1n61or/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11747-27164-1auoh1e.wt61qvvx6r",
+  "activationCommands": {
+    "atom-workspace": [
+      "toggle:here",
+      "toggle:visit",
+      "toggle:there",
+      "toggle:open-config"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/t9md/atom-toggle/issues"
+  },
+  "dependencies": {
+    "fs-plus": "^2.8.1",
+    "season": "^5.2.0"
+  },
+  "description": "Toggle word at cursor",
+  "devDependencies": {
+    "temp": "^0.8.3"
+  },
+  "engines": {
+    "atom": "^1.13.0"
+  },
+  "homepage": "https://github.com/t9md/atom-toggle#readme",
+  "license": "MIT",
+  "main": "./lib/main",
+  "name": "toggle",
+  "optionalDependencies": {},
+  "readme": "# Toggle [![Build Status](https://travis-ci.org/t9md/atom-toggle.svg?branch=master)](https://travis-ci.org/t9md/atom-toggle)\n\nToggle keyword\n\n![gif](https://raw.githubusercontent.com/t9md/t9md/1b7e5e194459078e30a85443b283561a4ff8edbe/img/atom-toggle.gif)\n\n# Commands\n\n* `toggle:here`: Toggle word under cursor.\n* `toggle:there`: Toggle word on current line without moving cursor.\n* `toggle:visit`: Toggle word on current line and move to toggled word.\n* `toggle:open-config`: Open user's wordGroup configuration file.\n\n# Keymap\n\n**No keymap by default**.\n\ne.g.\n\n* normal user\n\n```coffeescript\n'atom-text-editor:not([mini])':\n  'ctrl--': 'toggle:there'\n```\n\n* [vim-mode-plus](https://atom.io/packages/vim-mode-plus) user\n\n```coffeescript\n'atom-text-editor.vim-mode-plus.normal-mode':\n  '-': 'toggle:there'\n```\n\n# Limitation\n\nWhen this package search candidate word to be toggled from current line, it scan word with regular expression `/\\b\\w+\\b/`.  \nSo you can only toggle word matches `\\w+` or `[A-Za-z0-9_]+`.  \nThis mean you cannot set special character as toggle words e.g. `<`, `<=`.\n\n# Customization\n\n### Add custom words\n\nFrom command Palette, execute `Toggle: Open Config`.\n\n```coffeescript\n# '*' is wildcard scope, which is always searched as last resort.\n'*': [\n  ['yes'   , 'no']\n  ['up'    , 'down']\n  ['right' , 'left']\n  ['true'  , 'false']\n  ['high'  , 'low']\n  ['column', 'row']\n  ['and'   , 'or']\n  ['not'   , '']\n  ['on'    , 'off']\n  ['in'    , 'out']\n  ['one'   , 'two'   , 'three']\n  ['bar'   , 'bar']\n],\n'source.coffee': [\n  ['is'  , 'isnt']\n  ['if'  , 'unless']\n]\n```\n\n### Flash color customization\n\n```less\n@keyframes toggle-flash {\n  from { background-color: @syntax-selection-flash-color; }\n  to { background-color: transparent; }\n}\n```\n\n# Similar package for other text editors.\n\n* [zef/vim-cycle](https://github.com/zef/vim-cycle)\n* [AndrewRadev/switch.vim](https://github.com/AndrewRadev/switch.vim)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t9md/atom-toggle.git"
+  },
+  "scripts": {
+    "test": "apm test",
+    "watch": "fswatch -0 spec lib | xargs -0 -n1 -I{} apm test"
+  },
+  "version": "0.5.1"
+}

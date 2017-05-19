@@ -1,0 +1,100 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-41131-1xf4flc.ybf08s38fr/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-41131-1xf4flc.ybf08s38fr/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-41131-1xf4flc.ybf08s38fr/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11749-41131-1ckeqny.ov5y36jemi"
+    ]
+  ],
+  "_from": "../d-11749-41131-1xf4flc.ybf08s38fr/package.tgz",
+  "_id": "julia-client@0.5.12",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/julia-client",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-41131-1xf4flc.ybf08s38fr/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-41131-1xf4flc.ybf08s38fr/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-41131-1xf4flc.ybf08s38fr/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11749-41131-1xf4flc.ybf08s38fr/package.tgz",
+  "_shasum": "8fb9e085bb53a8c7b7cc538c2cb717babd69682f",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-41131-1xf4flc.ybf08s38fr/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11749-41131-1ckeqny.ov5y36jemi",
+  "bugs": {
+    "url": "https://github.com/JunoLab/atom-julia-client/issues"
+  },
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    },
+    "tool-bar": {
+      "versions": {
+        "^0 || ^1": "consumeToolBar"
+      }
+    },
+    "ink": {
+      "versions": {
+        "*": "consumeInk"
+      }
+    }
+  },
+  "dependencies": {
+    "atom-package-deps": "*",
+    "atom-space-pen-views": "^2.0.0",
+    "coffee-script": "*",
+    "etch": "*",
+    "underscore-plus": "*"
+  },
+  "description": "Julia Evaluation",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/JunoLab/atom-julia-client#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/julia-client",
+  "name": "julia-client",
+  "optionalDependencies": {},
+  "package-deps": [
+    "ink"
+  ],
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "3.0.0": "completions"
+      }
+    },
+    "julia-client": {
+      "description": "Run a Julia process",
+      "versions": {
+        "0.1.0": "provideClient"
+      }
+    }
+  },
+  "readme": "# Julia Client\n\n[![Developer Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JunoLab/Juno)\n\nThis is the main repo for [Juno](http://junolab.org), the Julia IDE. Please see [here](https://github.com/JunoLab/uber-juno/blob/master/setup.md) for installation instructions and report problems at [the discussion board](http://discourse.julialang.org/).\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JunoLab/atom-julia-client.git"
+  },
+  "version": "0.5.12"
+}

@@ -1,0 +1,12 @@
+@mixin itemBox($width, $height,
+  $margin:null, $padding:null){
+  width: $width;
+  height: $height;
+  margin: $margin;
+  padding: $padding;
+}
+
+.item{
+  // 不要なプロパティはnull
+  @include itemBox(100px, null, 10px, 20px);
+}

@@ -1,0 +1,13 @@
+@import "compass";
+
+.item {
+  $experimental-support-for-svg: true;
+  @include   background-image(radial-gradient(left top, #008cff 10%, #00bb4b 20%, #f0f));
+  width: 100px; height: 100px;
+  @include ellipsis;
+  @include opacity(79%);
+}
+
+.foo{
+  @include table;
+}

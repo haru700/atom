@@ -1,0 +1,84 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-40921-1kpm4eh.05b6yo80k9/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-40921-1kpm4eh.05b6yo80k9/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-40921-1kpm4eh.05b6yo80k9/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11749-40921-1gv12gq.p9z2xogvi"
+    ]
+  ],
+  "_from": "../d-11749-40921-1kpm4eh.05b6yo80k9/package.tgz",
+  "_id": "build-gradle@0.6.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/build-gradle",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-40921-1kpm4eh.05b6yo80k9/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-40921-1kpm4eh.05b6yo80k9/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-40921-1kpm4eh.05b6yo80k9/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11749-40921-1kpm4eh.05b6yo80k9/package.tgz",
+  "_shasum": "c0e28a8494a1c20dc919815275452f9a2daac6e9",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-40921-1kpm4eh.05b6yo80k9/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11749-40921-1gv12gq.p9z2xogvi",
+  "bugs": {
+    "url": "https://github.com/AtomBuild/atom-build-gradle/issues"
+  },
+  "dependencies": {
+    "bluebird": "^2.10.2"
+  },
+  "description": "Runs Gradle builds",
+  "devDependencies": {
+    "atom-build-spec-helpers": "^0.3.0",
+    "babel-eslint": "^4.1.5",
+    "eslint": "^1.10.1",
+    "eslint-config-atom-build": "^1.0.0",
+    "fs-extra": "^0.23.0",
+    "temp": "^0.8.1"
+  },
+  "engines": {
+    "atom": "^1.0.0"
+  },
+  "homepage": "https://github.com/AtomBuild/atom-build-gradle#readme",
+  "keywords": [
+    "build",
+    "compile",
+    "gradle",
+    "java",
+    "productivity"
+  ],
+  "license": "MIT",
+  "main": "lib/gradle.js",
+  "name": "build-gradle",
+  "optionalDependencies": {},
+  "providedServices": {
+    "builder": {
+      "description": "Runs Gradle build",
+      "versions": {
+        "2.0.0": "provideBuilder"
+      }
+    }
+  },
+  "readme": "# Gradle runner for Atom\n[![Build Status](https://travis-ci.org/AtomBuild/atom-build-gulp.svg?branch=master)](https://travis-ci.org/AtomBuild/atom-build-gradle)\n[![Gitter chat](https://badges.gitter.im/noseglid/atom-build.svg)](https://gitter.im/noseglid/atom-build)\n\nUses the [atom-build](https://github.com/noseglid/atom-build) package to execute\ngradle builds in the `Atom` editor.\n\nThis package requires [atom-build](https://github.com/noseglid/atom-build) to be installed.\n\n## Capabilities\n\n  * Support for gradle wrapper.\n  * Support target extraction. Will run `gradle tasks` or `./gradlew tasks` to retrieve tasks.\n  * Will refresh tasks automatically if you alter the gradle file.\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtomBuild/atom-build-gradle.git"
+  },
+  "version": "0.6.0"
+}

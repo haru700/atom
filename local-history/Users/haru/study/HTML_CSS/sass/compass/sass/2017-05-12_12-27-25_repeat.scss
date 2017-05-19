@@ -1,0 +1,20 @@
+@import "compass";
+@import "compass/layout";
+@import "compass/reset";
+
+
+$prefixes: -webkit-, -moz-, -ms-, -o-, null;
+
+@mixin bg_size{
+  @each $item in $prefixes {
+    #{$item} {
+      background-size: $w $h;
+    }
+  }
+}
+
+body{
+  background: #fff, url(../img/bg_logo.png) no-repeat fixed;
+  @media screen and (-webkit-min-device-pixel-ratio: 1.5){
+  }
+}

@@ -1,0 +1,8 @@
+.foo{
+  background-color: #ff0;
+    background-color: #8f0;
+    float: left;
+    *:first-child + HTML &{
+      background-color: #854;
+  }
+}

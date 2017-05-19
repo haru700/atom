@@ -1,0 +1,12 @@
+@mixin hackIE7{
+  *:first-child + html &{
+    @content;
+  }
+}
+
+.foo{
+  background-color: #00f;
+  @include hackIE7{
+    color: #0f0;
+  }
+}

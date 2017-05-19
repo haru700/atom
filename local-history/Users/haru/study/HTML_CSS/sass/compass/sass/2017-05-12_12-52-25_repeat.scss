@@ -1,0 +1,43 @@
+@import "compass";
+@import "compass/layout";
+@import "compass/reset";
+
+// ブレイクポイント
+$bp-tablet: 1024px;
+$bp-sp: 640px;
+$bp-iphone: 320px;
+
+@mixin media($media-width){
+  @if $media-width == sp{
+    @media only screen and (max-width: $bp-sp){
+      @content;
+    }
+  }
+
+  @if $media-width == tablet{
+    @media only screen and (max-width: $bp-tablet){
+      @content;
+    }
+  }
+
+  @if $media-width == iphone{
+    @media only screen and (max-width: $bp-iphone){
+      @content;
+    }
+  }
+}
+
+body{
+  @include media(sp){
+    float: none;
+    margin: 0 auto;
+  }
+  @include media(tablet){
+    width: auto;
+    margin: 0 10px;
+  }
+  @include media(iphone){
+    width: 100%;
+    margin: 0;
+  }
+}

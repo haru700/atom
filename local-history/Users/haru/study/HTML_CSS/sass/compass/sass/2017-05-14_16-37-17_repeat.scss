@@ -1,0 +1,46 @@
+$red: #cf2d3a;
+
+
+%btnBase{
+  text-align: center;
+  background-color: #f0f; opacity: 0.5;
+}
+
+.item{
+  width: 100px / 80;
+  color: #666 + #eee;
+  @extend %btnBase;
+  .fruitList &{
+  }
+  a{
+    color: $red;
+    background-color: #00f; opacity: 0.5;
+    display: block;
+  }
+}
+
+
+a{
+  background-color: #0ff; opacity: 0.5;
+  &:hover{
+    background-color: #0f0; opacity: 0.5;
+  }
+}
+
+a::after{
+  content: '今日は' + '寒いです';
+  font-family: "", sans-serif;
+}
+
+.box{
+  @extend %btnBase;
+  background-color: #ff0; opacity: 0.5;
+  margin:{
+    top: 5px;
+    bottom: 15px;
+  }
+  border: 1px solid #999{
+    top-color: #a99;
+    bottom: 0;
+  }
+}

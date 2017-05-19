@@ -1,0 +1,14 @@
+$hove-layout: horizontal;
+$hover-spacing: 20px;
+$hover-repeat: no-repeat;
+$hover-sprite-dimensions: true;
+
+@import "compass";
+@import "../images/map/hover/*.png";
+
+
+@include all-hover-sprites;
+
+.item{
+  width: 500px; height: 500px;
+}

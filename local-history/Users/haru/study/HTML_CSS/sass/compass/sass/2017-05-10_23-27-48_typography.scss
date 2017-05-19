@@ -1,0 +1,8 @@
+@import "compass";
+
+$base-font-size: 16px;
+$base-line-height: 24px;
+
+.foo{
+  @include replace-text('../images/cube.jpg', 5px, 10px)s
+}

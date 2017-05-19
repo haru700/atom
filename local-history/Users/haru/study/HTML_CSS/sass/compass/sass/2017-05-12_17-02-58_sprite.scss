@@ -1,0 +1,12 @@
+$icon-layout: vertical;
+$icon-repeat: no-repeat;
+
+@import "compass";
+@import "../images/map/icon/*.png";
+
+
+@include all-icon-sprites;
+
+.item{
+  width: 500px; height: 500px;
+}

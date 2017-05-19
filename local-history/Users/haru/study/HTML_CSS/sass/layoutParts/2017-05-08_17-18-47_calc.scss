@@ -1,0 +1,4 @@
+$border: "100px - 1px * 2";
+.item{
+  width: calc(#{$border});
+}

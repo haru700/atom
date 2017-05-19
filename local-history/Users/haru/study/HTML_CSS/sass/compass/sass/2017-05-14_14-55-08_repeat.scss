@@ -1,0 +1,11 @@
+@import "compass";
+
+$icon-layout: horizontal;
+@import "../images/map/icon/*.png";
+
+@include icon-sprite-dimensions(author);
+a{
+  margin-left: 30px;
+}
+
+}

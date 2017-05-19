@@ -1,0 +1,10 @@
+@import "compass";
+
+$base-font-size: 16px;
+$base-line-height: 24px;
+
+.foo{
+  @include replace-text-with-dimensions('../images/cube.jpg', 5px, 10px);
+  @include hide-text;
+  @include squish-text;
+}

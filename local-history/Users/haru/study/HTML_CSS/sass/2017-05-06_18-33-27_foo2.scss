@@ -1,0 +1,10 @@
+
+$v: 500;
+
+@function halfSize(){
+  @return round($v / 2);
+}
+
+.foo{
+  width: debugTest();
+}

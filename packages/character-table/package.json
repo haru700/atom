@@ -1,0 +1,74 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-11511-17iy8yi.g483bx1or/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-11511-17iy8yi.g483bx1or/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-11511-17iy8yi.g483bx1or/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11746-11511-19i9gdq.3nizggmn29"
+    ]
+  ],
+  "_from": "../d-11746-11511-17iy8yi.g483bx1or/package.tgz",
+  "_id": "character-table@0.4.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/character-table",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-11511-17iy8yi.g483bx1or/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-11511-17iy8yi.g483bx1or/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-11511-17iy8yi.g483bx1or/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11746-11511-17iy8yi.g483bx1or/package.tgz",
+  "_shasum": "d7cae5c66f746e9faa0e76b359fa69286a328f57",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-11511-17iy8yi.g483bx1or/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11746-11511-19i9gdq.3nizggmn29",
+  "bugs": {
+    "url": "https://github.com/klorenz/atom-character-table/issues"
+  },
+  "dependencies": {
+    "atom-space-pen-views": ">=2.0.0",
+    "fuzzaldrin": "^2.1.0",
+    "q": "^1.0.1"
+  },
+  "description": "Insert a character from a (almost) complete Unicode Character Table or use vim digraph style to insert it.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "homepage": "https://github.com/klorenz/atom-character-table#readme",
+  "keywords": [
+    "character",
+    "table",
+    "special",
+    "unicode",
+    "symbol",
+    "glyph",
+    "mnemonic",
+    "digraph"
+  ],
+  "license": "MIT",
+  "main": "./lib/character-table",
+  "name": "character-table",
+  "optionalDependencies": {},
+  "readme": "# character-table package\n\nWith character table you can lookup any Unicode Character (except control characters) to insert into your document.\n\nHit `alt-l` to open the selection view and then find it either via\nunicode code point or ISO name of the character.\n\n![A screenshot of character table](https://raw.githubusercontent.com/klorenz/atom-character-table/master/character-table.png)\n\n\n## Character Mnemonics or Vim-like digraph support\n\nYou can enable VIM-like digraph support.  If enabled, you can hit\nyour Mnemonic Key (default is `ctrl-k`) and a character mnemonic to\ninsert a character.  E.g. hit `ctrl-k a :` for inserting \"ä\".\n\nCharacter Mnemonics are defined in [RFC1345](https://tools.ietf.org/html/rfc1345).  They are also\ndisplayed in Character Table you get with `alt-l` right after the\nunicode codepoint.\n\nCaveat: There is one caveat.  In atom you can connect keybindings only\nwith commands and all commands are displayed in command palette.  This\nfeature adds ~1800 commands, which makes command palette behaviour a\nbit slow.  Need to hide these commands from it.\n\nFor minimizing added command, you can specify which mnemonics you want\nto use with two configuration options:\n\n- Mnemonic Mnemonic Match\n- Mnemonic Character Name Match\n\n### Enable Character Mnemonics\n\nEnable use of character mnemonics.\n\n### Mnemonic Key\n\nHit your Mnemonic Key (default is `ctrl-k`) and a character mnemonic to\ninsert a character.  E.g. hit `ctrl-k a :` for inserting \"ä\".\n\n### Mnemonic Match\n\n*Mnemonic Match* specifies a regular expression, which is matched against\nmnemonic characters.\n\n### Character Name Match\n\n*Character Name Match* specifies a regular expression with following difference:\n\nFor more readability alternatives can be separated by \",\" with\nsurrounding whitespace and whitespace means any character.\n\nIf you specify `latin diaresis, arrow` as Character Name Match you\ncan use latin character diaresis mnemonics and arrow character mnemonics.\n\nTechnically `latin diaresis, arrow` is translated into `latin.*diaresis|arrow`.\n\n### Allow Reversed Mnemonics\n\nFrom Vim I am used to `ctrl-k : a` for inserting\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klorenz/atom-character-table.git"
+  },
+  "version": "0.4.3"
+}

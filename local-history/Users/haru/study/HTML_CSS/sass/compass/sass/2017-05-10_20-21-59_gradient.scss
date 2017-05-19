@@ -1,0 +1,6 @@
+@import "compass";
+
+.boxA{
+  @include background(liner-gradient(white, #a00)  ); 
+  @include background(radial-gradient(white, #a00)  ); 
+}

@@ -1,0 +1,3 @@
+@for $v from 0 through 9{ 
+  .#{$v} { prop: 2px * $v; } 
+}

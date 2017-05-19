@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-40914-9envc4.kgha4te29/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-40914-9envc4.kgha4te29/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-40914-9envc4.kgha4te29/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11749-40914-frytk0.dnwwn7mn29"
+    ]
+  ],
+  "_from": "../d-11749-40914-9envc4.kgha4te29/package.tgz",
+  "_id": "language-gradle@0.0.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/language-gradle",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-40914-9envc4.kgha4te29/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-40914-9envc4.kgha4te29/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-40914-9envc4.kgha4te29/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11749-40914-9envc4.kgha4te29/package.tgz",
+  "_shasum": "777f8b66a9b1d16ae68573c09c397b9d649f65ba",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-40914-9envc4.kgha4te29/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11749-40914-frytk0.dnwwn7mn29",
+  "bugs": {
+    "url": "https://github.com/skyisle/language-gradle/issues"
+  },
+  "dependencies": {},
+  "description": "Gradle support in Atom",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/skyisle/language-gradle#readme",
+  "license": "MIT",
+  "name": "language-gradle",
+  "optionalDependencies": {},
+  "private": true,
+  "readme": "#Gradle support in Atom\nAdds syntax highlighting to Gradle files in Atom.\n\nOriginally [converted](http://atom.io/docs/latest/converting-a-text-mate-bundle)\nfrom the [gradle.tmbundle](https://github.com/gradle/gradle.tmbundle).\n\nContributions are greatly appreciated. Please fork this repository and open a pull request to make grammar tweaks, etc.\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyisle/language-gradle.git"
+  },
+  "version": "0.0.3"
+}

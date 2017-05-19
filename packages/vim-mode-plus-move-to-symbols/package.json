@@ -1,0 +1,75 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-1282-f9kdfx.wooueg66r/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-1282-f9kdfx.wooueg66r/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-1282-f9kdfx.wooueg66r/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11746-1282-9ibuni.w0s9uxflxr"
+    ]
+  ],
+  "_from": "../d-11746-1282-f9kdfx.wooueg66r/package.tgz",
+  "_id": "vim-mode-plus-move-to-symbols@0.3.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/vim-mode-plus-move-to-symbols",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-1282-f9kdfx.wooueg66r/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-1282-f9kdfx.wooueg66r/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-1282-f9kdfx.wooueg66r/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11746-1282-f9kdfx.wooueg66r/package.tgz",
+  "_shasum": "4cc9fea503e98ed128609c889f7b61760773f42b",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-1282-f9kdfx.wooueg66r/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11746-1282-9ibuni.w0s9uxflxr",
+  "activationCommands": {
+    "atom-text-editor": [
+      "vim-mode-plus-user:move-to-next-symbol",
+      "vim-mode-plus-user:move-to-previous-symbol"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/t9md/atom-vim-mode-plus-move-to-symbols/issues"
+  },
+  "consumedServices": {
+    "vim-mode-plus": {
+      "versions": {
+        "^0.1.0": "consumeVim"
+      }
+    }
+  },
+  "dependencies": {
+    "underscore-plus": "^1.6.6"
+  },
+  "description": "Motion for move-to-symbols",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/t9md/atom-vim-mode-plus-move-to-symbols#readme",
+  "license": "MIT",
+  "main": "./lib/main",
+  "name": "vim-mode-plus-move-to-symbols",
+  "optionalDependencies": {},
+  "readme": "[![Build Status](https://travis-ci.org/t9md/atom-vim-mode-plus-move-to-symbols.svg?branch=master)](https://travis-ci.org/t9md/atom-vim-mode-plus-move-to-symbols)\n\n# atom-vim-mode-plus-move-to-symbols\n\nProvide symbols motion for [vim-mode-plus](https://atom.io/packages/vim-mode-plus).  \n\nDepending on TagGenerator of [symbols-view](https://github.com/atom/symbols-view).  \nBut you don't have to enable `symbols-view` to use this motion.  \n\n## keymap\n\n```coffeescipt\n'atom-text-editor.vim-mode-plus:not(.insert-mode)':\n  '(': 'vim-mode-plus-user:move-to-previous-symbol'\n  ')': 'vim-mode-plus-user:move-to-next-symbol'\n```\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t9md/atom-vim-mode-plus-move-to-symbols.git"
+  },
+  "version": "0.3.0"
+}

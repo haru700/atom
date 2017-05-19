@@ -1,0 +1,55 @@
+@import "recipes";
+
+%btnBase{
+  text-align: center;
+  text-decoration: none;
+}
+
+$red: #cf2d3a;
+
+.box{
+  color: $red;
+  border: 3px double $red;
+}
+
+
+
+
+// ルールのネスト
+.item{
+  background-color: #f0f; opacity: 0.5;
+  width: 100% / 5;
+  @extend %btnBase;
+  a{
+    color: #000 + #111;
+    color: #666 + #eee;
+  }
+  ::after{
+    content: '今日は';
+  }
+  p{
+    margin: 0;
+    a{
+      display: block;
+    }
+  }
+}
+
+// 親セレクタの参照 &
+.item{
+  margin: 0 0 30px;
+  .fruitList &{
+    margin: 0;
+  }
+}
+
+ul{
+  margin:{
+    top: 5px;
+    bottom: 15px;
+  }
+  border: 1px solid #999{
+    top-color: #a99;
+    bottom: 0;
+  }
+}

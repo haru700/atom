@@ -1,0 +1,16 @@
+.item{
+  a{
+    background-color: #00f; opacity: 0.5;
+    display: block;
+  }
+}
+
+.item{
+  .fruitList &{
+    background-color: #f0f; opacity: 0.5;
+  }
+}
+
+a{
+  background-color: #0ff; opacity: 0.5;
+}

@@ -1,0 +1,5 @@
+$text: "CSS";
+
+.#{$text} a::after {
+  content: "#{$text + Space}";
+}

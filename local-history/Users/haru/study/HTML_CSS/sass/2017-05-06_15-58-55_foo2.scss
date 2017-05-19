@@ -1,0 +1,10 @@
+.foo{
+  background-color: #ff0;
+  .chil{
+    background-color: #8f0;
+    :first-chil {
+      background-color: #854;
+    }
+
+  }
+}

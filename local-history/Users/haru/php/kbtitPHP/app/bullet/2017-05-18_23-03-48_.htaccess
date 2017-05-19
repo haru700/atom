@@ -1,0 +1,5 @@
+# Rewriteモジュールを有効化
+RewriteEngine On
+
+# AppのルートURL
+RewriteBase /Path/to

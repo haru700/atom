@@ -1,0 +1,26 @@
+@import "compass";
+@import "compass/layout";
+@import "compass/reset";
+
+
+$prefixes: -webkit-, -moz-, -ms-, -o-, null;
+
+@mixin landscape{
+  @media(orientation:landscape){
+    @content;
+  }
+}
+
+@mixin portrait{
+  @media(orientation:portrait){
+    @content;
+  }
+}
+
+.item{
+  width: 50%;
+  @include portrait{
+    width: 100%;
+  }
+
+}

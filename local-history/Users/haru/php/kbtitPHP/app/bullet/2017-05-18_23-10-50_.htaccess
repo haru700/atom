@@ -1,0 +1,8 @@
+# Rewriteモジュールを有効化
+RewriteEngine On
+
+# AppのルートURL
+RewriteBase /Path/to
+
+# 「リクエストされたディレクトリ」「リクエストされたファイル」が「存在すれば書き換えない」
+

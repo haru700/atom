@@ -1,0 +1,7 @@
+$nameList: top, about, compan, contact;
+
+@each $item in $nameList {
+  .body-#{$item} {
+    background-image: url(../img/bg_#{$item}.png);
+  }
+}

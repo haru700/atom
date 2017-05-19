@@ -1,0 +1,10 @@
+
+.item{
+  width: 50px;
+  @include portrait{
+    width: 100%;
+  }
+  @include landscape{
+    width: 25%;
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-11504-100227y.6f4o8yqfr/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-11504-100227y.6f4o8yqfr/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-11504-100227y.6f4o8yqfr/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11746-11504-1kadtb.y68b29y66r"
+    ]
+  ],
+  "_from": "../d-11746-11504-100227y.6f4o8yqfr/package.tgz",
+  "_id": "table-editor@0.2.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/table-editor",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-11504-100227y.6f4o8yqfr/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-11504-100227y.6f4o8yqfr/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-11504-100227y.6f4o8yqfr/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11746-11504-100227y.6f4o8yqfr/package.tgz",
+  "_shasum": "8e5fa95dbf692d0f0b24b68a3cff3b5963377333",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-11504-100227y.6f4o8yqfr/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11746-11504-1kadtb.y68b29y66r",
+  "bugs": {
+    "url": "https://github.com/klorenz/atom-table-editor/issues"
+  },
+  "dependencies": {
+    "ascii-table": "0.0.8",
+    "asciiparse": "git+https://github.com/klorenz/asciiparse.git#master",
+    "atom-syntax-tools": "^0.9.0",
+    "cli-table": "^0.3.1",
+    "q": "^1.4.1"
+  },
+  "description": "Support for editing and navigating text tables (markdown, reStructuredText, etc.)",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/klorenz/atom-table-editor#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/table-editor",
+  "name": "table-editor",
+  "optionalDependencies": {},
+  "readme": "# atom-table-editor package\n\nInspired by great [Sublime Table Editor Package](https://github.com/vkocubinsky/SublimeTableEditor) from\n[Valery Kocubinsky](https://github.com/vkocubinsky), I have started this project.\n\n## Features\n\n- supports restructuredtext and markdown tables\n- table is autoformatted on each action\n- step to next cell with  `tab`\n- step to previous cell with `shift-tab`\n- insert new row after current with `shift-enter`\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klorenz/atom-table-editor.git"
+  },
+  "version": "0.2.2"
+}

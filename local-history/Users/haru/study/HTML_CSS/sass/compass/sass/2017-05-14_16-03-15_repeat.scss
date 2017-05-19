@@ -1,0 +1,14 @@
+@import "compass";
+
+$icon-layout: horizontal;
+$icon-sprite-demensions: true;
+$spriteMap: sprite-map("../images/map/icon/*.png");
+
+@mixin spriteBg($sprite){
+  background: sprite-url($spriteMap) sprite-position($spriteMap, top) #{$/} image-width(sprite-file($spriteMap, $sprite)  ) image-height(sirite-file($spriteMap, $sprite)  ) no-repeat;
+}
+
+.item{
+  width: image-width(sprite-file($spriteMap, top)  );
+  height: image-height(sprite-file($spriteMap, top)  );
+}

@@ -1,0 +1,26 @@
+@mixin itemBox($width, $height,
+  $margin:null, $padding:null){
+  width: $width;
+  height: $height;
+  margin: $margin;
+  padding: $padding;
+}
+
+.item{
+  // 不要なプロパティはnull
+  background-color: #00f; opacity: 0.5;
+  @include itemBox(100px, null, 10px, 20px);
+}
+.itemB{
+  // 不要なプロパティはnull
+  background-color: #0f0; opacity: 0.5;
+  @include itemBox(null, auto, 20px, auto);
+  width: 30px;
+  height:20px;
+}
+
+$dulation: null;
+
+a{
+  transition: all $dulation ease-in-out;
+}

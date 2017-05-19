@@ -1,0 +1,31 @@
+$prefixes: -webkit-, -moz-, -ms-, -o-, null;
+
+@mixin linkIcon($color: #333){
+  &::before{
+    background-color: #00f; opacity: 0.5;
+    content: '';
+    position: absolute;
+    top: 50%;
+    width: 10px;
+    height: 10px;
+  }
+}
+
+ul.nav-items{
+  margin: 20px;
+  li{
+    list-style: none;
+    margin: 0 0 1px;
+    a{
+      position: relative;
+      display: block;
+      padding: 15px{
+        right: 27px;
+      }
+      background: #eee;
+      color: #333;
+      text-decoration: none;
+      @include linkIcon();
+    }
+  }
+}

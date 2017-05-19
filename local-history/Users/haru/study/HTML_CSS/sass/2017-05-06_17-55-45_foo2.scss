@@ -1,0 +1,12 @@
+$width: 100%;
+
+.foo{
+  width: $width / 3;
+}
+.bar{
+  width: ceil($width /3);
+}
+
+body{
+  background-color: lighten(#234564,0.);
+}

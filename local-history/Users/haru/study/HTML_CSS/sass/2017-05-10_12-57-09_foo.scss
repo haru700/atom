@@ -1,0 +1,9 @@
+$height: false;
+
+.item{
+  width: 500px;
+  @if $height{
+    height: $height;
+  }
+}
+

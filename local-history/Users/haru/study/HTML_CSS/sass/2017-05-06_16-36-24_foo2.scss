@@ -1,0 +1,5 @@
+@for $v from 0 through 9 {
+  .trough{$v} {
+    background-color: ff0#; opacity: 0.5;
+  }  
+}

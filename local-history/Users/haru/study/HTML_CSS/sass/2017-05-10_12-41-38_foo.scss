@@ -1,0 +1,16 @@
+$fonts: 62%, 70%, 77%;
+
+
+@function fz($size){
+  @if $size < 8{
+    $size: 8;
+  }
+  @if $size > 40{
+    $size: 40;
+  }
+  @return nth($fonts, $size - 1);
+}
+
+article{
+  font-size: fz(4);
+}

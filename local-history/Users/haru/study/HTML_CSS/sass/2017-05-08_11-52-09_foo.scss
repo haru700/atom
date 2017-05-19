@@ -1,0 +1,36 @@
+$prefixes: -webkit-, -moz-, -ms-, -o-, null;
+
+@mixin transition($v){
+  @each $item in $prefixes {
+    #{$item}transition: $v;
+  }
+}
+
+@mixin border_radius($v: 3px){
+  @each $item in $prefixes {
+    #{$item}border-radius: $v;
+  }
+}
+
+@mixin box_shadow($v...){
+  @each $item in $prefixes {
+    #{$item}box-shadow: $v;
+  }
+}
+
+@mixin text_shadow($v...){
+  @each $item in $prefixes {
+    #{$item}text-shadow: $v;
+  }
+}
+
+a{
+  @include transition(all 0.5s linear);
+}
+
+#main{
+  padding: 20px;
+  background-color: #efefef;
+  @include box-shadow(1px 1px 5px arba(black, 0.3) );
+  @include border-radius();
+}

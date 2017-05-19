@@ -1,0 +1,8 @@
+
+@function halfSize($v){
+  @return round($v / 2);
+}
+
+.foo{
+  width: halfSize(3px);
+}

@@ -1,0 +1,7 @@
+@for $v from 0 through 9 {
+  .trough#{$v} {
+    background-color: #ff0;
+    margin-bottom: 1px * $v;
+    opacity: 0.5;
+  }
+}

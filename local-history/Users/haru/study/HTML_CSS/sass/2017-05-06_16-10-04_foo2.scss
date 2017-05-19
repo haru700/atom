@@ -1,0 +1,13 @@
+@mixin hackIE7{
+  *:last-child{
+    @content;
+  }
+}
+
+.foo{
+  background-color: #00f;
+  float: left;
+  @include hackIE7{
+    color: #0f0;
+  }
+}

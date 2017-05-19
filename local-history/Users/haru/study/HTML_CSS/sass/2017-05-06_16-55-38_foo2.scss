@@ -1,0 +1,11 @@
+@for $v from 0 through 3{
+  .throughSample_#{$v*2} {
+    margin-bottom: 2px * $v;
+  }
+}
+
+@for $v from 0 to 3{
+  .toSample_#{$v+300} {
+    margin-bottom: 10px * $v;
+  }
+}

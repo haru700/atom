@@ -1,0 +1,20 @@
+$supportIE: true;
+
+.clearfix{
+  @if $supportIE{
+    *zoom: 1;
+  }
+  &::after{
+    content: '';
+    display: table;
+    clear: both;
+  }
+}
+
+.item{
+  @extend .clearfix;
+  background-color: #eee;
+  .image{
+    float: left;
+  }
+}

@@ -1,0 +1,18 @@
+
+$v: 500;
+
+@function debugTest(){
+  @debug $v;
+  $v: $v - 100;
+  $v: $v - 100;
+  @debug $v;
+  $v: $v - 100;
+  $v: $v - 100;
+  $v: $v - 100;
+  @debug $v;
+  @return $v + px;
+}
+
+.foo{
+  width: debugTest();
+}

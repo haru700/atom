@@ -1,0 +1,10 @@
+@import "compass";
+@import "compass/layout";
+@import "compass/reset";
+
+$base-font-size: 16px;
+$base-line-height: 24px;
+
+.item {
+  @include replace-text('cube.jpg', 5px, 10px);
+}

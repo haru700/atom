@@ -1,0 +1,24 @@
+$wrapWidth: 100vw;
+$mainWidth: 65vw;
+$sideWidth: $wrapWidth - $mainWidth;
+
+.wrapper{
+  width: 100vw; height: 100vw;
+  background-color: #00f; opacity: 0.5;
+  width: $wrapWidth;
+  float: left;
+
+  .main{
+    background-color: #f0f; opacity: 0.5;
+    width: 100vw; height: 100vw;
+    width: $mainWidth;
+    float: left;
+    margin-right: 10px;
+  }
+  .side{
+    background-color: #0ff; opacity: 0.5;
+    width: 100vw; height: 100vw;
+    width: $sideWidth;
+    float: right;
+  }
+}

@@ -1,0 +1,8 @@
+$width: 100%;
+
+.foo{
+  width: $width / 6;
+}
+.bar{
+  width: round($width / 6);  
+}

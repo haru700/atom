@@ -1,0 +1,66 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-34669-nok2nz.u2wtblz0k9/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-34669-nok2nz.u2wtblz0k9/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-34669-nok2nz.u2wtblz0k9/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11749-34669-z5mztg.dizy9cnmi"
+    ]
+  ],
+  "_from": "../d-11749-34669-nok2nz.u2wtblz0k9/package.tgz",
+  "_id": "gulp-control@0.5.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/gulp-control",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-34669-nok2nz.u2wtblz0k9/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-34669-nok2nz.u2wtblz0k9/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-34669-nok2nz.u2wtblz0k9/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11749-34669-nok2nz.u2wtblz0k9/package.tgz",
+  "_shasum": "93b887bab21e4fe19d78a9f32a6bd6ac3ca21655",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-34669-nok2nz.u2wtblz0k9/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11749-34669-z5mztg.dizy9cnmi",
+  "activationCommands": {
+    "atom-workspace": "gulp-control:toggle"
+  },
+  "bugs": {
+    "url": "https://github.com/jacogr/atom-gulp-control/issues"
+  },
+  "dependencies": {
+    "ansi-to-html": "^0.3.0",
+    "atom-space-pen-views": "^2.0.3"
+  },
+  "description": "Displays a list of gulp tasks and allows execution within Atom",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "homepage": "https://github.com/jacogr/atom-gulp-control#readme",
+  "license": "MIT",
+  "main": "./lib/gulp-control",
+  "name": "gulp-control",
+  "optionalDependencies": {},
+  "readme": "# Atom gulp-control\n\n## What\n\nDisplays a list of gulp tasks and allows execution within Atom.\n\nTasks can be re-started, tracked and controlled from a central point. Open the control from the package menu and you are good to go.\n\n![Gulp](https://raw.githubusercontent.com/jacogr/atom-gulp-control/master/screenshots/gulp-01.png)\n\n## Why\n\nReasons why this might work for you\n\n- Allows the ability to execute any gulp tasks directly within Atom\n- Allows a single overview of all tasks available to you\n- Gulpfile.[coffee|js] is automatically located, either withing the root project folder or a sub-folder\n\n## Configuration\n\nBecause Gulp requires the node executable, there is a potential for it to break if you use [nvm](https://github.com/creationix/nvm) or [nodebrew](https://github.com/hokaccha/nodebrew). If it doesn't initally work, you can specify node's bin folder in the package settings.\n\n*NOTE: if you type* `which node` *into the console you can get node's system path, but you need to remove \"node\" from the end of it for it to work.*\n\n## Where\n\nThe Atom package can be found on the Atom registry, [https://atom.io/packages/gulp-control](https://atom.io/packages/gulp-control).\n\nPull requests, issues, feature requests are all welcome and encouraged via [https://github.com/jacogr/atom-gulp-control](https://github.com/jacogr/atom-gulp-control).\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacogr/atom-gulp-control.git"
+  },
+  "version": "0.5.0"
+}

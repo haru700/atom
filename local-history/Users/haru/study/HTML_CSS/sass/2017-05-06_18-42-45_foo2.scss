@@ -1,0 +1,15 @@
+
+$v: 1000px;
+
+@function warnTest($v){
+  @if unitless($v){ 
+    $v: $v + px;
+  } @else {
+    
+  }
+  @return $v;
+}
+
+.box{
+  width: warnTest();
+}

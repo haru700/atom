@@ -1,0 +1,61 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-41029-eimhse.7ponhzolxr/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-41029-eimhse.7ponhzolxr/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-41029-eimhse.7ponhzolxr/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11749-41029-1jn17o7.nuw92lz0k9"
+    ]
+  ],
+  "_from": "../d-11749-41029-eimhse.7ponhzolxr/package.tgz",
+  "_id": "uber-juno@0.1.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/uber-juno",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-41029-eimhse.7ponhzolxr/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-41029-eimhse.7ponhzolxr/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-41029-eimhse.7ponhzolxr/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11749-41029-eimhse.7ponhzolxr/package.tgz",
+  "_shasum": "77ae790b6ed33b7c582e773420e7db7217e93c53",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-41029-eimhse.7ponhzolxr/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11749-41029-1jn17o7.nuw92lz0k9",
+  "bugs": {
+    "url": "https://github.com/JunoLab/uber-juno/issues"
+  },
+  "dependencies": {},
+  "description": "Install the Juno IDE in Atom",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/JunoLab/uber-juno#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/uber-juno",
+  "name": "uber-juno",
+  "optionalDependencies": {},
+  "readme": "# uber-juno\n\nThis is an Atom package which sets up the Juno IDE. It will install the various Julia-related packages, set some custom config for a great Julia environment, and if possible hook up to any currently-installed Julia binaries for evaluation etc.\n\nSee setup.md for instructions.\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JunoLab/uber-juno.git"
+  },
+  "version": "0.1.1"
+}

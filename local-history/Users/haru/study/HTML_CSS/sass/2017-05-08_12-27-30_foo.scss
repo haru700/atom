@@ -1,0 +1,8 @@
+@mixin fz($size){
+  font-size: $size + px
+  font-size:($size / 10) * 1rem;
+}
+body{
+  font-size: 12px;
+  font-size: 0.75rem;
+}

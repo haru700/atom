@@ -1,0 +1,6 @@
+@function example($v){ 
+  @if type-of($v) == ""{
+    width: 100%;    
+  }  
+  @return $v; 
+}

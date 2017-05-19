@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117412-48005-yfi6wh.f74sk5u3di/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117412-48005-yfi6wh.f74sk5u3di/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117412-48005-yfi6wh.f74sk5u3di/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-117412-48005-svxioo.429l01wcdi"
+    ]
+  ],
+  "_from": "../d-117412-48005-yfi6wh.f74sk5u3di/package.tgz",
+  "_id": "language-kickstart@0.2.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/language-kickstart",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117412-48005-yfi6wh.f74sk5u3di/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117412-48005-yfi6wh.f74sk5u3di/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117412-48005-yfi6wh.f74sk5u3di/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117412-48005-yfi6wh.f74sk5u3di/package.tgz",
+  "_shasum": "76825cd26b4e5bf91284e1fe74e938a0212e7597",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117412-48005-yfi6wh.f74sk5u3di/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-117412-48005-svxioo.429l01wcdi",
+  "bugs": {
+    "url": "https://github.com/wgwoods/language-kickstart/issues"
+  },
+  "dependencies": {},
+  "description": "language support for kickstart files",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "http://atom.github.io/language-kickstart",
+  "license": "MIT",
+  "name": "language-kickstart",
+  "optionalDependencies": {},
+  "readme": "# language-kickstart\n\nAtom syntax highlighting for [Kickstart] files, featuring:\n\n* highlighting of known commands and valid `%package` symbols\n* `%pre`/`%post` scriptlets highlighted according to their `--interpreter`\n* catches invalid password hashes and missing section `%end`\n\n### Screenshot\n\n![screenshot](http://wgwoods.github.io/img/language-kickstart.png)\n\n## Contributing\n\nPull requests welcome!\n\n[Kickstart]: https://github.com/rhinstaller/pykickstart/blob/master/docs/kickstart-docs.rst\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wgwoods/language-kickstart.git"
+  },
+  "version": "0.2.0"
+}

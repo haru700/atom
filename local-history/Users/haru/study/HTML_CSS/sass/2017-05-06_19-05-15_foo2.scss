@@ -1,0 +1,11 @@
+$IMG_PATH: "../common/images";
+
+#main{
+  background-image: url(#{$IMG_PATH}/main.jpg);
+}
+
+$font-size: 12px;
+$line-height: 30px;
+p.foo{
+  font: $font-size/$line-height;
+}

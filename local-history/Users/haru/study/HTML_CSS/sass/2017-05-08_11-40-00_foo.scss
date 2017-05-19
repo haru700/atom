@@ -1,0 +1,7 @@
+$prefixes: -webkit-, -moz-, -ms-, -o-, null;
+
+a{
+  @each $prefix in $prefixes {
+    #{$transition}: all 0.3s ease-in-out;
+  }
+}

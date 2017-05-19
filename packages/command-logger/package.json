@@ -1,0 +1,65 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-12109-14diifu.1v5xdjwcdi/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-12109-14diifu.1v5xdjwcdi/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-12109-14diifu.1v5xdjwcdi/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11746-12109-1ai13p6.3uti46xbt9"
+    ]
+  ],
+  "_from": "../d-11746-12109-14diifu.1v5xdjwcdi/package.tgz",
+  "_id": "command-logger@0.23.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/command-logger",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-12109-14diifu.1v5xdjwcdi/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-12109-14diifu.1v5xdjwcdi/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-12109-14diifu.1v5xdjwcdi/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11746-12109-14diifu.1v5xdjwcdi/package.tgz",
+  "_shasum": "02156453754890a8f54c234b6323da69f95082c2",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-12109-14diifu.1v5xdjwcdi/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11746-12109-1ai13p6.3uti46xbt9",
+  "bugs": {
+    "url": "https://github.com/kevinsawicki/command-logger/issues"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.0.3",
+    "d3-browserify": "3.3.13",
+    "humanize-plus": "~1.4.2",
+    "underscore-plus": "1.x"
+  },
+  "description": "View a treemap of your Atom activity. Open from the command palette.",
+  "devDependencies": {},
+  "engines": {
+    "atom": "*"
+  },
+  "homepage": "https://github.com/kevinsawicki/command-logger#readme",
+  "license": "MIT",
+  "main": "./lib/main",
+  "name": "command-logger",
+  "optionalDependencies": {},
+  "readme": "# Command Logger package [![Build Status](https://travis-ci.org/kevinsawicki/command-logger.svg?branch=master)](https://travis-ci.org/kevinsawicki/command-logger)\n\nView a treemap of all the commands you have run in Atom, open from the Command\nPalette (`cmd-shift-p`) or from the _Packages > Command Logger > Open_ menu.\n\n![](https://f.cloud.github.com/assets/671378/2253951/aafbb124-9dc9-11e3-99be-5ddb43d7e901.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinsawicki/command-logger.git"
+  },
+  "version": "0.23.0"
+}

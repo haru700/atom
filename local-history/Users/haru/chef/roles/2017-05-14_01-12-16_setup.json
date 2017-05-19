@@ -1,0 +1,9 @@
+{
+  "name": "setup_example_program",
+  "override_attributes":{ 
+    "apache":{ 
+      "documentroot" : "/var/www" 
+    }
+  },
+  "json_class": "Chef::Role",
+}

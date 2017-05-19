@@ -1,0 +1,9 @@
+@import "compass";
+@import "compass/layout";
+@import "compass/reset";
+
+.item{
+  @include background(radial-gradient(left top, #fff, #00f) );
+  @include background(linear-gradient(left top, #fff, #00f) );
+  width: 100px; height: 100px;
+}

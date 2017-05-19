@@ -1,0 +1,7 @@
+@import "compass";
+@import "compass/layout";
+
+.boxA{
+  @include background(liner-gradient(white, #a00)  ); 
+  @include background(liner-gradient(white, #a00)  ); 
+}

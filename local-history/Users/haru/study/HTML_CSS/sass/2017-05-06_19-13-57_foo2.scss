@@ -1,0 +1,7 @@
+%kadomaru{
+  $radius: 5px !default;
+}
+
+.item{
+  @extend %kadomaru;
+}

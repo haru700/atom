@@ -1,0 +1,34 @@
+/*グローバルナビゲーション*/
+header.global nav{
+  margin: 0 0 50px;
+
+  // スライドさせる距離
+  $pos-x: -160px;
+  ul{
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    li{
+      list-style: none;
+      float: left;
+
+      // 「スライドさせる距離」= 「width」
+      width: abs($pos-x);
+      a{
+        &[href^="/about/"]{
+          background-position: $pos-x 0;
+        }
+        display: block;
+        height: 50px;
+        width: 1000px;
+        text-indent: 100%;
+        white-space: nowrap;
+        overflow: hidden;
+        background: url(./img/nav.jpg) no-repeat left top;
+        &:hover{
+          background-position: 0 -50px;
+        }
+      }
+    }
+  }
+}

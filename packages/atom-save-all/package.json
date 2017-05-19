@@ -1,0 +1,63 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-4578-pm5hk7.wr4t68byb9/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-4578-pm5hk7.wr4t68byb9/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-4578-pm5hk7.wr4t68byb9/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11746-4578-1gculz0.j13v1gu8fr"
+    ]
+  ],
+  "_from": "../d-11746-4578-pm5hk7.wr4t68byb9/package.tgz",
+  "_id": "atom-save-all@0.4.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/atom-save-all",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-4578-pm5hk7.wr4t68byb9/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-4578-pm5hk7.wr4t68byb9/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-4578-pm5hk7.wr4t68byb9/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11746-4578-pm5hk7.wr4t68byb9/package.tgz",
+  "_shasum": "89b14713168fe230c7fa597d20e3db6abe1b61b2",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-4578-pm5hk7.wr4t68byb9/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11746-4578-1gculz0.j13v1gu8fr",
+  "activationCommands": {
+    "atom-workspace": "atom-save-all:saveAll"
+  },
+  "bugs": {
+    "url": "https://github.com/BrownBear2/atom-save-all/issues"
+  },
+  "dependencies": {},
+  "description": "Save all modified paneItems on CTRL-s",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/BrownBear2/atom-save-all#readme",
+  "license": "MIT",
+  "main": "./lib/atom-save-all",
+  "name": "atom-save-all",
+  "optionalDependencies": {},
+  "readme": "# atom-save-all package\n\nSaves all open editor tabs that have changes. Ignores all other.\nHotkey overwrites ctrl-s.\n\n![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrownBear2/atom-save-all.git"
+  },
+  "version": "0.4.1"
+}

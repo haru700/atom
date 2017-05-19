@@ -1,0 +1,7 @@
+$imgs: top, about, company, contact;
+
+@each $item in $imgs { 
+  .body-#{$item}{
+    background-image: url(./img/bg_#{$item}.png);
+  }  
+}

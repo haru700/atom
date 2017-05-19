@@ -1,0 +1,6 @@
+@import "compass";
+
+.item {
+  @include   background-image(radial-gradient(left top, #008cff, #00bb4b));
+  width: 100px; height: 100px;
+}

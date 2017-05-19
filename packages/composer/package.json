@@ -1,0 +1,85 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117419-62862-121psyp.m9uvaq0k9/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117419-62862-121psyp.m9uvaq0k9/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117419-62862-121psyp.m9uvaq0k9/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-117419-62862-i040i7.eus8wr8uxr"
+    ]
+  ],
+  "_from": "../d-117419-62862-121psyp.m9uvaq0k9/package.tgz",
+  "_id": "composer@0.5.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/composer",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117419-62862-121psyp.m9uvaq0k9/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117419-62862-121psyp.m9uvaq0k9/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117419-62862-121psyp.m9uvaq0k9/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117419-62862-121psyp.m9uvaq0k9/package.tgz",
+  "_shasum": "5d8bd144c499260f65845b3c72a777912d47aa5b",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117419-62862-121psyp.m9uvaq0k9/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-117419-62862-i040i7.eus8wr8uxr",
+  "activationCommands": {
+    "atom-workspace": [
+      "composer:about",
+      "composer:archive",
+      "composer:clear-cache",
+      "composer:dump-autoload",
+      "composer:install",
+      "composer:self-update",
+      "composer:update",
+      "composer:validate"
+    ]
+  },
+  "author": {
+    "name": "Skylar Lewis"
+  },
+  "bugs": {
+    "url": "https://github.com/alairock/Composer-AtomEditor/issues"
+  },
+  "contributors": [
+    {
+      "name": "Simon Fridlund"
+    }
+  ],
+  "dependencies": {
+    "atom-message-panel": "^1.2.0",
+    "byline": "^4.2.1",
+    "cross-spawn": "^0.2.9",
+    "stringstream": "0.0.4"
+  },
+  "description": "Run Composer within Atom",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.196.0 <2.0.0"
+  },
+  "homepage": "https://github.com/alairock/Composer-AtomEditor#readme",
+  "license": "MIT",
+  "main": "lib/main",
+  "name": "composer",
+  "optionalDependencies": {},
+  "readme": "<!--\n[![Gitter](https://img.shields.io/badge/gitter-join_chat-brightgreen.svg)](https://gitter.im/alairock/composer-atomeditor) [![Travis](https://img.shields.io/travis/zimme/atom-composer.svg)](https://travis-ci.org/alairock/composer-atomeditor) -->\n\n# Composer for Atom\n\nRun [Composer](https://getcomposer.org/) within [Atom](https://atom.io).\nThere is only support for commands that are non-interactive and don't require\narguments.\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alairock/Composer-AtomEditor.git"
+  },
+  "version": "0.5.0"
+}

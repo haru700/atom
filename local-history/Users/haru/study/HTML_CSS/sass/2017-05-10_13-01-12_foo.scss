@@ -1,0 +1,11 @@
+@mixin itemBox($width, $height, $margin: null, $padding: null){
+  width: $width;
+  height: $height;
+  margin: $margin;
+  padding: $padding;
+}
+
+.item{
+  background-color: #00f; opacity: 0.5;
+  @include mix(px);
+}

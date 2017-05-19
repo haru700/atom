@@ -1,0 +1,80 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-40943-15848be.dho94fgvi/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-40943-15848be.dho94fgvi/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-40943-15848be.dho94fgvi/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11749-40943-gvnyd1.b48h19vn29"
+    ]
+  ],
+  "_from": "../d-11749-40943-15848be.dho94fgvi/package.tgz",
+  "_id": "gradle-manager@0.0.5",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/gradle-manager",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-40943-15848be.dho94fgvi/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-40943-15848be.dho94fgvi/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-40943-15848be.dho94fgvi/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11749-40943-15848be.dho94fgvi/package.tgz",
+  "_shasum": "0fd187ab9b1955c66e9f46e2d764ea19cb4194dd",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11749-40943-15848be.dho94fgvi/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11749-40943-gvnyd1.b48h19vn29",
+  "bugs": {
+    "url": "https://github.com/henjue/atom-gradle-manager/issues"
+  },
+  "consumedServices": {
+    "bottom-dock": {
+      "versions": {
+        "^0.2.0": "consumeBottomDock"
+      }
+    }
+  },
+  "dependencies": {
+    "ansi-to-html": "^0.3.0",
+    "atom-bottom-dock": "^0.5.3",
+    "space-pen": "^5.1.1"
+  },
+  "description": "Manage gradle from inside your editor",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0"
+  },
+  "homepage": "https://github.com/henjue/atom-gradle-manager#readme",
+  "keywords": [
+    "gradle",
+    "manager",
+    "gradlefile",
+    "runner"
+  ],
+  "license": "BSD3",
+  "main": "./lib/main",
+  "name": "gradle-manager",
+  "optionalDependencies": {},
+  "packageDependencies": {
+    "bottom-dock": "0.3.6"
+  },
+  "readme": "# gradle-manager package\n[![Build Status](https://travis-ci.org/henjue/atom-gradle-manager.svg?branch=master)](https://travis-ci.org/henjue/atom-gradle-manager)\n[![Dependency Status](https://david-dm.org/henjue/atom-gradle-manager.svg)](https://david-dm.org/henjue/atom-gradle-manager)\n[![devDependency Status](https://david-dm.org/henjue/atom-gradle-manager/dev-status.svg)](https://david-dm.org/henjueatom-gradle-manager#info=devDependencies)\n\nManage gradle from inside Atom.\n## This package requires [bottom-dock](https://atom.io/packages/bottom-dock)\n##### Commands\n* (mac use control key)\n* ctrl-k ctrl-t: toggles panel\n* ctrl-k ctrl-k create new gradle pane\n* ctrl-k ctrl-r: refreshes window\n* ctrl-k ctrl-c: closes window\n\n![image](https://raw.githubusercontent.com/henjue/atom-gradle-manager/master/images/out.gif)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henjue/atom-gradle-manager.git"
+  },
+  "version": "0.0.5"
+}

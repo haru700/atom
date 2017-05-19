@@ -1,0 +1,11 @@
+$tmp: "";
+@for $i from 1 through 15{ 
+  @if $i < 10{
+    $tmp: "0#{$i}"
+  }else{
+    $tmp: $i;
+  }
+  .mark_#{$tmp} { 
+    background-image: url(../img/mark_#{$tmp}.png);
+  } 
+}

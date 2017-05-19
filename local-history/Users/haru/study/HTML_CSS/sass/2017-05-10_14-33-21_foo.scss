@@ -1,0 +1,3 @@
+@mixin linear-gradient($color:#f00, $way:top, $percent:20%){
+  background-color: $color;
+}

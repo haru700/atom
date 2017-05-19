@@ -1,0 +1,184 @@
+@import "ui-variables";
+@import "syntax-variables";
+@import "octicon-mixins";
+
+// item-indicator
+// =========================
+.narrow-ui-item-indicator-base () {
+  .octicon(chevron-right, 1em);
+  padding: 0 .4em;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+atom-text-editor .narrow-ui-item-indicator {
+  .narrow-ui-item-indicator-base();
+  color: @syntax-color-added;
+}
+
+atom-text-editor .narrow-ui-item-indicator-protected {
+  .narrow-ui-item-indicator-base();
+  color: @syntax-color-modified;
+}
+
+// row-marker
+// =========================
+@row-marker-color: fadeout(lighten(@syntax-color-added, 0%), 20%);
+
+atom-text-editor {
+  .line.narrow-line-marker {
+    box-shadow:0 -7px 0 -6px @row-marker-color inset;
+  }
+}
+
+// match highlight
+// =========================
+.flash-animation (@name, @color) {
+  @keyframes @name {
+    from { background-color: @color; }
+    to { background-color: transparent; }
+  }
+}
+.flash (@name; @duration) {
+  animation-name: @name;
+  animation-duration: @duration;
+  animation-iteration-count: 1;
+}
+
+@flash-color: fadeout(darken(@syntax-selection-flash-color, 10%), 20%);
+.flash-animation(narrow-match-flash, @flash-color);
+
+@match-base: @syntax-result-marker-color;
+@match: hsla(hue(@match-base), saturation(@match-base), lightness(@match-base), 0.4);
+@match-border-current: hsla(hue(@match-base), saturation(@match-base), lightness(@match-base), 1.0);
+
+@match-ui: hsla(hue(@match-base), saturation(@match-base), lightness(@match-base), 0.2);
+
+atom-text-editor {
+  .narrow-match-ui {
+    .region {
+      box-sizing: border-box;
+      background-color: @match-ui;
+    }
+  }
+  .narrow-match {
+    .region {
+      box-sizing: border-box;
+      border-radius: @component-border-radius;
+
+      background-color: @match;
+      border: 2px solid transparent;
+      transition: border-color .2s;
+    }
+    &.current .region {
+      border-color: @match-border-current;
+      transition-duration: .1s;
+    }
+    &.flash .region {
+      .flash(narrow-match-flash, 1s);
+    }
+  }
+}
+
+// search min editor
+// =========================
+.narrow-input-container {
+  display: flex;
+  > div {
+    padding: @component-padding/2 @component-padding;
+    border: none;
+  }
+  // .narrow-input {
+  .editor-container {
+    width: 100%;
+  }
+}
+
+atom-text-editor.narrow-editor {
+  // Hide linumber gutter but still shows icon to fold/un-fold.
+  // https://discuss.atom.io/t/use-the-gutter-without-enabling-linenumbers/2461/16
+  .gutter {
+    .line-numbers {
+      text-indent: 999em;
+      width: 23px;
+      overflow: hidden;
+      position: relative;
+      .icon-right {
+        position: absolute;
+        left: 0;
+        text-indent: 0;
+      }
+    }
+  }
+  // block-cursor on read-only mode
+  &.read-only {
+    &.is-focused {
+      .cursor {
+        border: none;
+        background: none;
+        opacity: 0.5;
+        background-color: @syntax-cursor-color;
+        visibility: visible;
+      }
+    }
+  }
+}
+
+// Hover Counter
+// =========================
+.narrow-control-bar {
+  padding: @component-padding/3 @component-padding;
+  vertical-align: middle;
+  text-align: justify;
+  font-size: 0.9em;
+  div {
+    display: inline-block;
+  }
+  span {
+    display: inline-block;
+  }
+  .base {
+    .selected::before {
+      color: @text-color-success;
+    }
+    ::before {
+      color: @text-color-subtle;
+    }
+    .provider-name {
+      color: @text-color-success;
+    }
+    .auto-preview {
+      .octicon(eye, 1.0em);
+    }
+    .item-counter {
+      text-align: right;
+      min-width: 25px;
+      color: @text-color-warning;
+    }
+    .protected {
+      .octicon(lock, 1.0em);
+    }
+    .select-files {
+      .octicon(file-submodule, 1.0em);
+    }
+    .refresh {
+      .octicon(repo-sync, 1.0em);
+      &.running {
+        .octicon(x, 1.0em);
+        pointer-events: none;
+        cursor: default;
+        &::before {
+          color: @text-color-error;
+        }
+      }
+    }
+  }
+  .search-options {
+    .search-term {
+      color: @text-color-info;
+    }
+  }
+}

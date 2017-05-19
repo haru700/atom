@@ -1,0 +1,7 @@
+@import "compass";
+
+.item{
+  width: 100px; height: 100px;
+  @include background(liner-gradient(white, #a00)  );
+  @include background(liner-gradient(white, #a00)  );
+}

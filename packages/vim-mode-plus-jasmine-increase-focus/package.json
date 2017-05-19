@@ -1,0 +1,73 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-1292-1idi3zw.zikrbxzuxr/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-1292-1idi3zw.zikrbxzuxr/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-1292-1idi3zw.zikrbxzuxr/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11746-1292-bf5ta2.bjb7vf5hfr"
+    ]
+  ],
+  "_from": "../d-11746-1292-1idi3zw.zikrbxzuxr/package.tgz",
+  "_id": "vim-mode-plus-jasmine-increase-focus@0.3.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/vim-mode-plus-jasmine-increase-focus",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-1292-1idi3zw.zikrbxzuxr/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-1292-1idi3zw.zikrbxzuxr/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-1292-1idi3zw.zikrbxzuxr/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11746-1292-1idi3zw.zikrbxzuxr/package.tgz",
+  "_shasum": "0d1bcc69ff001e2700ac4dc415c9ea93f013d611",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-1292-1idi3zw.zikrbxzuxr/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11746-1292-bf5ta2.bjb7vf5hfr",
+  "activationCommands": {
+    "atom-text-editor": [
+      "vim-mode-plus-user:jasmine-increase-focus",
+      "vim-mode-plus-user:jasmine-decrease-focus"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/t9md/atom-vim-mode-plus-jasmine-increase-focus/issues"
+  },
+  "consumedServices": {
+    "vim-mode-plus": {
+      "versions": {
+        "^0.1.0": "consumeVim"
+      }
+    }
+  },
+  "dependencies": {},
+  "description": "increase, decrease focus level of jasmine spec",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/t9md/atom-vim-mode-plus-jasmine-increase-focus#readme",
+  "license": "MIT",
+  "main": "./lib/main",
+  "name": "vim-mode-plus-jasmine-increase-focus",
+  "optionalDependencies": {},
+  "readme": "[![Build Status](https://travis-ci.org/t9md/atom-vim-mode-plus-jasmine-increase-focus.svg?branch=master)](https://travis-ci.org/t9md/atom-vim-mode-plus-jasmine-increase-focus)\n\n# vim-mode-plus-jasmine-increase-focus\n\nThis is operator plugin for [vim-mode-plus](https://atom.io/packages/vim-mode-plus).  \n\nIncrease, decrease focus of current jasmine spec section you are in.  \nNo need to move cursor to header line.  \nOf course, this is operator, you can repat it with `.` command.  \n\n![](https://raw.githubusercontent.com/t9md/t9md/1d709b4b42780bf98c1387802b1b8733ea9cd4a5/img/atom-vmp-jasmine-increase-focus.gif)\n\n- ex-1: `it`, `fit`, `xit`\n- ex-2: `it`, `fit`, `ffit`, `fffit` for [jasmine-focused](https://www.npmjs.com/package/jasmine-focused) user.\n\n## Features\n\n- Respect `flashOnOperate` configuration of vim-mode-plus.\n\n## keymap example\n\nNo keymap by default. Set following keymap to in your `keymap.cson`.  \n\n```coffeescipt\n'atom-text-editor.vim-mode-plus.normal-mode':\n  '-': 'vim-mode-plus-user:jasmine-increase-focus'\n  'ctrl--': 'vim-mode-plus-user:jasmine-decrease-focus'\n```\n\nor For specific grammar\n\n- CoffeeScript\n```coffeescipt\n'atom-text-editor.vim-mode-plus.normal-mode[data-grammar=\"source coffee\"]':\n  '-': 'vim-mode-plus-user:jasmine-increase-focus'\n  'ctrl--': 'vim-mode-plus-user:jasmine-decrease-focus'\n```\n\n- JavaScript\n```coffeescipt\natom-text-editor.vim-mode-plus.normal-mode[data-grammar=\"source js\"]':\n  '-': 'vim-mode-plus-user:jasmine-increase-focus'\n  'ctrl--': 'vim-mode-plus-user:jasmine-decrease-focus'\n```\n\n\n# Configuration\n\n## Focus Texts\n\nYou can customize list of prefixed focus level text.  \n\"`f, x`\" is by default.  \nThis mean you can toggle\n - `fit`, `xit`, `it`(no prefix) when increase\n - `xit`, `fit`, `it`(no prefix) when decrease\n\ne.g.  \nIf you are using [jasmine-focused](https://www.npmjs.com/package/jasmine-focused) and want to toggle `fit` to `fffit` and don't use `x` focus, set this value to \"`f, ff, fff`\"\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t9md/atom-vim-mode-plus-jasmine-increase-focus.git"
+  },
+  "version": "0.3.0"
+}

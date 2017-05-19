@@ -1,0 +1,5 @@
+$next: "CSS";
+
+.#{$text} { 
+  content: "#{$text + Spac}"; 
+}

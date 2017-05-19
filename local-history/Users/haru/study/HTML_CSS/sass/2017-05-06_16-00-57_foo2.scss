@@ -1,0 +1,7 @@
+.foo{
+  background-color: #ff0;
+    background-color: #8f0;
+    *:first-child + HTML{
+      background-color: #854;
+  }
+}

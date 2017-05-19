@@ -1,0 +1,74 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-11767-ygyxbw.9r9rv34n29/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-11767-ygyxbw.9r9rv34n29/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-11767-ygyxbw.9r9rv34n29/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11746-11767-pnsjrz.jvrq9f6r"
+    ]
+  ],
+  "_from": "../d-11746-11767-ygyxbw.9r9rv34n29/package.tgz",
+  "_id": "convert-to-utf8@0.2.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/convert-to-utf8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-11767-ygyxbw.9r9rv34n29/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-11767-ygyxbw.9r9rv34n29/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-11767-ygyxbw.9r9rv34n29/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11746-11767-ygyxbw.9r9rv34n29/package.tgz",
+  "_shasum": "0d1fdaaa563ace1b8c0a58ec0444a97b124c7584",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-11767-ygyxbw.9r9rv34n29/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11746-11767-pnsjrz.jvrq9f6r",
+  "activationCommands": {
+    "atom-workspace": [
+      "convert-to-utf8:shift_jis",
+      "convert-to-utf8:euc-jp",
+      "convert-to-utf8:gbk",
+      "convert-to-utf8:big5",
+      "convert-to-utf8:big5-hkscs",
+      "convert-to-utf8:euc-kr",
+      "convert-to-utf8:utf-8"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/dongri/convert-to-utf8/issues"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.0.3",
+    "iconv-lite": "0.4.8"
+  },
+  "description": "ConvertToUTF8 package for editing and saving files encoded in Shift_JIS, EUC-JP, CP932, GBK, BIG5, BIG5-HKSCS, EUC-KR etc",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "homepage": "https://github.com/dongri/convert-to-utf8#readme",
+  "license": "MIT",
+  "main": "./lib/convert-to-utf8",
+  "name": "convert-to-utf8",
+  "optionalDependencies": {},
+  "readme": "# ConvertToUTF8\n\nConvertToUTF8 package for editing and saving files encoded in Shift_JIS, EUC-JP, CP932, GBK, BIG5, BIG5-HKSCS, EUC-KR etc.\n\n![A screenshot of your spankin' package](https://dl.dropboxusercontent.com/u/358152/github/convert-to-utf8/convert-to-utf8-1.png)\n\n![A screenshot of your spankin' package](https://dl.dropboxusercontent.com/u/358152/github/convert-to-utf8/convert-to-utf8-2.png)\n\n\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongri/convert-to-utf8.git"
+  },
+  "version": "0.2.4"
+}

@@ -1,0 +1,19 @@
+$prefixes: -webkit-, -moz-, -ms-, -o-, null;
+
+@mixin transition($v){
+  @each $item in $prefixes {
+    #{$item}transition: $v;
+  }
+}
+
+@mixin border_radius($v: 3px){
+  @each $item in $prefixes {
+    #{$item}border-radius: $v;
+  }
+}
+
+@mixin box_shadow($v...){
+  @each $item in $prefixes {
+    #{$item}box-shadow: $v;
+  }
+}

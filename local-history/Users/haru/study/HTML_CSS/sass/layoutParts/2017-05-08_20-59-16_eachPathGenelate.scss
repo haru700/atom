@@ -1,0 +1,15 @@
+$imgs: top, about, company, contact;
+
+@each $item in $imgs {
+  .body-#{$item}{
+    background-image: url(./img/bg_#{$item}.png);
+  }
+}
+
+$bgSetList: top red, about blue, company green, contact yellow;
+
+@each $item in $bgSetList {
+  .bod-#{nth($bgSet, 1)}{
+    background-image: url(../img/bg_#{nth($bgSet, 2)}.png);
+  }
+}

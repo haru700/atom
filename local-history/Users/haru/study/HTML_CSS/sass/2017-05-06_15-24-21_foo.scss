@@ -1,0 +1,22 @@
+@mixin box{
+  background-color: #00f;
+}
+
+$background-color: #0f0;
+@mixin mix($background-color: #f00){
+  background-color: $background-color;
+}
+
+@mixin mix($margin: 30px, $padding: 10px){
+  margin: $margin;
+  padding: $padding;
+}
+
+.foo{
+  @include mix();
+}
+
+.bar{
+  background-color: #0ff;
+  @include mix(0 0 50px, 20px);
+}

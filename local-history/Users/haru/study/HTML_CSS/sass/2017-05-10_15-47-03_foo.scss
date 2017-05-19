@@ -1,0 +1,15 @@
+$prefixes: -webkit-, -moz-, -ms-, -o-, null;
+
+@mixin linkIcon($color: #333){
+  &::before{
+    background-color: #00f; opacity: 0.5;
+    content: '';
+  }
+}
+
+ul.nav-items{
+  margin: 20px;
+  li{
+    list-style: none;
+  }
+}

@@ -1,0 +1,57 @@
+"*":
+  core:
+    disabledPackages: [
+      "symbols-view"
+      "tool-bar-atom"
+      "flex-tool-bar"
+      "intellij-idea-keymap"
+      "sass-compiler"
+      "sass-autocompile"
+      "encoding-selector"
+      "package-notifier"
+      "atom-bootstrap3"
+    ]
+    themes: [
+      "atom-dark-ui"
+      "atom-material-syntax"
+    ]
+  editor:
+    fontSize: 11
+    showInvisibles: true
+    softWrap: true
+  "exception-reporting":
+    userId: "8742e1d3-c9a9-469e-a3cb-4ddbc8a299a0"
+  "julia-client":
+    enableMenu: true
+    enableToolBar: true
+    launchOnStartup: true
+  minimap:
+    plugins:
+      bookmarks: true
+      bookmarksDecorationsZIndex: 0
+      cursorline: true
+      cursorlineDecorationsZIndex: 0
+      "find-and-replace": true
+      "find-and-replaceDecorationsZIndex": 0
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+      selection: true
+      selectionDecorationsZIndex: 0
+  notifications:
+    showErrorsInDevMode: true
+  "project-viewer":
+    customWidth: 63
+    disclaimer:
+      v1014: false
+  "tool-bar":
+    position: "Left"
+  "tree-view": {}
+  "uber-juno":
+    disable: true
+".editorconfig.source":
+  editor:
+    scrollPastEnd: true

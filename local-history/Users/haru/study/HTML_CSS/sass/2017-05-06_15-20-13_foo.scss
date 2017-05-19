@@ -1,0 +1,16 @@
+@mixin box{
+  background-color: #00f;
+}
+
+$background-color: #0f0;
+@mixin mix($background-color: #f00){
+  background-color: $background-color;
+}
+
+.foo{
+  @include mix($background-color);
+}
+
+.bar{
+  @include box;
+}

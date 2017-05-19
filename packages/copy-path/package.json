@@ -1,0 +1,66 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117414-41281-190zbdz.oopwo03sor/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117414-41281-190zbdz.oopwo03sor/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117414-41281-190zbdz.oopwo03sor/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-117414-41281-dix3yz.s02fx647vi"
+    ]
+  ],
+  "_from": "../d-117414-41281-190zbdz.oopwo03sor/package.tgz",
+  "_id": "copy-path@0.4.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/copy-path",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117414-41281-190zbdz.oopwo03sor/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117414-41281-190zbdz.oopwo03sor/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117414-41281-190zbdz.oopwo03sor/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117414-41281-190zbdz.oopwo03sor/package.tgz",
+  "_shasum": "5241680e2d5f262cd8eec94661cc801a3140e4a3",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117414-41281-190zbdz.oopwo03sor/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-117414-41281-dix3yz.s02fx647vi",
+  "author": {
+    "name": "Shintaro Seki"
+  },
+  "bugs": {
+    "url": "https://github.com/s-shin/atom-copy-path/issues"
+  },
+  "dependencies": {},
+  "description": "Copy file paths in variable styles.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0"
+  },
+  "homepage": "https://github.com/s-shin/atom-copy-path#readme",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "copy-path",
+  "optionalDependencies": {},
+  "readme": "# copy-path\n\nCopy a file path flexibly!\n\n## Context Menu on a Tab\n\n![capture](https://raw.githubusercontent.com/s-shin/atom-copy-path/master/capture.png)\n\n## Command Palette\n\nThe path of the active text editor is copied.\n\n* `copy-path:copy-basename`\n* `copy-path:copy-extension`\n* `copy-path:copy-basename-wo-extension`\n* `copy-path:copy-project-relative-path`\n* `copy-path:copy-full-path`\n* `copy-path:copy-base-dirname`\n* `copy-path:copy-project-relative-dirname`\n* `copy-path:copy-full-dirname`\n* `copy-path:copy-line-reference`\n* `copy-path:copy-project-relative-path-web` (windows only)\n\n## License\n\nThe MIT License.\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-shin/atom-copy-path.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.4.1"
+}

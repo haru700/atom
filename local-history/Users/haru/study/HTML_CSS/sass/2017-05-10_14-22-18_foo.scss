@@ -1,0 +1,14 @@
+$normal: #f00;
+$hover: #00f;
+
+@mixin link-color($n: $normal, $hover){
+  color: $normal;
+  &:hover{
+    color: $hover;
+    text-decoration: none;
+  }
+}
+
+a{
+  @include link-color(#f00, #00f);
+}

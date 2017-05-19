@@ -1,0 +1,8 @@
+@mixin box{
+  background-color: #00f;
+}
+
+.foo{
+  @include box;
+}
+}

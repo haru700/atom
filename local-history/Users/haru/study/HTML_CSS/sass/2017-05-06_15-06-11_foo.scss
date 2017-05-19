@@ -1,0 +1,10 @@
+@mixin box{
+  background-color: #00f;
+}
+
+.foo{
+}
+
+.bar{
+  @include box;
+}

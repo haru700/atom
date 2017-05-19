@@ -1,0 +1,14 @@
+@import "compass";
+@import "compass/layout";
+@import "compass/reset";
+
+
+$prefixes: -webkit-, -moz-, -ms-, -o-, null;
+
+@mixin bg_size{ 
+  @each $item in $prefixes { 
+    #{$item} { 
+      background-size: $w $h; 
+    } 
+  }
+}

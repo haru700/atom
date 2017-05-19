@@ -1,0 +1,22 @@
+header.global nav{
+  margin: 0 0 50px;
+  ul{
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+  }
+  li{
+    list-style: none;
+    float: left;
+    width: 160px;
+    a{
+      display: block;
+      height: 50px;
+      text-indent: 100%;
+      white-space: nowrap;
+      overflow: hidden;
+      background: url(./nav.jpg) no-repeat left top;
+    }
+
+  }
+}

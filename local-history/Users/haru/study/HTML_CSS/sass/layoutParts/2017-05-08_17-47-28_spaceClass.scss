@@ -1,0 +1,14 @@
+$spaceClass: true !default;
+$spacePadding: false !default;
+$endValue: 10 !default;
+
+@if $spaceClass {
+  @for $i from 0 through $endValue{
+    .mt#{$i * 5} {
+      margin-top: 5px * $i !important;
+    }
+    .mb#{$i * 5} {
+      margin-bottom: 5px * $i !important;
+    }
+  }
+}

@@ -1,0 +1,60 @@
+header.global nav{
+  $pos-x: -160px;
+
+  margin: 0 0 50px;
+  ul{
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+  }
+  li{
+    list-style: none;
+    float: left;
+
+    width: abs($pos-x);
+    a{
+      border-left: 1px solid #00f;
+      display: block;
+      height: 50px;
+      text-indent: 100%;
+      white-space: nowrap;
+      overflow: hidden;
+      background: url(./nav.jpg) no-repeat left top;
+
+      &[href^="/about/"]{
+        background-position: $pos-x 0;
+        &:hover{
+          background-position: $pos-x - 50px;
+        }
+      }
+
+      &[href^="/source/"]{
+        background-position: $pos-x*2 0;
+        &:hover{
+          background-position: $pos-x*2 -50px;
+        }
+      }
+
+      &[href^="/dl/"]{
+        background-position: $pos-x*3 0;
+        &:hover{
+          background-position: $pos-x*3 -50px;
+        }
+      }
+
+      &[href^="/profile/"]{
+        background-position: $pos-x*4 0;
+        &:hover{
+          background-position: $pos-x*4 -50px;
+        }
+      }
+
+      &[href^="/contact/"]{
+        background-position: $pos-x*5 0;
+        &:hover{
+          background-position: $pos-x*5 -50px;
+        }
+      }
+    }
+  }
+}

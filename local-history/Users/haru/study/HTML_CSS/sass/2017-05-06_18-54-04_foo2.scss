@@ -1,0 +1,4 @@
+.foo::after{
+ content: quote(type-of(10px) );
+}
+

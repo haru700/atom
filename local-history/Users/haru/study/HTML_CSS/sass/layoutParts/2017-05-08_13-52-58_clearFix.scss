@@ -1,0 +1,32 @@
+.clearfix{
+  &::after{
+    content: '';
+    display: block;
+    clear: both;
+  }
+}
+
+.item{
+  @extend .clearfix;
+  background-color: #eee;
+  .image{
+    float: left;
+    height: 100px;
+  }
+  .text{
+    float: left;
+  }
+}
+
+
+.foo{
+  @extend .clearfix;
+  background-color: #f0f; opacity: 0.5;
+  float: left;
+}
+
+
+.bar{
+  background-color: #ff0; opacity: 0.5;
+  float: left;
+}

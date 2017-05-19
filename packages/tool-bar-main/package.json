@@ -1,0 +1,76 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-12250-g597qh.ei3bygy14i/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-12250-g597qh.ei3bygy14i/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-12250-g597qh.ei3bygy14i/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11746-12250-f6fi4d.vu8t3jif6r"
+    ]
+  ],
+  "_from": "../d-11746-12250-g597qh.ei3bygy14i/package.tgz",
+  "_id": "tool-bar-main@0.0.10",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/tool-bar-main",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-12250-g597qh.ei3bygy14i/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-12250-g597qh.ei3bygy14i/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-12250-g597qh.ei3bygy14i/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11746-12250-g597qh.ei3bygy14i/package.tgz",
+  "_shasum": "c0ebc1fe4b9e6b5506338a70638a3e4db0245f30",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-12250-g597qh.ei3bygy14i/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11746-12250-f6fi4d.vu8t3jif6r",
+  "bugs": {
+    "url": "https://github.com/suda/tool-bar-main/issues"
+  },
+  "consumedServices": {
+    "tool-bar": {
+      "versions": {
+        "^0 || ^1": "consumeToolBar"
+      }
+    }
+  },
+  "dependencies": {
+    "atom-package-deps": "^3.0.7"
+  },
+  "description": "Main tool bar",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/suda/tool-bar-main#readme",
+  "keywords": [
+    "toolbar",
+    "tool-bar"
+  ],
+  "license": "MIT",
+  "main": "./lib/tool-bar-main",
+  "name": "tool-bar-main",
+  "optionalDependencies": {},
+  "package-deps": [
+    "tool-bar"
+  ],
+  "readme": "# Main Tool Bar package\n\nSimple tool bar using [tool-bar](https://atom.io/packages/tool-bar) package.\n\n![Main Tool Bar](http://f.cl.ly/items/3B3O471G3h3d0x0l0313/Screenshot-2014-10-22-11.37.54.png)\n\n# Buttons\n\n* New File\n* Open...\n* Save\n* Find in Buffer\n* Replace in Buffer\n* Toggle Command Palette\n* Open Settings View\n\nWhen in **dev mode** it adds two more buttons:\n\n* Reload Window\n* Toggle Developer Tools\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suda/tool-bar-main.git"
+  },
+  "version": "0.0.10"
+}

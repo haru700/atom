@@ -1,0 +1,13 @@
+$icon-layout: horizontal;
+$icon-spacing: 20px;
+$icon-position: 100px;
+@import "compass";
+@import "../images/map/hover/*.png";
+@import "../images/map/icon/*.png";
+
+
+@include all-icon-sprites;
+
+.item{
+  width: 500px; height: 500px;
+}

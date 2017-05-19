@@ -1,0 +1,7 @@
+$nameList: (top red), (about blue), (company green), (contact yellow);
+
+@each $item in $nameList {
+  .body-#{nth($item, 1)} {
+    background-image: url(../img/bg_#{nth($item, 2)}.png);
+  }
+}

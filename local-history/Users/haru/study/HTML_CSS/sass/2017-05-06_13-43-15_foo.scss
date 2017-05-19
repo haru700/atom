@@ -1,0 +1,14 @@
+// @extend専用のプレースホルダ
+.foo{
+  width: 100%;
+}
+@media all and (orientation:landscape){
+  %btnBase{
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #eee;
+  }
+  a{
+    @extend %btnBase;
+  }
+}

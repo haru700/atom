@@ -1,0 +1,141 @@
+@import "recipes";
+@import "./sprite.scss";
+
+%btnBase{
+  text-align: center;
+  text-decoration: none;
+}
+
+body{
+  background:lighten(#000, 30%);
+}
+
+header{
+  margin-left: 15px;
+}
+
+$red: #cf2d3a;
+$name: notes;
+$attr: border;
+$radius: 10px;
+$generalStyleIsEnabled: true;
+
+@if $generalStyleIsEnabled{
+  .fruitList{
+    float: left;
+  }
+  .fruitList .item{
+    float: right;
+  }
+}
+
+@for $v from 1 through 30{
+  .throughSample_#{$v} {
+    margin-bottom: 10px * $v;
+  }
+}
+
+$v: 50;
+@while $v > 0 {
+  .mb_#{$v} {
+    margin-right: $v + px;
+  }
+  $v: $v - 10;
+}
+
+$list: foo, bar, bazz, cube;
+
+
+@each $item in $list {
+  .#{$item} {
+    background: url(../images/#{$item}.jpg);
+    z-index: 1;
+    height: 100px;
+  }
+}
+
+
+@mixin kado($v){
+  -moz-border-radius: $v;
+  -webkit-border-radius: $v;
+  border-radius: $v;
+}
+
+
+%kadomaru{
+  $radius: 5px !default;
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  border-radius: $radius;
+}
+
+.box{
+  @include kado(30px);
+  background-color: #00f; opacity: 0.5;
+  color: $red;
+  border: 3px double $red;
+  margin: 0 0 30px;
+  padding: 15px;
+  border: 1px solid #ccc;
+  width: 100px; height: 100px;
+}
+
+
+p.#{$name} {
+  #{$attr}-color: blue;
+}
+
+
+// ルールのネスト
+.item{
+  border: 1px solid #999;
+  @include kado(20px);
+  @extend .box;
+  @extend %kadomaru;
+  background-color: #f0f; opacity: 0.2;
+  width: 100% / 5;
+  @extend %btnBase;
+  a{
+    color: #000 + #111;
+    color: #666 + #eee;
+  }
+  &::after{
+    content: '今日は' + '寒いです';
+    font-family: "", sans-serif;
+  }
+  p{
+    margin: 0;
+    a{
+      display: block;
+    }
+  }
+  width: 300px;
+  color: rgba(100, 254, 10, 0.5);
+  color: red(#4c61a8);
+  background: mix(#139, #128, 0.5);
+  background: lighten(hsla(127, 65%, 39%, 0.5) , 1);
+  @media screen and (orientation:landscape){
+    width: 500px;
+  }
+}
+
+
+
+// 親セレクタの参照 &
+.item{
+  margin: 0 0 30px;
+  .fruitList &{
+    margin: 0;
+  }
+}
+
+ul{
+  margin:{
+    top: 5px;
+    bottom: 15px;
+  }
+  border: 1px solid #999{
+    top-color: #a99;
+    bottom: 0;
+  }
+}

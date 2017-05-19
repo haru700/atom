@@ -1,0 +1,11 @@
+$prefixes: -webkit-, -moz-, -ms-, -o-, null;
+
+@mixin smahoArrow($color: #333){
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: 15px;
+  width: 10px;
+  height: 10px;
+  margin-top: -7px;
+}

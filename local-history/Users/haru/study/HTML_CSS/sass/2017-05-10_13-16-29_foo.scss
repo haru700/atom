@@ -1,0 +1,13 @@
+%markBase{
+  padding-left: 15px;
+  background-position: 0em 0.5em;
+  background-repeat: no-repeat;
+}
+
+@for $i from 1 through 3{
+  .mark_#{$i}{
+    @extend %markBase;
+    background-image: url(../img/mark_#{$i}.png);
+  }
+}
+

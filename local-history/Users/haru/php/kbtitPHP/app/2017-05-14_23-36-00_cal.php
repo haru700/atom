@@ -1,0 +1,14 @@
+<?php
+// ライブラリの読み込み
+require_once('/Users/haru/php/kbtitPHP/src/Google/Client.php');
+ini_set('memory_limit', '1000M');
+require_once('/Users/haru/php/kbtitPHP/src/google-api-php-client-services/src/Google/Service/Calendar.php');
+$apiConfig['use_objects'] = true;
+$client = new Google_Client();
+$client->setApplicationName("PHP Mook");
+
+// APIキーの設定
+// アクセストークンの設定
+var_dump($_SESSION);
+$client->setAccessToken($_SESSION['ya29.GltKBIfQ6s5tt-LGrGdH-skJOGPrw13SB-DiKJDrvXEv04wp9tcmoqpC8pHTSqhloX5lw1N6HWSPTPWiUVsgaA7OLU48aB05gw4CJq8YHQdROeGs6z2dHkpMAQv']);
+var_dump($client);

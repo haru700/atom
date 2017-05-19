@@ -1,0 +1,11 @@
+$fontSizeList: 62%, 70%, 77%;
+
+@function fz($v){ 
+  @if $size < 8 {
+    $size: 8;
+  }
+  @if $v > 40 {
+    $size: 40;
+  }
+  @return nth($fontSizeList, $v - 7); 
+}

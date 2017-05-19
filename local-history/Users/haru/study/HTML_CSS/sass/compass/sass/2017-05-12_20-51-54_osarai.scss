@@ -1,0 +1,72 @@
+@import "recipes";
+
+%btnBase{
+  text-align: center;
+  text-decoration: none;
+}
+
+body{
+  background:lighten(#000, 30%);
+}
+
+header{
+  margin-left: 15px;
+}
+
+$red: #cf2d3a;
+$name: notes;
+$attr: border;
+
+.box{
+  color: $red;
+  border: 3px double $red;
+}
+
+p.#{$name} {
+  #{$attr}-color: blue;
+
+}
+
+
+// ルールのネスト
+.item{
+  background-color: #f0f; opacity: 0.5;
+  width: 100% / 5;
+  @extend %btnBase;
+  a{
+    color: #000 + #111;
+    color: #666 + #eee;
+  }
+  &::after{
+    content: '今日は' + '寒いです';
+    font-family: "", sans-serif;
+  }
+  p{
+    margin: 0;
+    a{
+      display: block;
+    }
+  }
+}
+
+
+
+// 親セレクタの参照 &
+.item{
+  margin: 0 0 30px;
+  .fruitList &{
+    margin: 0;
+  }
+}
+
+ul{
+  margin:{
+    top: 5px;
+    bottom: 15px;
+  }
+  border: 1px solid #999{
+    top-color: #a99;
+    bottom: 0;
+  }
+}
+}

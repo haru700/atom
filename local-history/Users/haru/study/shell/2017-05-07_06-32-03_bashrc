@@ -1,0 +1,22 @@
+###
+# プロンプト: gitのブランチ名表示
+function parse_git_branch{
+  git branch --no-color 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ [¥1]/'
+}
+
+function prompts{
+  # 色は気分で変えたいかもしれないので宣言しておく
+  local BLUE="\[¥e[1;34m\]"
+  local RED="\[¥e[1;31m\]"
+  local GREEN="\[¥e[1;32m\]"
+  local WHITE="\[¥e[00m\]"
+  local GRAY="\[¥e[1;37m\]"
+
+  case $v in
+    xterm*) TITLEBAR='\[[¥e]0;¥W¥007\]' ;;
+    *) TITLEBAR=""  ;;
+  esac
+  local  BASE="¥u@¥h"
+
+  PS1="${TITLEBAR}${GREEN}${BASE}${WHITE}:${BLUE}¥w${GREEN}¥$(parse_git_branch)${BLUE} ${GRAY} ¥$${WHITE} "
+}

@@ -1,0 +1,85 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-1240-d5upok.yyqkqehfr/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-1240-d5upok.yyqkqehfr/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-1240-d5upok.yyqkqehfr/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11746-1240-1hssq2f.w20l9b2o6r"
+    ]
+  ],
+  "_from": "../d-11746-1240-d5upok.yyqkqehfr/package.tgz",
+  "_id": "vim-mode-zz@0.1.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/vim-mode-zz",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-1240-d5upok.yyqkqehfr/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-1240-d5upok.yyqkqehfr/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-1240-d5upok.yyqkqehfr/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11746-1240-d5upok.yyqkqehfr/package.tgz",
+  "_shasum": "2e1e46188ea2fb5440edfc2a2e8ab1e79f50aae5",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-11746-1240-d5upok.yyqkqehfr/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-11746-1240-1hssq2f.w20l9b2o6r",
+  "activationCommands": {
+    "atom-workspace": "vim-mode-zz:saveAndClose"
+  },
+  "bugs": {
+    "url": "https://github.com/sQu1rr/vim-mode-zz/issues"
+  },
+  "coffeelintConfig": {
+    "indentation": {
+      "level": "error",
+      "value": 4
+    },
+    "line_endings": {
+      "value": "unix",
+      "level": "error"
+    }
+  },
+  "consumedServices": {
+    "vim-mode": {
+      "versions": {
+        "^0.1.0": "consumeVim"
+      }
+    }
+  },
+  "dependencies": {},
+  "description": "Allows to close opened tabs with Vim's ZZ command",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/sQu1rr/vim-mode-zz#readme",
+  "keywords": [
+    "vim",
+    "vim-mode",
+    "ZZ"
+  ],
+  "license": "MIT",
+  "main": "./lib/vim-mode-zz",
+  "name": "vim-mode-zz",
+  "optionalDependencies": {},
+  "readme": "# vim-mode-zz package\n\nAllows to close opened tabs/splits/windows with Vim's ZZ command as you would\ndo in Vim. Works **only** in Code Editor tabs\n\n## Features\n* When last editor is closed the focus is activated on tree view if it exists\nand cursor is on the currently selected item\n* Non-Vim ZQ binding which acts like :q! (since ex-mode q doesn't restore focus\non the tree view)\n* Doesn't require vim-mode (but why would you use this package then?)\n* Doesn't require tree view to be enabled\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sQu1rr/vim-mode-zz.git"
+  },
+  "version": "0.1.2"
+}

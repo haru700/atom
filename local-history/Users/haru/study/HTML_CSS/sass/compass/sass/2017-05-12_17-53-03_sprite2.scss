@@ -1,0 +1,16 @@
+@import "compass";
+$spriteMap: sprite-map("../images/map/icon/*.png", $spacing: 20px, $layout: horizontal);
+
+.item{
+  width: image-width(sprite-file($spriteMap, top)  );
+  height: image-height(sprite-file($spriteMap, top)  );
+}
+
+@mixin spriteBg($sprite){
+  background: sprite-url($spriteMap) sprite-position($spriteMap, top) #{"/"} image-width(sprite-file($spriteMap, author)  ) image-height(sprite-file($spriteMap, author) ) norepeat;
+}
+
+.item{
+  @include spriteBg(top);
+  
+}

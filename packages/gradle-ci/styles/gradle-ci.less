@@ -1,0 +1,54 @@
+// The ui-variables file is provided by base themes provided by Atom.
+//
+// See https://github.com/atom/atom-dark-ui/blob/master/stylesheets/ui-variables.less
+// for a full listing of what's available.
+
+@import "ui-variables";
+@import "octicon-mixins";
+
+.status-bar {
+  &.gradle-ci-status {
+    margin-left: 10px;
+
+    &.status-icon {
+      padding-right: 5px;
+    }
+  }
+}
+
+.gradle-ci {
+  height: 100%;
+  overflow: auto;
+
+  .group-header {
+    padding: 10px;
+    text-align: right;
+
+    &.highlight {
+      padding-left: 0.5em;
+      padding-right: 0.5em;
+    }
+
+    &.close-button {
+      padding-left: 0.5em;
+      padding-right: 0.5em;
+    }
+  }
+
+  .group-results {
+    .result-container {
+      margin-left: 10px;
+      margin-right: 10px;
+      margin-bottom: 10px;
+
+      .result-header {
+        padding-left: 0.5em;
+        padding-bottom: 0.3em;
+      }
+
+      .result-output {
+        padding: 0.5em;
+      }
+    }
+  }
+}

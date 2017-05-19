@@ -1,0 +1,7 @@
+
+$v: 1000px;
+
+@function warnTest($v){
+  $v: $v + px;
+  @return $v;
+}
