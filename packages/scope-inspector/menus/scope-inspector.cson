@@ -1,0 +1,18 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  'atom-workspace': [{label: 'Enable scope-inspector', command: 'scope-inspector:toggle'}]
+
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'scope-inspector'
+      'submenu': [
+        { 'label': 'Toggle Sidebar', 'command': 'scope-inspector:toggle-sidebar' },
+        { 'label': 'Toggle Highlighting', 'command': 'scope-inspector:toggle-highlighting' },
+        { 'label': 'Toggle Breadcrumbs', 'command': 'scope-inspector:toggle-breadcrumbs' },
+        { 'label': 'Toggle Hoisting Indicators', 'command': 'scope-inspector:toggle-hoisting-indicators' }
+      ]
+    ]
+  }
+]

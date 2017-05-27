@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="device-width">
+    <title></title>
+    <link rel="stylesheet" href=".css">
+  </head>
+  <body>
+
+    <!-- 動画の「表示領域」を準備-->
+    <div>
+      <a rel="video" href="http://www.youtube.com/watch?v=idFe6W5DFq8http://www.nicovideo.jp/watch/sm30661259"></a>
+    </div>
+
+
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="/Users/haru/js/src/createVideo/jquery.createvideo/js/jquery.createvideo.js"></script>
+    <script type="text/javascript">
+    $(function(){
+      // サイズ300*200で動画を表示
+      $('a[rel=video]').createVideo({
+        width: 300,
+        height: 200,
+      });
+
+    });
+    </script>
+  </body>
+</html>

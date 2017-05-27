@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="device-width">
+    <title></title>
+    <link rel="stylesheet" href="/Users/haru/js/src/starRating/css/star-rating.css">
+  </head>
+  <body>
+
+    <!-- レイティングバーのもととなるラジオボタンを準備 -->
+    <input type="radio" name="rate" class="starbar" value="1" title="わるい">
+    <input type="radio" name="rate" class="starbar" value="2" title="いまいち">
+    <input type="radio" name="rate" class="starbar" value="3" title="ふつう" checked="checked">
+    <input type="radio" name="rate" class="starbar" value="4" title="まあまあ">
+    <input type="radio" name="rate" class="starbar" value="5" title="よい">
+
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+
+    <script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.1.0.js"></script>
+    <script type="text/javascript" src="/Users/haru/js/src/starRating/js/star-rating.js"></script>
+
+    <script type="text/javascript">
+    $(function(){
+      // レイティングバーを有効化
+      $('.starbar').rating({
+        // 「キャンセルボタン」のテキスト
+        cancel: '消去',
+        callback: function (value){
+          // rating.phpに対してレイティングバーの値を送信
+          $.post(
+            './rating.php',
+            {
+              rating: value
+            },
+            function  (){
+              window.alert('「' + value + '」をつけました');
+            }
+          );
+
+        }
+      });
+
+    });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="device-width">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="/Users/haru/js/src/snippet/jquery.snippet-styles/css/jquery.snippet.css">
+    <link rel="stylesheet" type="text/css" href="/Users/haru/js/src/snippet/jquery.snippet-styles/css/jquery.snippet.monokai.css">
+  </head>
+  <body>
+    <!-- 整形対象のコードを準備 -->
+
+    <pre class="jscode sh_monokai">
+      $(function (){
+        // Sliderウィジェットを適用
+        $('#slider').({
+          range: true,
+        });
+      });
+    </pre>
+
+
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="/Users/haru/js/src/snippet/jquery.snippet-styles/js/jquery.snippet.js"></script>
+    <script type="text/javascript">
+    $(function(){
+      // Snippetプラグインを適用
+      $('pre.jscode').snippet('javascript', {
+        style: 'darkness',
+        // 枠が込みする行
+        box: '4-7,8-13',
+        // 折りたたみきのうを有効にするか
+        collapse: true,
+        showMsg: 'ソースコードを表示',
+        hideMsg: 'ソースコードを隠す',
+        startCollapsed: false,
+        clipboard: 'css/ZeroClipboard.swf',
+      });
+
+    });
+    </script>
+  </body>
+</html>

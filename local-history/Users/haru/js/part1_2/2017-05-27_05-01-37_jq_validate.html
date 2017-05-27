@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="device-width">
+    <title></title>
+    <link rel="stylesheet" href=".css">
+  </head>
+  <body>
+    <!--　検証対象のフォームを準備 -->
+    <form method="POST" action="/" id="fm">
+      <label>氏名:
+        <input type="text" id="name" name="name" value="30">
+      </label>
+
+      <input type="submit" value="登録">
+    </form>
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/jquery.validate.min.js"></script>
+    <script type="text/javascript">
+    $(function(){
+      // 新規に「regex検証」を実装
+      $.validator.addMethod('regex', function(value, element, param){
+        var re = new Regexp('^' + param + '$', 'gi');
+        return re.test(value);
+      }, '入力値が不正な形式です');
+      
+      // Validationプラグインを適用
+      $('#fm').validate({
+        errorClass: 'valid-error',
+        // 検証ルールを定義
+        rules:{
+          'name':{
+          required: true,
+        }
+        },
+        // エラーメッセージを定義
+        messages:{
+          'name':{
+            required: '氏名は必須です。'
+          }
+        },
+
+        
+    });
+
+    
+
+
+  });
+  </script>
+  </body>
+</html>

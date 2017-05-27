@@ -1,0 +1,23 @@
+/**
+ * @Author: haru
+ * @Date:   2017-05-27T11:16:25+09:00
+ * @Last modified by:   haru
+ * @Last modified time: 2017-05-27T11:44:57+09:00
+ */
+
+
+ .foo{
+   background-color: #00f; opacity: 0.5;
+ }
+
+ .bar{
+   background-color: #0f0; opacity: 0.5;
+ }
+
+ .bazz{
+   background-color: #f00; opacity: 0.5;
+ }
+
+.nav-tabs{
+  margin-bottom: 20px;
+}

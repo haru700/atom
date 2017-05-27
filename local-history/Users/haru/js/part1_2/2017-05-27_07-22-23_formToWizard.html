@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="device-width">
+    <title></title>
+    <link rel="stylesheet" href=".css">
+  </head>
+  <body>
+
+    <!-- ウィザード式の「ステップ」を<fieldset>要素で定義-->
+    <form method="POST" action="/" id="fm">
+      <fieldset>
+        <legend>購入者情報</legend>
+        <label for="name">氏名</label>
+        <input id="name" type="text" size="30">
+
+        <label for="email">メールアドレス</label>
+        <input id="email" type="text" size="30">
+
+        <label for="goods">商品名</label>
+        <input id="goods" type="text" size="30">
+      </fieldset>
+
+      <fieldset>
+        <legend>商品について</legend>
+        <label for="know">購入の動機</label>
+        <input type="radio" name="know" value="site"> Webサイト
+        <input type="radio" name="know" value="news"> Webサイト
+        <input type="radio" name="know" value="ad"> Webサイト
+        <input type="radio" name="know" value="other"> Webサイト
+      </fieldset>
+
+      <fieldset>
+        <legend>総合評価</legend>
+        <label for="score">満足度(100点満)</label>
+        <input id="score" type="text" size="3"> Webサイト
+
+        <label for="score">ご意見ご感想</label>
+        <textarea name="mono" cols="50" rows="8"></textarea>
+      </fieldset>
+    </form>
+
+
+
+
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="/Users/haru/js/src/formToWizard/jquery.formtowizard.js"></script>
+    <script type="text/javascript">
+    $(function(){
+      $('#fm').formToWizard({
+        submitButton: 'btnSubmit', 
+      });
+
+    });
+    </script>
+  </body>
+</html>

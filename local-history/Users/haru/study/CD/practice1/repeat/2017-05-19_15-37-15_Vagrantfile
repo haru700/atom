@@ -1,0 +1,22 @@
+doing!
+VAGRANTFILE_API_VERSION ="2"
+
+Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
+  config.vm.box = "centos"
+
+  config.vm.provision "shell",
+    inline: "culrl -L http://www.opscode.com/chef.installsh | bash"
+
+  config.vm.provision "chef_solo" do |chef|
+    chef.add_recipe "main"
+  end
+end
+
+config.vm.provision "shell",
+  inline: "rm -rf cookbooks_serverspec && git clone git@github.com/haru700/kbtit.git"
+
+config.vm.provision "shell",
+  inline: "cd cookbooks_serverspec/serverspec/chef-repo && chef-solo -j node.json -c solo.rb"
+
+config.vm.provision "shell",
+  inline: "cd cookbokks_serverspec/serverspec && rake spec"

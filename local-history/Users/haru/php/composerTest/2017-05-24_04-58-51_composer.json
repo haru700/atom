@@ -1,0 +1,8 @@
+{
+  "require":{
+    "aws/aws-sdk-php": "2.*",
+    "nesbot/carbon": "*",
+    "fzaninotto/faker": "*",
+    "ezyang/htmlpurifier": "4.*"
+  }
+}

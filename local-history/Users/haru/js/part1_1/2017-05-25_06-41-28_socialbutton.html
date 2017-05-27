@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="device-width">
+    <title></title>
+  </head>
+  <body>
+
+    <!--　ボタンの配置先を用意 -->
+    <div id="twitter"></div>
+    <div id="google_plusone"></div>
+    <div id="gree_sf"></div>
+    <div id="evernote"></div>
+    <div id="hatena"></div>
+    <div id="mixi_check"></div>
+    <div id="mixi_like"></div>
+    <div id="facebook_like"></div>
+    <div id="facebook_share"></div>
+
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="http://itra.jp/jquery_socialbutton_plugin/js/jquery.socialbutton-1.9.1.js"></script>
+    <script type="text/javascript">
+    $(function(){
+
+    console.log('==============');
+      // SocialButtonプラグインを適用
+      $('#facebook_like').socialbutton('facebook_like', {
+        // ボタンの種類
+        url: 'http://itra.jp',
+        show_faces: true,
+        width: 450,
+        height: 80,
+        action: 'like',
+        locale: 'ja_JP',
+        font: 'arial',
+        colorscheme: 'light'
+        // ロケール
+      });
+
+
+      $('#twitter').socialbutton('twitter', {
+        button: 'vertical',
+        url: 'http://itra.jp',
+        text: 'tweet text',
+        lang: 'ja',
+        via: 'ishiiyoshinori',
+        related: 'twitter'
+      });
+
+      $('#google_plusone').socialbutton('google_plusone');
+
+
+    });
+    </script>
+  </body>
+</html>

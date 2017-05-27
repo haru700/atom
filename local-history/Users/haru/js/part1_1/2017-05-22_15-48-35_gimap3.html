@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+
+
+    <!-- Googleマップを表示するための領域を準備 -->
+
+    <div id="map" style="width: 500px; height: 500px;"></div>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyBjDOaffxdUMWZgs8XW8PjRVA_LkxIAQF4"></script>
+    <script type="text/javascript" src="/Users/haru/js/src/gmap3/src/gmap3.js"></script>
+    <script type="text/javascript">
+    $(function(){
+      // Geolocation APIを利用できるかチェック
+      if(navigator.geolocation){
+        // Geolocation APIで現在位置を取得
+        navigator.geolocation.getCurrentPosition(
+
+          function (pos){
+            // 「現在位置」を取得
+            var current = [
+              pos.coords.latitude,
+              pos.coords.longitude
+            ];
+
+    $('#map')
+      .gmap3({
+        center: current,
+        zoom: 14
+      })
+      .bicyclinglayer()
+    ;
+          }
+        );
+      }else{
+        alert('ブラウザがGeolocation APIに対応していません。');
+      }
+    });
+    </script>
+  </body>
+</html>

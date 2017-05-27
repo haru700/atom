@@ -1,0 +1,13 @@
+doing!
+VAGRANTFILE_API_VERSION ="2"
+
+Vagrant.configure(VAGRANTFILE_API_VERSION) do |config| 
+  config.vm.box = "centos"
+
+  config.vm.provision "shell",
+    inline: "culrl -L http://www.opscode.com/chef.installsh | bash"
+    
+  config.vm.provision "chef_solo" do |chef| 
+    chef.add_recipe "main"
+  end
+end

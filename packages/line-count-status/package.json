@@ -1,0 +1,76 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117420-42057-1wwdr9n.9w23ns714i/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117420-42057-1wwdr9n.9w23ns714i/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117420-42057-1wwdr9n.9w23ns714i/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-117420-42057-1su4c1m.x8c4pwrk9"
+    ]
+  ],
+  "_from": "../d-117420-42057-1wwdr9n.9w23ns714i/package.tgz",
+  "_id": "line-count-status@0.0.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/line-count-status",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117420-42057-1wwdr9n.9w23ns714i/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117420-42057-1wwdr9n.9w23ns714i/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117420-42057-1wwdr9n.9w23ns714i/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117420-42057-1wwdr9n.9w23ns714i/package.tgz",
+  "_shasum": "961244edcd7e87936998864be8adf0688f26d8bd",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117420-42057-1wwdr9n.9w23ns714i/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-117420-42057-1su4c1m.x8c4pwrk9",
+  "bugs": {
+    "url": "https://github.com/olmokramer/atom-line-count-status/issues"
+  },
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBarService"
+      }
+    }
+  },
+  "dependencies": {
+    "object-assign-shim": "^1.0.0"
+  },
+  "description": "Line counter in the status bar",
+  "devDependencies": {
+    "babel-eslint": "^3.1.23",
+    "eslint": "^0.24.1"
+  },
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/olmokramer/atom-line-count-status#readme",
+  "keywords": [
+    "status-bar",
+    "line-count"
+  ],
+  "license": "MIT",
+  "main": "./lib/line-count-status",
+  "name": "line-count-status",
+  "optionalDependencies": {},
+  "readme": "# line-count-status package\n\nAdds a line counter to the status bar that displays the number of lines in the current editor. Opens  [go-to-line](https://github.com/atom/go-to-line) on click.\n\n![Screenshot](https://raw.githubusercontent.com/olmokramer/atom-line-count-status/master/screencast.gif)\n\n[MIT License](LICENSE.md) &copy; Olmo Kramer\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olmokramer/atom-line-count-status.git"
+  },
+  "version": "0.0.3"
+}

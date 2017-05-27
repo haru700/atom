@@ -2,30 +2,46 @@
   core:
     disabledPackages: [
       "symbols-view"
-      "tool-bar-atom"
-      "flex-tool-bar"
       "intellij-idea-keymap"
       "sass-compiler"
       "sass-autocompile"
       "encoding-selector"
       "package-notifier"
-      "atom-bootstrap3"
+      "scope-inspector"
+      "symbols-plus"
+      "symbols-view-plus"
+      "atom-keyboard-macros-vim"
+      "language-kickstart"
+      "line-count-status"
+      "toggle"
+      "recent-finder"
+      "css-spy"
     ]
     themes: [
       "atom-dark-ui"
       "atom-material-syntax"
     ]
   editor:
-    fontSize: 11
+    confirmCheckoutHeadRevision: false
+    fontSize: 10
     showInvisibles: true
     softWrap: true
   "exception-reporting":
     userId: "8742e1d3-c9a9-469e-a3cb-4ddbc8a299a0"
+  "file-header":
+    username: "haru"
+  "file-icons": {}
+  "fuzzy-finder":
+    ignoredNames: [
+      ".git"
+    ]
+  "git-control": {}
   "julia-client":
     enableMenu: true
     enableToolBar: true
     launchOnStartup: true
   minimap:
+    disablePythonDocLinks: true
     plugins:
       bookmarks: true
       bookmarksDecorationsZIndex: 0
@@ -43,10 +59,17 @@
       selectionDecorationsZIndex: 0
   notifications:
     showErrorsInDevMode: true
+  "php-debug":
+    currentPanelMode: "bottom"
+  "project-find-navigation":
+    showDeprecationWarning: false
   "project-viewer":
     customWidth: 63
     disclaimer:
       v1014: false
+  "scope-inspector":
+    userId: "849f37985e17708820283eacde40aade8e8608a0"
+  "status-bar": {}
   "tool-bar":
     position: "Left"
   "tree-view": {}

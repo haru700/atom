@@ -1,0 +1,70 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117420-44734-19krj1d.vpnadlhaor/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117420-44734-19krj1d.vpnadlhaor/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117420-44734-19krj1d.vpnadlhaor/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-117420-44734-hzdpax.y5z6oxyldi"
+    ]
+  ],
+  "_from": "../d-117420-44734-19krj1d.vpnadlhaor/package.tgz",
+  "_id": "scope-inspector@1.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/scope-inspector",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117420-44734-19krj1d.vpnadlhaor/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117420-44734-19krj1d.vpnadlhaor/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117420-44734-19krj1d.vpnadlhaor/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117420-44734-19krj1d.vpnadlhaor/package.tgz",
+  "_shasum": "c82568925c673d4b899267d69d6bdc68da6760d3",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117420-44734-19krj1d.vpnadlhaor/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-117420-44734-hzdpax.y5z6oxyldi",
+  "activationCommands": [],
+  "author": {
+    "name": "Tim von Oldenburg",
+    "email": "tim@tvooo.de"
+  },
+  "bugs": {
+    "url": "https://github.com/tvooo/scope-inspector/issues"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.0.3",
+    "esprima": "^1.2.1",
+    "getmac": "^1.0.6",
+    "lodash": "^2.4.1"
+  },
+  "description": "Inspect and explore JavaScript scope.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "homepage": "https://github.com/tvooo/scope-inspector#readme",
+  "license": "MIT",
+  "main": "./lib/scope-inspector",
+  "name": "scope-inspector",
+  "optionalDependencies": {},
+  "readme": "# JavaScript Scope Inspector for Atom\n\nView your JavaScript code from a different perspective. Explore nested scopes and detect variable shadowing and hoisting.\n\n**Makes use of the new Decorations API. Please upgrade your Atom and make sure to enable the [React editor view](http://blog.atom.io/2014/07/02/moving-atom-to-react.html).**\n\n![Scope Inspector](https://raw.githubusercontent.com/tvooo/scope-inspector/master/scope-inspector.gif)\n\n## This is heavy work-in-progress stuff\n\n**If you've installed after 20 July 2014, some metrics are tracked BY DEFAULT. If you want to disable this, see below.**\n\nI'm working on this as part of my Master's thesis project in Interaction Design.\n\nDon't expect it to work perfectly, especially when it comes to parsing and analyzing the scope. This is a proof-of-concept. Please report any bugs and suggestions.\n\n## Install\n\n`$ apm install scope-inspector`\n\n## Default keyboard shortcuts\n\n`ctrl+alt+i` toggles the sidebar\n\n## Metrics & feedback\n\nFrom 20 July 2014, this is **enabled** by default.\n\nScope Inspector is a project I'm doing for my thesis in Interaction Design. For my research, I would like to track some usage metrics. *Please keep tracking enabled in the package's settings view*, it will help my work a great deal.\n\nAdditionally, I am happy for any qualitative feedback I get. If you're willing to participate in an interview, please send me [an email](mailto:tim@tvooo.de).\n\nHere's what is going to be tracked:\n\n* Your, userId which is a hash generated through your MAC address. Same as what [Atom's Metrics package](https://github.com/atom/metrics/) does.\n* Plugin is enabled/disabled\n* Sidebar is toggled\n* Breadcrumbs are toggled\n* Highlighting is toggled\n* Hoisting Indication is toggled\n* Breadcrumb is hovered (scope highlight)\n* Breadcrumb is clicked (navigate to surrounding scope)\n\n### How to disable tracking\n\nOpen the Settings View, navigate to the \"Scope Inspector\" package and remove the checkmark before \"Track Usage Metrics\".\n\n## Features\n\n*\"Current scope\"* - the scope that your cursor is placed in :)\n\n### Inline\n\n#### Highlight current scope\n\n![Highlight current scope](https://raw.githubusercontent.com/tvooo/scope-inspector/master/scope-highlight.png)\n\n#### Indicate hoisted variables\n\n![Indicate hoisted variables](https://raw.githubusercontent.com/tvooo/scope-inspector/master/hoisting.png)\n\n### Breadcrumbs (bottom bar)\n\n- Show scope nesting\n- Navigate the scope-ladder upwards\n- Highlight surrounding scopes\n\n### Sidebar\n\n![Sidebar](https://raw.githubusercontent.com/tvooo/scope-inspector/master/sidebar.png)\n\nList parameters, variables and nested functions of the current and all surrounding scopes (closest is on top, furthest [global scope] on the bottom)\n\n#### Indicate if an identifier will be hoisted  \n\n![Hosting indicator](https://raw.githubusercontent.com/tvooo/scope-inspector/master/hoisted.png)\n\n#### Indicate if an identifier shadows another identifier (with the same name, in a surrounding scope)  \n\n![Shadowing](https://raw.githubusercontent.com/tvooo/scope-inspector/master/shadowing.png)\n\n#### Indicate if an identifier is shadowed  \n\n![Shadowed](https://raw.githubusercontent.com/tvooo/scope-inspector/master/shadowed.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvooo/scope-inspector.git"
+  },
+  "version": "1.0.1"
+}

@@ -1,0 +1,153 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117420-43999-1xneq1j.dl0cedbo6r/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117420-43999-1xneq1j.dl0cedbo6r/package.tgz",
+        "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117420-43999-1xneq1j.dl0cedbo6r/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-117420-43999-1ro62l5.nddl2chaor"
+    ]
+  ],
+  "_from": "../d-117420-43999-1xneq1j.dl0cedbo6r/package.tgz",
+  "_id": "symbols-view-plus@0.113.2-plus.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/symbols-view-plus",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117420-43999-1xneq1j.dl0cedbo6r/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117420-43999-1xneq1j.dl0cedbo6r/package.tgz",
+    "spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117420-43999-1xneq1j.dl0cedbo6r/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117420-43999-1xneq1j.dl0cedbo6r/package.tgz",
+  "_shasum": "c9d83caceb8c95274138fe3f6396728d2462fd02",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/d-117420-43999-1xneq1j.dl0cedbo6r/package.tgz",
+  "_where": "/private/var/folders/qm/j2lz1zs96_x_cvwml2g_2nhm0000gn/T/apm-install-dir-117420-43999-1ro62l5.nddl2chaor",
+  "bugs": {
+    "url": "https://github.com/aidistan/atom-symbols-view-plus/issues"
+  },
+  "configSchema": {
+    "originalConfigurations": {
+      "title": "Original Configurations",
+      "type": "object",
+      "properties": {
+        "useEditorGrammarAsCtagsLanguage": {
+          "title": "Use Editor Grammar As Ctags Language",
+          "description": "Force ctags to use the name of the current file's language in Atom when generating tags. By default, ctags automatically selects the language of a source file, ignoring those files whose language cannot be determined. This option forces the specified language to be used instead of automatically selecting the language based upon its extension.",
+          "type": "boolean",
+          "default": true
+        },
+        "quickJumpToFileSymbol": {
+          "title": "Quick Jump To File Symbol",
+          "description": "Automatically visit selected file-symbols",
+          "type": "boolean",
+          "default": true
+        }
+      }
+    },
+    "plusConfigurations": {
+      "title": "Plus Configurations",
+      "type": "object",
+      "properties": {
+        "extraCommandArguments": {
+          "title": "Extra Command Arguments For CTAGS",
+          "description": "Add extra [ctag command arguments](http://ctags.sourceforge.net/ctags.html), which could be an option file for overriding, like `--options=ctags-config`. Default is an empty string.",
+          "order": 1,
+          "type": "string",
+          "default": ""
+        },
+        "extraCommandArgumentsWhenGeneratingProjectSymbols": {
+          "title": "Extra Command Arguments For CTAGS When Generating Project Symbols",
+          "description": "Add extra [ctag command arguments](http://ctags.sourceforge.net/ctags.html), which usually are exclusive patterns, when generating project symbols, like `--exclude=node_modules --exclude=spec --exclude=*.html`. Default is to exclude all files ignored by git.",
+          "order": 2,
+          "type": "string",
+          "default": "--exclude=@.gitignore"
+        },
+        "updateProjectTagsAfterTogglingFileSymbols": {
+          "title": "Update Project Tags After Toggling File Symbols",
+          "order": 3,
+          "type": "boolean",
+          "default": "true"
+        },
+        "updateProjectTagsOnFileChange": {
+          "title": "Update Project Tags On File Change",
+          "order": 4,
+          "type": "boolean",
+          "default": "false"
+        },
+        "provideServiceForAutocomplete": {
+          "title": "Provide Service For Autocomplete",
+          "order": 5,
+          "type": "boolean",
+          "default": "true"
+        },
+        "provideArgumentsForAutocomplete": {
+          "title": "Provide Arguments For Autocomplete (Experimental)",
+          "description": "Work with \"Provide Service For Autocomplete\" together, try to provide function parameter completion.",
+          "order": 6,
+          "type": "boolean",
+          "default": "true"
+        },
+        "symbolsViewTheme": {
+          "title": "Symbols View Theme",
+          "order": 7,
+          "type": "string",
+          "default": "Right Panel (like 7ute/symbols-list)",
+          "enum": [
+            "Right Panel (like 7ute/symbols-list)",
+            "Modal Panel (like atom/symbols-view)"
+          ]
+        }
+      }
+    }
+  },
+  "dependencies": {
+    "async": "^0.2.6",
+    "atom-space-pen-views": "^2.0.0",
+    "ctags": "^3.0.0",
+    "fs-plus": "^2.0.0",
+    "fuzzaldrin": "^2.1.0",
+    "humanize-plus": "1.4.2",
+    "temp": "~0.8.1",
+    "underscore-plus": "~1.6.6"
+  },
+  "description": "An alternative to atom/symbols-view",
+  "devDependencies": {
+    "coffeelint": "^1.9.7"
+  },
+  "engines": {
+    "atom": ">=1.7.0 <2.0.0"
+  },
+  "homepage": "https://github.com/aidistan/atom-symbols-view-plus#readme",
+  "license": "MIT",
+  "main": "./lib/main",
+  "name": "symbols-view-plus",
+  "optionalDependencies": {},
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "provideAutocomplete"
+      }
+    }
+  },
+  "readme": "# Symbols View Plus package\n\n[![macOS Build Status](https://travis-ci.org/aidistan/atom-symbols-view-plus.svg?branch=master)](https://travis-ci.org/aidistan/atom-symbols-view-plus)\n[![Windows Build status](https://ci.appveyor.com/api/projects/status/xwvan82oo42t6qmu?svg=true)](https://ci.appveyor.com/project/aidistan/atom-symbols-view-plus)\n[![Dependency Status](https://gemnasium.com/badges/github.com/aidistan/atom-symbols-view-plus.svg)](https://gemnasium.com/github.com/aidistan/atom-symbols-view-plus)\n\nAn alternative to [atom/symbols-view](https://atom.io/packages/symbols-view)\n\n## Features\n\n- Generate project symbols\n  - Provide a command to generate the tag file of whole project\n  - Update the project tag file incrementally on file save\n  - Allow user to add extra ctag command arguments\n- Provide service for autocomplete-plus\n  - Project symbols are provided for autocomplete-plus automatically\n- Provide a new theme of symbols view\n  - Right-sidebar theme now works as default\n\n## Usage\n\nBasically the same as [atom/symbols-view](https://atom.io/packages/symbols-view), refer to [the wiki](https://github.com/aidistan/atom-symbols-view-plus/wiki) for advanced usage and faqs.\n\n## Screenshots\n\n### File Symbols\n![](https://raw.githubusercontent.com/aidistan/atom-symbols-view-plus/master/screenshots/file-symbols.png)\n\n### Project Symbols\n![](https://raw.githubusercontent.com/aidistan/atom-symbols-view-plus/master/screenshots/project-symbols.png)\n\n## License\n\n[The MIT License](https://github.com/aidistan/atom-symbols-view-plus/blob/master/LICENSE.md)\n\n## References\n\n- [atom/symbols-view](https://github.com/atom/symbols-view) : Jump to symbols in Atom\n- [atom/autocomplete-plus](https://github.com/atom/autocomplete-plus) : View and insert possible completions in the editor while typing\n- [yongkangchen/atom-ctags](https://github.com/yongkangchen/atom-ctags) : Better autocomplete for atom, using ctags\n- [7ute/symbols-list](https://github.com/7ute/symbols-list) : An alternate symbol list sidebar for Atom.io text editor\n- [xndcn/symbols-tree-view](https://github.com/xndcn/symbols-tree-view) : A symbols view like taglist for Atom.io\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidistan/atom-symbols-view-plus.git"
+  },
+  "version": "0.113.2-plus.4"
+}
